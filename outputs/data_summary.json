@@ -1,0 +1,152 @@
+{
+  "source_columns": {
+    "factories": [
+      "factory_id",
+      "latitude",
+      "longitude",
+      "base_production_per_week",
+      "production_variability",
+      "max_storage"
+    ],
+    "projects": [
+      "project_id",
+      "latitude",
+      "longitude",
+      "demand",
+      "priority_level"
+    ],
+    "deliveries": [
+      "delivery_id",
+      "factory_id",
+      "project_id",
+      "distance_km",
+      "expected_time_hours",
+      "actual_time_hours",
+      "delay_flag",
+      "date"
+    ],
+    "external_factors": [
+      "date",
+      "weather_index",
+      "traffic_index"
+    ]
+  },
+  "cleaning_summary": {
+    "row_count": 1200,
+    "column_count": 19,
+    "duplicate_rows_removed": 0,
+    "missing_values_before_cleaning": {
+      "delivery_id": 0,
+      "factory_id": 0,
+      "project_id": 0,
+      "distance_km": 0,
+      "expected_time_hours": 0,
+      "actual_time_hours": 0,
+      "delay_flag": 0,
+      "date": 0,
+      "factory_latitude": 0,
+      "factory_longitude": 0,
+      "base_production_per_week": 0,
+      "production_variability": 0,
+      "max_storage": 0,
+      "project_latitude": 0,
+      "project_longitude": 0,
+      "demand": 0,
+      "priority_level": 0,
+      "weather_index": 0,
+      "traffic_index": 0
+    },
+    "missing_values_after_cleaning": {
+      "delivery_id": 0,
+      "factory_id": 0,
+      "project_id": 0,
+      "distance_km": 0,
+      "expected_time_hours": 0,
+      "actual_time_hours": 0,
+      "delay_flag": 0,
+      "date": 0,
+      "factory_latitude": 0,
+      "factory_longitude": 0,
+      "base_production_per_week": 0,
+      "production_variability": 0,
+      "max_storage": 0,
+      "project_latitude": 0,
+      "project_longitude": 0,
+      "demand": 0,
+      "priority_level": 0,
+      "weather_index": 0,
+      "traffic_index": 0
+    },
+    "dtypes": {
+      "delivery_id": "str",
+      "factory_id": "str",
+      "project_id": "str",
+      "distance_km": "float64",
+      "expected_time_hours": "float64",
+      "actual_time_hours": "float64",
+      "delay_flag": "int64",
+      "date": "datetime64[us]",
+      "factory_latitude": "float64",
+      "factory_longitude": "float64",
+      "base_production_per_week": "int64",
+      "production_variability": "float64",
+      "max_storage": "int64",
+      "project_latitude": "float64",
+      "project_longitude": "float64",
+      "demand": "int64",
+      "priority_level": "str",
+      "weather_index": "float64",
+      "traffic_index": "float64"
+    }
+  },
+  "eda_insights": {
+    "overall_delay_rate": 0.9966666666666667,
+    "delay_distribution": {
+      "0": 4,
+      "1": 1196
+    },
+    "high_traffic_delay_rate": 1.0,
+    "low_traffic_delay_rate": 0.9931740614334471,
+    "severe_weather_delay_rate": 1.0,
+    "mild_weather_delay_rate": 0.9929328621908127,
+    "long_distance_delay_rate": 0.9966722129783694,
+    "short_distance_delay_rate": 0.996661101836394,
+    "high_demand_delay_rate": 0.9966666666666667,
+    "low_demand_delay_rate": null,
+    "priority_delay_rate": {
+      "High": 0.9974226804123711,
+      "Medium": 0.9975903614457832,
+      "Low": 0.9949622166246851
+    },
+    "factory_delay_rate": {
+      "F1": 1.0,
+      "F4": 0.9960629921259843,
+      "F2": 0.995850622406639,
+      "F5": 0.9957983193277311,
+      "F3": 0.9956896551724138
+    },
+    "strongest_numeric_correlations": {
+      "traffic_index": 0.1022134260912565,
+      "actual_time_hours": 0.024600909254158934,
+      "weather_index": 0.0232170612218408,
+      "factory_longitude": 0.020933252274775,
+      "base_production_per_week": 0.01648742438413398
+    },
+    "narrative_insights": [
+      "The dataset is extremely delay-heavy, with an overall delay rate of 99.67%. This makes business prioritization crucial and also means pure accuracy must be interpreted carefully.",
+      "High-traffic days show a delay rate of 100.00% versus 99.32% on lower-traffic days.",
+      "More severe weather days show a delay rate of 100.00% versus 99.29% when weather is milder.",
+      "Longer-distance deliveries have a delay rate of 99.67%, compared with 99.67% for shorter routes.",
+      "Demand is effectively constant in this dataset, so it does not create meaningful separation in delay risk and should be treated as a weak predictor here.",
+      "The most delay-prone factory in this sample is F1 with a delay rate of 100.00%."
+    ]
+  },
+  "row_count": 1200,
+  "factory_count": 5,
+  "project_count": 199,
+  "delivery_count": 1200,
+  "date_range": {
+    "min": "2026-04-01",
+    "max": "2026-04-30"
+  }
+}

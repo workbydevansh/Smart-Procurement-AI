@@ -1,0 +1,1201 @@
+delivery_id,factory_id,project_id,date,priority_level,predicted_delay_probability,predicted_delay_class,priority_score,delay_hours,reward_score,optimized_planning_score,recommended_action
+D11,F1,P197,2026-04-04,High,1.0,1,0.75,0.38999999999999996,-15.78,1.395144890696492,Immediate action: allocate fastest route and backup resources
+D774,F3,P31,2026-04-04,High,1.0,1,0.752599097909344,1.97,-18.939999999999998,1.3575813043150378,Immediate action: allocate fastest route and backup resources
+D883,F5,P11,2026-04-04,High,1.0,1,0.752486844511266,1.97,-18.939999999999998,1.35746905091696,Immediate action: allocate fastest route and backup resources
+D773,F3,P31,2026-04-08,High,1.0,1,0.7141507481450919,1.6500000000000001,-18.3,1.3272671690906943,Immediate action: allocate fastest route and backup resources
+D378,F5,P188,2026-04-02,High,1.0,1,0.7161356631475199,1.7700000000000002,-18.54,1.3262017536406567,Immediate action: allocate fastest route and backup resources
+D202,F1,P160,2026-04-13,High,1.0,1,0.6764630101699911,0.8900000000000001,-16.78,1.3088981906478763,Immediate action: allocate fastest route and backup resources
+D737,F5,P79,2026-04-27,High,1.0,1,0.7276675318278628,3.1800000000000006,-21.36,1.3018922395045278,Immediate action: allocate fastest route and backup resources
+D858,F5,P4,2026-04-15,High,1.0,1,0.6842328052521578,1.56,-18.12,1.2996369740371094,Immediate action: allocate fastest route and backup resources
+D684,F1,P160,2026-04-06,High,1.0,1,0.65905516619228,1.0299999999999998,-17.06,1.287931627808955,Immediate action: allocate fastest route and backup resources
+D200,F5,P188,2026-04-23,High,1.0,1,0.6779123455307174,1.7900000000000003,-18.58,1.28747004761511,Immediate action: allocate fastest route and backup resources
+D979,F5,P4,2026-04-06,High,1.0,1,0.6607008721188531,1.13,-17.259999999999998,1.287035391691807,Immediate action: allocate fastest route and backup resources
+D364,F4,P37,2026-04-25,High,0.352345799686833,0,0.28473559324552744,1.4299999999999997,12.14,1.2847355932455273,Priority project: schedule early
+D1038,F4,P83,2026-04-04,High,1.0,1,0.7597376013328186,5.15,-25.3,1.283886050748172,Immediate action: allocate fastest route and backup resources
+D680,F5,P188,2026-04-06,High,1.0,1,0.6597972576610218,1.3300000000000003,-17.66,1.2810478931465328,Immediate action: allocate fastest route and backup resources
+D787,F5,P4,2026-04-06,High,1.0,1,0.6607008721188531,1.4699999999999998,-17.939999999999998,1.278392788743154,Immediate action: allocate fastest route and backup resources
+D242,F5,P144,2026-04-04,Medium,1.0,1,0.6270840529063979,1.7400000000000002,-15.48,1.276041856668472,High risk: prioritize dispatch and monitor closely
+D165,F1,P197,2026-04-14,High,1.0,1,0.6280325760822975,0.31,-15.62,1.2752110204137668,Immediate action: allocate fastest route and backup resources
+D913,F4,P153,2026-04-08,High,1.0,1,0.7217824554126105,4.049999999999999,-23.099999999999998,1.2738922673088995,Immediate action: allocate fastest route and backup resources
+D350,F1,P197,2026-04-18,High,1.0,1,0.6226157308186884,0.14999999999999997,-15.3,1.2738612824201119,Immediate action: allocate fastest route and backup resources
+D955,F5,P79,2026-04-07,High,1.0,1,0.7092309694618104,3.6900000000000004,-22.380000000000003,1.2704917727154963,Immediate action: allocate fastest route and backup resources
+D905,F3,P174,2026-04-27,Medium,1.0,1,0.596515436092476,0.8200000000000001,-13.64,1.2688591066567871,High risk: prioritize dispatch and monitor closely
+D1120,F3,P48,2026-04-17,High,1.0,1,0.623707087823679,0.4,-15.8,1.268597784315799,Immediate action: allocate fastest route and backup resources
+D1029,F4,P17,2026-04-15,High,0.997530959752322,1,0.6837297802183641,2.77,-20.54,1.2683764502742867,Immediate action: allocate fastest route and backup resources
+D650,F5,P188,2026-04-26,High,1.0,1,0.6345132885225735,0.9000000000000001,-16.8,1.2666942747960865,Immediate action: allocate fastest route and backup resources
+D978,F5,P4,2026-04-09,High,1.0,1,0.6559912707472285,1.9499999999999997,-18.9,1.2614818655616666,Immediate action: allocate fastest route and backup resources
+D1064,F1,P197,2026-04-03,High,1.0,1,0.6105282897556794,0.16999999999999998,-15.34,1.2612654529483587,Immediate action: allocate fastest route and backup resources
+D150,F5,P11,2026-04-17,High,1.0,1,0.6258901878460281,0.8299999999999998,-16.66,1.259850533550146,Immediate action: allocate fastest route and backup resources
+D1176,F1,P197,2026-04-24,High,1.0,1,0.609515645092156,0.22000000000000003,-15.44,1.2589818372629744,Immediate action: allocate fastest route and backup resources
+D1163,F2,P198,2026-04-12,High,1.0,1,0.6159788251032348,0.49,-15.98,1.2585817737560054,Immediate action: allocate fastest route and backup resources
+D917,F5,P11,2026-04-30,High,1.0,1,0.6335412808593157,1.3,-17.6,1.255554498957943,Immediate action: allocate fastest route and backup resources
+D1030,F3,P31,2026-04-24,High,1.0,1,0.6121147430015,0.5000000000000002,-16.0,1.2544634974498985,Immediate action: allocate fastest route and backup resources
+D59,F5,P188,2026-04-28,High,1.0,1,0.6258334771209446,1.1199999999999999,-17.240000000000002,1.2524221908982704,Immediate action: allocate fastest route and backup resources
+D13,F3,P174,2026-04-02,Medium,1.0,1,0.5896037344208086,1.2000000000000002,-14.4,1.2522880252189785,High risk: prioritize dispatch and monitor closely
+D1142,F5,P11,2026-04-20,High,1.0,1,0.6130472817165811,0.6399999999999999,-16.28,1.2518373173037696,Immediate action: allocate fastest route and backup resources
+D324,F3,P73,2026-04-15,High,1.0,1,0.6900039505415786,3.71,-22.42,1.2507563653865201,Immediate action: allocate fastest route and backup resources
+D1017,F5,P118,2026-04-14,High,1.0,1,0.6309643707144517,1.42,-17.84,1.2499272583606134,Immediate action: allocate fastest route and backup resources
+D1190,F2,P102,2026-04-24,High,1.0,1,0.6169517977974122,0.9699999999999998,-16.939999999999998,1.2473534246403202,Immediate action: allocate fastest route and backup resources
+D274,F5,P11,2026-04-20,High,1.0,1,0.6130472817165811,0.8299999999999998,-16.66,1.247007627420699,Immediate action: allocate fastest route and backup resources
+D1186,F2,P97,2026-04-06,High,1.0,1,0.6691950511960387,3.0699999999999994,-21.14,1.2462158951207973,Immediate action: allocate fastest route and backup resources
+D88,F1,P88,2026-04-16,High,1.0,1,0.6419396543011702,2.0300000000000002,-19.060000000000002,1.2453966954806313,Immediate action: allocate fastest route and backup resources
+D1015,F5,P89,2026-04-12,High,1.0,1,0.6163292995135234,1.0299999999999998,-17.06,1.2452057611301985,Immediate action: allocate fastest route and backup resources
+D87,F5,P55,2026-04-10,High,1.0,1,0.6184874727817737,1.1600000000000001,-17.32,1.2440594097416109,Immediate action: allocate fastest route and backup resources
+D958,F2,P102,2026-04-10,High,1.0,1,0.6156658998119856,1.0899999999999999,-17.18,1.243017196202428,Immediate action: allocate fastest route and backup resources
+D209,F3,P15,2026-04-24,High,1.0,1,0.6179681735872494,1.1899999999999995,-17.38,1.2427775279339703,Immediate action: allocate fastest route and backup resources
+D645,F5,P89,2026-04-28,High,1.0,1,0.6262789351757608,1.52,-18.04,1.242699880778201,Immediate action: allocate fastest route and backup resources
+D174,F5,P59,2026-04-02,Medium,1.0,1,0.5901558586004954,1.62,-15.24,1.2421639928150352,High risk: prioritize dispatch and monitor closely
+D552,F5,P49,2026-04-28,High,1.0,1,0.6281826715377349,1.6300000000000003,-18.26,1.2418074808920814,Immediate action: allocate fastest route and backup resources
+D277,F2,P34,2026-04-07,High,1.0,1,0.7150610350868739,5.11,-25.22,1.240226261319716,Immediate action: allocate fastest route and backup resources
+D84,F2,P130,2026-04-02,High,1.0,1,0.7236967675990528,5.47,-25.939999999999998,1.2397110024744977,Immediate action: allocate fastest route and backup resources
+D863,F3,P196,2026-04-20,High,1.0,1,0.6214866039295476,1.4699999999999998,-17.939999999999998,1.2391785205538484,Immediate action: allocate fastest route and backup resources
+D132,F2,P193,2026-04-02,Medium,1.0,1,0.5908959183335253,1.83,-15.66,1.2375659742562504,High risk: prioritize dispatch and monitor closely
+D756,F5,P52,2026-04-14,High,1.0,1,0.6341034023892115,2.0400000000000005,-19.080000000000002,1.2373062493643006,Immediate action: allocate fastest route and backup resources
+D425,F3,P73,2026-04-21,High,1.0,1,0.671503093276255,3.5599999999999996,-22.119999999999997,1.2360684211867787,Immediate action: allocate fastest route and backup resources
+D229,F4,P183,2026-04-20,High,1.0,1,0.6259767398526667,1.790000000000001,-18.580000000000002,1.235534441937059,Immediate action: allocate fastest route and backup resources
+D976,F3,P167,2026-04-10,High,1.0,1,0.6127412162548227,1.3199999999999998,-17.64,1.2342460459447058,Immediate action: allocate fastest route and backup resources
+D794,F3,P73,2026-04-08,High,1.0,1,0.7211709029633532,5.589999999999999,-26.18,1.2341348073863323,Immediate action: allocate fastest route and backup resources
+D423,F3,P137,2026-04-19,High,1.0,1,0.6317942344940181,2.0900000000000007,-19.18,1.2337261104472463,Immediate action: allocate fastest route and backup resources
+D778,F4,P153,2026-04-30,High,1.0,1,0.6412852415249123,2.4699999999999998,-19.939999999999998,1.2335577377119993,Immediate action: allocate fastest route and backup resources
+D430,F3,P96,2026-04-12,High,1.0,1,0.6271183240772081,1.9699999999999998,-18.939999999999998,1.232100530482902,Immediate action: allocate fastest route and backup resources
+D61,F1,P106,2026-04-27,Medium,1.0,1,0.5996219599958467,2.39,-16.78,1.2320571404737317,High risk: prioritize dispatch and monitor closely
+D116,F3,P103,2026-04-10,High,1.0,1,0.622482373125137,1.79,-18.58,1.2320400752095293,Immediate action: allocate fastest route and backup resources
+D701,F5,P52,2026-04-14,High,1.0,1,0.6341034023892115,2.31,-19.62,1.2304430058462525,Immediate action: allocate fastest route and backup resources
+D367,F5,P11,2026-04-25,High,0.9850914042719903,1,0.5950754593345636,0.78,-16.560000000000002,1.2303067760605422,Immediate action: allocate fastest route and backup resources
+D641,F5,P163,2026-04-21,High,1.0,1,0.6756534214015725,3.9499999999999993,-22.9,1.2303051753415826,Immediate action: allocate fastest route and backup resources
+D627,F3,P198,2026-04-10,High,1.0,1,0.6173822085545444,1.67,-18.34,1.2299902410914023,Immediate action: allocate fastest route and backup resources
+D775,F1,P47,2026-04-21,High,1.0,1,0.67630713236685,4.03,-23.060000000000002,1.228925332671883,Immediate action: allocate fastest route and backup resources
+D1192,F1,P153,2026-04-24,High,1.0,1,0.6172646850970323,1.7100000000000009,-18.42,1.228855940816402,Immediate action: allocate fastest route and backup resources
+D453,F4,P55,2026-04-12,High,1.0,1,0.6288651088554442,2.210000000000001,-19.42,1.2277466543562068,Immediate action: allocate fastest route and backup resources
+D1090,F3,P103,2026-04-19,High,1.0,1,0.6311461108019479,2.3,-19.6,1.2277399084633611,Immediate action: allocate fastest route and backup resources
+D657,F1,P64,2026-04-15,High,1.0,1,0.6898896654077887,4.62,-24.240000000000002,1.2275104076548655,Immediate action: allocate fastest route and backup resources
+D93,F1,P153,2026-04-23,High,1.0,1,0.6827168925552405,4.35,-23.7,1.227200878320365,Immediate action: allocate fastest route and backup resources
+D1105,F3,P198,2026-04-28,High,1.0,1,0.6320414455884064,2.37,-19.740000000000002,1.2268558838192147,Immediate action: allocate fastest route and backup resources
+D254,F2,P34,2026-04-04,High,1.0,1,0.7633947256140922,7.55,-30.1,1.2265365659801317,Immediate action: allocate fastest route and backup resources
+D106,F2,P102,2026-04-01,High,1.0,1,0.6200861741368892,1.92,-18.84,1.2263393515644436,Immediate action: allocate fastest route and backup resources
+D1143,F2,P109,2026-04-23,High,1.0,1,0.6895323500005359,4.680000000000001,-24.36,1.22562792702138,Immediate action: allocate fastest route and backup resources
+D109,F4,P65,2026-04-21,High,1.0,1,0.6758540553031145,4.18,-23.36,1.2246593425425654,Immediate action: allocate fastest route and backup resources
+D910,F1,P34,2026-04-25,High,0.9851004951366688,1,0.6043814215098642,1.38,-17.759999999999998,1.2243610859735143,Immediate action: allocate fastest route and backup resources
+D615,F1,P67,2026-04-17,High,1.0,1,0.6368077196934854,2.670000000000001,-20.340000000000003,1.2239963317931295,Immediate action: allocate fastest route and backup resources
+D750,F4,P54,2026-04-30,High,0.997530959752322,1,0.6391487009788164,2.7799999999999994,-20.56,1.2235411768303668,Immediate action: allocate fastest route and backup resources
+D510,F3,P198,2026-04-17,High,1.0,1,0.632555804782577,2.5599999999999996,-20.119999999999997,1.2225405531303146,Immediate action: allocate fastest route and backup resources
+D185,F2,P56,2026-04-12,High,0.9975078125,1,0.6290165868357676,2.4499999999999993,-19.9,1.2217974714315987,Immediate action: allocate fastest route and backup resources
+D416,F2,P163,2026-04-19,High,1.0,1,0.6272990192316195,2.41,-19.82,1.2210966806449393,Immediate action: allocate fastest route and backup resources
+D748,F1,P23,2026-04-06,High,1.0,1,0.6739533762331179,4.260000000000002,-23.520000000000003,1.2207251098375917,Immediate action: allocate fastest route and backup resources
+D386,F3,P73,2026-04-28,High,1.0,1,0.6325082368681967,2.63,-20.259999999999998,1.2207136257853293,Immediate action: allocate fastest route and backup resources
+D985,F1,P67,2026-04-06,High,1.0,1,0.6702571410393919,4.12,-23.240000000000002,1.2205875935050756,Immediate action: allocate fastest route and backup resources
+D1199,F3,P103,2026-04-18,High,1.0,1,0.6368683568370959,2.8099999999999996,-20.619999999999997,1.2204982500755301,Immediate action: allocate fastest route and backup resources
+D784,F2,P88,2026-04-12,High,1.0,1,0.631790808280463,2.619999999999999,-20.24,1.2202503914019678,Immediate action: allocate fastest route and backup resources
+D704,F4,P131,2026-04-15,High,1.0,1,0.6941410723847692,5.08,-25.16,1.2200688812307274,Immediate action: allocate fastest route and backup resources
+D204,F3,P23,2026-04-05,High,1.0,1,0.6150348662568819,1.9900000000000002,-18.98,1.2195086842538314,Immediate action: allocate fastest route and backup resources
+D730,F2,P73,2026-04-12,High,0.9975078125,1,0.6282953206580719,2.549999999999999,-20.099999999999998,1.2185342632101817,Immediate action: allocate fastest route and backup resources
+D248,F2,P102,2026-04-11,High,0.987641163563158,1,0.6166224047142511,2.13,-19.259999999999998,1.2175375038499907,Immediate action: allocate fastest route and backup resources
+D530,F5,P97,2026-04-17,High,1.0,1,0.6372023843555061,2.9399999999999995,-20.88,1.2175277529371025,Immediate action: allocate fastest route and backup resources
+D870,F2,P23,2026-04-05,High,0.9975026096033404,1,0.6058691756418125,1.7199999999999998,-18.439999999999998,1.21720623715681,Immediate action: allocate fastest route and backup resources
+D630,F4,P54,2026-04-06,High,0.9950465360763096,1,0.6636691112410406,4.0,-23.0,1.21704989415919,Immediate action: allocate fastest route and backup resources
+D892,F2,P45,2026-04-15,Medium,1.0,1,0.5587116650420764,1.4100000000000001,-14.82,1.2160578775484312,High risk: prioritize dispatch and monitor closely
+D391,F3,P170,2026-04-28,High,1.0,1,0.6344693697640296,2.92,-20.84,1.2153031267543701,Immediate action: allocate fastest route and backup resources
+D446,F4,P37,2026-04-04,High,0.9651220435592468,1,0.7496733792712204,7.479999999999999,-29.959999999999997,1.214594579067865,Immediate action: allocate fastest route and backup resources
+D527,F5,P55,2026-04-14,High,1.0,1,0.6382903017573417,3.130000000000001,-21.26,1.2137859804558673,Immediate action: allocate fastest route and backup resources
+D935,F2,P163,2026-04-13,High,1.0,1,0.6846661431064588,4.959999999999999,-24.919999999999998,1.2136442824048828,Immediate action: allocate fastest route and backup resources
+D936,F1,P23,2026-04-01,High,1.0,1,0.6297506329840823,2.8000000000000007,-20.6,1.2136347204268887,Immediate action: allocate fastest route and backup resources
+D536,F3,P47,2026-04-19,High,1.0,1,0.6287420595209386,2.79,-20.58,1.212880341168117,Immediate action: allocate fastest route and backup resources
+D800,F4,P153,2026-04-16,High,1.0,1,0.6442588806162111,3.4399999999999995,-21.88,1.2118745389792003,Immediate action: allocate fastest route and backup resources
+D136,F2,P189,2026-04-16,High,1.0,1,0.6521171264155975,3.780000000000001,-22.560000000000002,1.211090181829934,Immediate action: allocate fastest route and backup resources
+D531,F5,P123,2026-04-02,Medium,1.0,1,0.5958543693382186,3.0699999999999994,-18.14,1.211004343918798,High risk: prioritize dispatch and monitor closely
+D516,F5,P97,2026-04-26,High,1.0,1,0.6453678365629644,3.5199999999999996,-22.04,1.2109499412909766,Immediate action: allocate fastest route and backup resources
+D267,F5,P97,2026-04-08,High,1.0,1,0.725350691256492,6.67,-28.34,1.2108616216072798,Immediate action: allocate fastest route and backup resources
+D592,F2,P57,2026-04-15,Medium,1.0,1,0.5577902728967666,1.64,-15.28,1.2092900187025624,High risk: prioritize dispatch and monitor closely
+D1141,F4,P183,2026-04-20,High,1.0,1,0.6259767398526667,2.8400000000000016,-20.680000000000003,1.2088440504779843,Immediate action: allocate fastest route and backup resources
+D498,F1,P23,2026-04-22,High,1.0,1,0.712674979319273,6.270000000000001,-27.540000000000003,1.2083536778449466,Immediate action: allocate fastest route and backup resources
+D1049,F1,P198,2026-04-12,High,1.0,1,0.6371474794846728,3.370000000000001,-21.740000000000002,1.206542497278267,Immediate action: allocate fastest route and backup resources
+D275,F4,P52,2026-04-01,High,1.0,1,0.641357939105702,3.5500000000000007,-22.1,1.2061774612205978,Immediate action: allocate fastest route and backup resources
+D161,F3,P15,2026-04-09,High,1.0,1,0.6605956918041375,4.319999999999999,-23.64,1.2058422601823784,Immediate action: allocate fastest route and backup resources
+D1002,F1,P17,2026-04-01,High,1.0,1,0.6279581341523304,3.039999999999999,-21.08,1.2057415606902053,Immediate action: allocate fastest route and backup resources
+D103,F4,P153,2026-04-22,High,1.0,1,0.7058051729436864,6.129999999999999,-27.259999999999998,1.20504259033057,Immediate action: allocate fastest route and backup resources
+D164,F5,P138,2026-04-22,Medium,1.0,1,0.5780628376666592,2.66,-17.32,1.2036347746264964,High risk: prioritize dispatch and monitor closely
+D70,F1,P180,2026-04-26,High,1.0,1,0.6427895639446666,3.719999999999999,-22.439999999999998,1.2032877845852359,Immediate action: allocate fastest route and backup resources
+D1139,F3,P56,2026-04-20,High,1.0,1,0.6417074536014222,3.7300000000000004,-22.46,1.2019514800376194,Immediate action: allocate fastest route and backup resources
+D297,F2,P37,2026-04-17,High,0.9925259984273279,1,0.6442389275364662,3.83,-22.66,1.201941011928942,Immediate action: allocate fastest route and backup resources
+D875,F4,P54,2026-04-12,High,0.9950465360763096,1,0.619755695038726,2.87,-20.740000000000002,1.201860423050927,Immediate action: allocate fastest route and backup resources
+D482,F1,P130,2026-04-24,High,1.0,1,0.6445701971960184,3.879999999999999,-22.759999999999998,1.2010013105666335,Immediate action: allocate fastest route and backup resources
+D113,F2,P67,2026-04-01,High,1.0,1,0.6259101445548172,3.16,-21.32,1.2006432406402263,Immediate action: allocate fastest route and backup resources
+D637,F5,P125,2026-04-01,High,1.0,1,0.6418745079104319,3.8200000000000003,-22.64,1.1998307865072797,Immediate action: allocate fastest route and backup resources
+D569,F2,P160,2026-04-01,High,1.0,1,0.6390209351031827,3.74,-22.48,1.1990107673350077,Immediate action: allocate fastest route and backup resources
+D101,F3,P174,2026-04-09,Medium,1.0,1,0.528555727562686,0.8999999999999999,-13.8,1.19886584449202,High risk: prioritize dispatch and monitor closely
+D1080,F3,P73,2026-04-17,High,1.0,1,0.6330225960623673,3.5200000000000005,-22.04,1.1986047007903795,Immediate action: allocate fastest route and backup resources
+D1122,F2,P153,2026-04-24,High,1.0,1,0.6374799474956994,3.709999999999999,-22.419999999999998,1.1982323623406408,Immediate action: allocate fastest route and backup resources
+D53,F5,P23,2026-04-28,High,1.0,1,0.6462834049943268,4.0600000000000005,-23.12,1.1981390226862434,Immediate action: allocate fastest route and backup resources
+D1116,F4,P29,2026-04-27,Medium,1.0,1,0.6006180184285658,3.8100000000000005,-19.62,1.1969576218856068,High risk: prioritize dispatch and monitor closely
+D776,F4,P167,2026-04-20,High,1.0,1,0.6504271553426197,4.270000000000003,-23.540000000000006,1.1969446947427214,Immediate action: allocate fastest route and backup resources
+D489,F3,P96,2026-04-30,High,1.0,1,0.6452334119469038,4.069999999999999,-23.14,1.1968348354344482,Immediate action: allocate fastest route and backup resources
+D10,F5,P130,2026-04-28,High,1.0,1,0.6420878707494214,3.9700000000000006,-22.94,1.1962312362806873,Immediate action: allocate fastest route and backup resources
+D486,F4,P83,2026-04-26,High,0.9975155763239876,1,0.6400284788046443,3.92,-22.84,1.1954428153577707,Immediate action: allocate fastest route and backup resources
+D2,F1,P103,2026-04-07,High,1.0,1,0.7220629042837288,7.18,-29.36,1.1946099302115376,Immediate action: allocate fastest route and backup resources
+D1159,F3,P137,2026-04-15,High,1.0,1,0.695285447524451,6.13,-27.259999999999998,1.1945228649113346,Immediate action: allocate fastest route and backup resources
+D475,F1,P7,2026-04-24,High,1.0,1,0.6336506336128492,3.710000000000001,-22.42,1.1944030484577906,Immediate action: allocate fastest route and backup resources
+D649,F3,P47,2026-04-21,High,1.0,1,0.673732415286048,5.29,-25.58,1.1943221458401914,Immediate action: allocate fastest route and backup resources
+D991,F5,P117,2026-04-13,Medium,1.0,1,0.5556473698684816,2.15,-16.3,1.194183211251298,High risk: prioritize dispatch and monitor closely
+D412,F1,P180,2026-04-16,High,1.0,1,0.6452488438417947,4.209999999999999,-23.419999999999998,1.193291548468129,Immediate action: allocate fastest route and backup resources
+D980,F2,P188,2026-04-10,High,1.0,1,0.630233444865725,3.630000000000001,-22.26,1.1930194133456435,Immediate action: allocate fastest route and backup resources
+D1003,F2,P34,2026-04-28,High,1.0,1,0.6362837097546836,3.87,-22.740000000000002,1.1929690173296708,Immediate action: allocate fastest route and backup resources
+D362,F2,P183,2026-04-19,High,1.0,1,0.6407806015473918,4.050000000000001,-23.1,1.1928904134436804,Immediate action: allocate fastest route and backup resources
+D572,F4,P83,2026-04-12,High,0.9975155763239876,1,0.621399031740778,3.3100000000000005,-21.62,1.1923192147606052,Immediate action: allocate fastest route and backup resources
+D192,F2,P194,2026-04-23,High,1.0,1,0.685532370317893,5.84,-26.68,1.1921414196315685,Immediate action: allocate fastest route and backup resources
+D1182,F1,P81,2026-04-27,Medium,1.0,1,0.6024039141192543,4.069999999999999,-20.14,1.1921344682626198,High risk: prioritize dispatch and monitor closely
+D596,F2,P189,2026-04-02,High,1.0,1,0.7312802211434157,7.650000000000002,-30.300000000000004,1.1918801194657338,Immediate action: allocate fastest route and backup resources
+D71,F1,P11,2026-04-12,High,1.0,1,0.644671504759465,4.25,-23.5,1.191697432568311,Immediate action: allocate fastest route and backup resources
+D1011,F5,P48,2026-04-10,High,1.0,1,0.6445663244447494,4.25,-23.5,1.1915922522535953,Immediate action: allocate fastest route and backup resources
+D32,F3,P96,2026-04-21,High,1.0,1,0.6760628161475039,5.489999999999999,-25.979999999999997,1.1915686626142044,Immediate action: allocate fastest route and backup resources
+D732,F2,P168,2026-04-08,Medium,1.0,1,0.5966737575520282,3.88,-19.759999999999998,1.1912340015784644,High risk: prioritize dispatch and monitor closely
+D909,F1,P113,2026-04-13,Medium,1.0,1,0.5535821105174179,2.21,-16.42,1.1905927866740016,High risk: prioritize dispatch and monitor closely
+D389,F1,P31,2026-04-26,High,1.0,1,0.6589616722768147,4.860000000000001,-24.720000000000002,1.19048175361896,Immediate action: allocate fastest route and backup resources
+D698,F2,P96,2026-04-14,High,1.0,1,0.6456040423859607,4.35,-23.7,1.1900880281510853,Immediate action: allocate fastest route and backup resources
+D582,F1,P68,2026-04-06,High,1.0,1,0.6793608408301232,5.76,-26.52,1.188003443778776,Immediate action: allocate fastest route and backup resources
+D69,F2,P28,2026-04-17,High,0.9975026096033404,1,0.6449920361894911,4.460000000000001,-23.92,1.1866798857065222,Immediate action: allocate fastest route and backup resources
+D1185,F3,P137,2026-04-20,High,1.0,1,0.6254611869157927,3.7299999999999995,-22.46,1.1857052133519899,Immediate action: allocate fastest route and backup resources
+D1124,F2,P83,2026-04-16,High,1.0,1,0.651115480709671,4.75,-24.5,1.1854316982999098,Immediate action: allocate fastest route and backup resources
+D746,F1,P132,2026-04-09,High,1.0,1,0.6661032193849498,5.34,-25.68,1.1854219789172324,Immediate action: allocate fastest route and backup resources
+D410,F5,P153,2026-04-10,High,1.0,1,0.6411855162202832,4.370000000000001,-23.740000000000002,1.1851611135766635,Immediate action: allocate fastest route and backup resources
+D550,F3,P170,2026-04-26,High,1.0,1,0.6431491811656584,4.459999999999999,-23.919999999999998,1.1848370306826894,Immediate action: allocate fastest route and backup resources
+D1114,F3,P88,2026-04-17,High,1.0,1,0.6412932842112529,4.42,-23.84,1.1839979105457723,Immediate action: allocate fastest route and backup resources
+D533,F3,P70,2026-04-24,High,1.0,1,0.635099261175376,4.18,-23.36,1.183904548414827,Immediate action: allocate fastest route and backup resources
+D817,F2,P49,2026-04-07,High,1.0,1,0.7212390354525863,7.580000000000002,-30.160000000000004,1.1836182932055095,Immediate action: allocate fastest route and backup resources
+D216,F4,P55,2026-04-12,High,1.0,1,0.6288651088554442,3.9700000000000006,-22.94,1.18300847438671,Immediate action: allocate fastest route and backup resources
+D146,F2,P45,2026-04-26,Medium,1.0,1,0.5098957627703233,0.8200000000000003,-13.64,1.1822394333346344,High risk: prioritize dispatch and monitor closely
+D338,F2,P49,2026-04-12,High,1.0,1,0.6325120744581586,4.16,-23.32,1.1818257501063538,Immediate action: allocate fastest route and backup resources
+D1113,F2,P154,2026-04-26,Medium,1.0,1,0.5093441465245646,0.8200000000000001,-13.64,1.1816878170888758,High risk: prioritize dispatch and monitor closely
+D330,F3,P102,2026-04-06,High,1.0,1,0.6706782182656663,5.68,-26.36,1.1813543748492963,Immediate action: allocate fastest route and backup resources
+D593,F2,P83,2026-04-27,High,1.0,1,0.7371902771091566,8.340000000000002,-31.680000000000003,1.180250775329797,Immediate action: allocate fastest route and backup resources
+D77,F2,P163,2026-04-05,High,1.0,1,0.6116271375342341,3.42,-21.84,1.1797511843059678,Immediate action: allocate fastest route and backup resources
+D545,F3,P103,2026-04-06,High,1.0,1,0.6711053906990762,5.760000000000001,-26.520000000000003,1.1797479936477289,Immediate action: allocate fastest route and backup resources
+D1178,F5,P59,2026-04-26,Medium,1.0,1,0.508533483975549,0.8999999999999999,-13.8,1.1788436009048828,High risk: prioritize dispatch and monitor closely
+D1121,F3,P47,2026-04-12,High,1.0,1,0.6247879232157523,3.9799999999999995,-22.96,1.178677094542646,Immediate action: allocate fastest route and backup resources
+D210,F1,P97,2026-04-10,High,1.0,1,0.6285115488499587,4.16,-23.32,1.177825224498154,Immediate action: allocate fastest route and backup resources
+D944,F5,P34,2026-04-28,High,1.0,1,0.6454585202953285,4.85,-24.7,1.1772327958418458,Immediate action: allocate fastest route and backup resources
+D801,F5,P47,2026-04-05,High,1.0,1,0.6300580280439966,4.290000000000001,-23.580000000000002,1.1760671790353538,Immediate action: allocate fastest route and backup resources
+D1085,F4,P131,2026-04-16,High,0.9975155763239876,1,0.6465065319397496,4.959999999999999,-24.919999999999998,1.1754846712381735,Immediate action: allocate fastest route and backup resources
+D880,F4,P60,2026-04-21,Medium,1.0,1,0.5463623955782115,2.5300000000000002,-17.060000000000002,1.1752388571948866,High risk: prioritize dispatch and monitor closely
+D833,F3,P128,2026-04-16,High,1.0,1,0.6606174006999186,5.530000000000001,-26.060000000000002,1.1751064703491305,Immediate action: allocate fastest route and backup resources
+D75,F5,P184,2026-04-07,Medium,1.0,1,0.5881207274820871,4.1899999999999995,-20.38,1.1748009511729869,High risk: prioritize dispatch and monitor closely
+D894,F2,P109,2026-04-02,High,1.0,1,0.7277556676173383,8.21,-31.42,1.1741206904948167,Immediate action: allocate fastest route and backup resources
+D503,F4,P180,2026-04-19,High,0.9975155763239876,1,0.6296386065961178,4.39,-23.78,1.1731058155437537,Immediate action: allocate fastest route and backup resources
+D839,F2,P4,2026-04-27,High,1.0,1,0.7421187600121005,8.830000000000002,-32.660000000000004,1.1727237422185062,Immediate action: allocate fastest route and backup resources
+D291,F1,P128,2026-04-20,High,1.0,1,0.6258370580224791,4.27,-23.54,1.1723545974225806,Immediate action: allocate fastest route and backup resources
+D540,F1,P135,2026-04-12,High,1.0,1,0.6479619007447552,5.16,-25.32,1.1718561559557363,Immediate action: allocate fastest route and backup resources
+D376,F3,P97,2026-04-10,High,1.0,1,0.6331286682550665,4.59,-24.18,1.1715119931152596,Immediate action: allocate fastest route and backup resources
+D930,F4,P97,2026-04-10,High,0.9975155763239876,1,0.6215092154115152,4.1499999999999995,-23.299999999999997,1.1710770852640824,Immediate action: allocate fastest route and backup resources
+D543,F4,P51,2026-04-07,High,1.0,1,0.7185358110880117,7.99,-30.98,1.170493106461677,Immediate action: allocate fastest route and backup resources
+D865,F1,P109,2026-04-01,High,1.0,1,0.6510157948118318,5.350000000000001,-25.700000000000003,1.1700803601397423,Immediate action: allocate fastest route and backup resources
+D221,F2,P96,2026-04-12,High,1.0,1,0.6305108147820173,4.550000000000001,-24.1,1.169910916459699,Immediate action: allocate fastest route and backup resources
+D458,F1,P132,2026-04-04,High,1.0,1,0.7639600560759057,9.81,-34.620000000000005,1.1696540062538414,Immediate action: allocate fastest route and backup resources
+D112,F5,P123,2026-04-16,Medium,1.0,1,0.5166912746104003,1.6099999999999994,-15.219999999999999,1.1689536030293124,High risk: prioritize dispatch and monitor closely
+D474,F5,P39,2026-04-12,Medium,1.0,1,0.4911002213120158,0.6200000000000001,-13.24,1.1685277759637698,High risk: prioritize dispatch and monitor closely
+D317,F5,P97,2026-04-13,High,1.0,1,0.6880596496791238,6.880000000000001,-28.76,1.1682325017380968,Immediate action: allocate fastest route and backup resources
+D815,F3,P72,2026-04-20,Medium,1.0,1,0.491183265787773,0.6699999999999999,-13.34,1.167339849417666,High risk: prioritize dispatch and monitor closely
+D363,F2,P88,2026-04-04,High,1.0,1,0.7688514598021089,10.11,-35.22,1.1669195838488806,Immediate action: allocate fastest route and backup resources
+D983,F4,P34,2026-04-16,High,0.9975155763239876,1,0.6462058350544004,5.32,-25.64,1.1660329829954272,Immediate action: allocate fastest route and backup resources
+D58,F4,P189,2026-04-28,High,1.0,1,0.6464921658387162,5.379999999999999,-25.759999999999998,1.1647941485535103,Immediate action: allocate fastest route and backup resources
+D1084,F3,P30,2026-04-19,Medium,1.0,1,0.49440166251978057,0.9300000000000002,-13.86,1.1639491968359983,High risk: prioritize dispatch and monitor closely
+D126,F2,P7,2026-04-19,High,1.0,1,0.631861789706436,4.84,-24.68,1.1638902594573257,Immediate action: allocate fastest route and backup resources
+D693,F2,P54,2026-04-09,High,1.0,1,0.6684615566124432,6.279999999999999,-27.56,1.1638860609337447,Immediate action: allocate fastest route and backup resources
+D394,F4,P172,2026-04-20,High,1.0,1,0.6384236607571954,5.110000000000001,-25.220000000000002,1.1635888869900373,Immediate action: allocate fastest route and backup resources
+D561,F3,P109,2026-04-05,High,1.0,1,0.6170254593205362,4.27,-23.54,1.1635429987206378,Immediate action: allocate fastest route and backup resources
+D966,F3,P193,2026-04-04,Medium,1.0,1,0.6397661472195697,6.680000000000001,-25.36,1.1631520140218066,High risk: prioritize dispatch and monitor closely
+D1169,F2,P118,2026-04-10,High,1.0,1,0.6272838725460923,4.74,-24.48,1.1618542843407034,Immediate action: allocate fastest route and backup resources
+D307,F3,P30,2026-04-20,Medium,1.0,1,0.48806861494155507,0.7800000000000002,-13.56,1.1614290623233547,High risk: prioritize dispatch and monitor closely
+D427,F3,P161,2026-04-17,High,1.0,1,0.6632771725470582,6.190000000000001,-27.380000000000003,1.1609894247077088,Immediate action: allocate fastest route and backup resources
+D1009,F2,P96,2026-04-23,High,1.0,1,0.6925393188540275,7.35,-29.7,1.1607650433075098,Immediate action: allocate fastest route and backup resources
+D678,F1,P83,2026-04-03,High,1.0,1,0.6295128282469125,4.93,-24.86,1.1592535501584529,Immediate action: allocate fastest route and backup resources
+D837,F5,P176,2026-04-17,Medium,1.0,1,0.5017120249414587,1.4100000000000001,-14.82,1.1590582374478136,High risk: prioritize dispatch and monitor closely
+D720,F1,P113,2026-04-12,Medium,1.0,1,0.4922608503373922,1.06,-14.120000000000001,1.1585038599967719,High risk: prioritize dispatch and monitor closely
+D115,F3,P171,2026-04-23,Medium,1.0,1,0.5627759144776688,3.84,-19.68,1.1583529353215936,High risk: prioritize dispatch and monitor closely
+D1112,F5,P130,2026-04-21,High,1.0,1,0.6810827271574798,7.0,-29.0,1.1582052487639871,Immediate action: allocate fastest route and backup resources
+D580,F5,P177,2026-04-22,Medium,1.0,1,0.5785148988625388,4.47,-20.939999999999998,1.1580776848310186,High risk: prioritize dispatch and monitor closely
+D612,F5,P71,2026-04-23,Medium,1.0,1,0.5579175264567825,3.6599999999999993,-19.32,1.1580700429794057,High risk: prioritize dispatch and monitor closely
+D344,F5,P59,2026-04-10,Medium,1.0,1,0.4851944355400581,0.8000000000000003,-13.600000000000001,1.1580464945131135,High risk: prioritize dispatch and monitor closely
+D697,F1,P130,2026-04-28,High,1.0,1,0.6579435362444538,6.109999999999999,-27.22,1.1576893420400816,Immediate action: allocate fastest route and backup resources
+D769,F3,P97,2026-04-05,High,1.0,1,0.6261205242344922,4.859999999999999,-24.72,1.1576406055766375,Immediate action: allocate fastest route and backup resources
+D342,F2,P137,2026-04-06,High,1.0,1,0.6707290116584618,6.63,-28.259999999999998,1.1572567188267384,Immediate action: allocate fastest route and backup resources
+D727,F2,P193,2026-04-10,Medium,1.0,1,0.485934495273088,0.8900000000000001,-13.780000000000001,1.156498806406794,High risk: prioritize dispatch and monitor closely
+D613,F1,P113,2026-04-26,Medium,1.0,1,0.5108902974012585,1.92,-15.84,1.155272605484634,High risk: prioritize dispatch and monitor closely
+D635,F4,P65,2026-04-25,High,0.8706213260402818,1,0.5476786221058284,1.8800000000000008,-18.76,1.1549485763508716,Immediate action: allocate fastest route and backup resources
+D34,F2,P154,2026-04-03,Medium,1.0,1,0.48830364073802357,1.05,-14.1,1.1548008446017755,High risk: prioritize dispatch and monitor closely
+D1102,F2,P160,2026-04-15,High,1.0,1,0.706755611485523,8.15,-31.3,1.1546457995892343,Immediate action: allocate fastest route and backup resources
+D1129,F5,P77,2026-04-24,Medium,1.0,1,0.4902984728619197,1.1400000000000006,-14.280000000000001,1.1545079288863223,High risk: prioritize dispatch and monitor closely
+D889,F5,P129,2026-04-26,Medium,1.0,1,0.5148643724535757,2.12,-16.240000000000002,1.1541627964495085,High risk: prioritize dispatch and monitor closely
+D142,F2,P12,2026-04-17,Medium,1.0,1,0.5058440674453698,1.7699999999999996,-15.54,1.1540392885943276,High risk: prioritize dispatch and monitor closely
+D477,F2,P88,2026-04-13,High,1.0,1,0.6931120684604887,7.640000000000001,-30.28,1.153966160987179,Immediate action: allocate fastest route and backup resources
+D795,F2,P125,2026-04-05,High,1.0,1,0.618281579924368,4.700000000000001,-24.400000000000002,1.1538687685364675,Immediate action: allocate fastest route and backup resources
+D988,F3,P88,2026-04-27,High,1.0,1,0.7379928127153249,9.410000000000002,-33.82000000000001,1.1538545310681463,Immediate action: allocate fastest route and backup resources
+D549,F2,P88,2026-04-29,High,0.9950104221033402,1,0.6162849604488191,4.65,-24.3,1.1531431200827793,Immediate action: allocate fastest route and backup resources
+D119,F4,P89,2026-04-04,High,1.0,1,0.7699318352668685,10.7,-36.4,1.153002501255684,Immediate action: allocate fastest route and backup resources
+D768,F1,P131,2026-04-11,High,1.0,1,0.6431078503010857,5.75,-26.5,1.1520046474541106,Immediate action: allocate fastest route and backup resources
+D546,F1,P54,2026-04-11,High,1.0,1,0.6290436677699494,5.210000000000001,-25.42,1.1516669519590699,Immediate action: allocate fastest route and backup resources
+D148,F4,P47,2026-04-02,High,1.0,1,0.7367618440939023,9.47,-33.94,1.151098397220491,Immediate action: allocate fastest route and backup resources
+D422,F5,P177,2026-04-28,Medium,1.0,1,0.5058295152363066,1.8999999999999995,-15.799999999999999,1.1507202117284265,High risk: prioritize dispatch and monitor closely
+D343,F3,P35,2026-04-20,Medium,1.0,1,0.4936767134401024,1.4699999999999998,-14.94,1.1494977607202244,High risk: prioritize dispatch and monitor closely
+D555,F5,P128,2026-04-17,High,1.0,1,0.6420755024603031,5.84,-26.68,1.1486845517739788,Immediate action: allocate fastest route and backup resources
+D509,F4,P103,2026-04-24,High,1.0,1,0.6325311472356372,5.49,-25.98,1.1480369937023376,Immediate action: allocate fastest route and backup resources
+D256,F2,P80,2026-04-15,Medium,1.0,1,0.5701112261871626,4.56,-21.119999999999997,1.1473862643162933,High risk: prioritize dispatch and monitor closely
+D647,F5,P125,2026-04-15,High,1.0,1,0.7096091842927722,8.600000000000001,-32.2,1.146060633199737,Immediate action: allocate fastest route and backup resources
+D39,F1,P172,2026-04-02,High,1.0,1,0.7340814767560856,9.58,-34.16,1.1456218936345808,Immediate action: allocate fastest route and backup resources
+D452,F2,P189,2026-04-28,High,1.0,1,0.6409780351168405,5.92,-26.84,1.145553530795539,Immediate action: allocate fastest route and backup resources
+D897,F3,P168,2026-04-26,Medium,1.0,1,0.5208483420588095,2.6999999999999993,-17.4,1.1454035022011582,High risk: prioritize dispatch and monitor closely
+D329,F2,P69,2026-04-20,Medium,1.0,1,0.49291125701067473,1.6099999999999994,-15.219999999999999,1.1451735854295868,High risk: prioritize dispatch and monitor closely
+D173,F2,P127,2026-04-19,Medium,0.9950349442829457,1,0.5020100107865884,1.9699999999999998,-15.94,1.1451213478481033,High risk: prioritize dispatch and monitor closely
+D487,F4,P60,2026-04-08,Medium,1.0,1,0.5960302052653097,5.69,-23.380000000000003,1.1445812983003885,High risk: prioritize dispatch and monitor closely
+D131,F2,P187,2026-04-28,Medium,1.0,1,0.5098879073206642,2.3199999999999994,-16.64,1.1441024472291543,High risk: prioritize dispatch and monitor closely
+D1098,F3,P90,2026-04-07,Medium,1.0,1,0.5891035796326793,5.4399999999999995,-22.88,1.1440095277770617,High risk: prioritize dispatch and monitor closely
+D700,F5,P137,2026-04-13,High,1.0,1,0.7040890285775167,8.469999999999999,-31.939999999999998,1.1438450021413193,Immediate action: allocate fastest route and backup resources
+D79,F3,P109,2026-04-25,High,0.9402727872973654,1,0.5853390276877057,3.799999999999999,-22.599999999999998,1.1438036946932981,Immediate action: allocate fastest route and backup resources
+D646,F2,P134,2026-04-02,Medium,1.0,1,0.5997187306620976,5.87,-23.740000000000002,1.1436943280184777,High risk: prioritize dispatch and monitor closely
+D822,F4,P47,2026-04-06,High,1.0,1,0.6804234386074043,7.5600000000000005,-30.12,1.1433110847690717,Immediate action: allocate fastest route and backup resources
+D886,F2,P134,2026-04-19,Medium,0.9975271317829457,1,0.5021490710130552,2.0599999999999996,-16.119999999999997,1.142972660235221,High risk: prioritize dispatch and monitor closely
+D926,F2,P35,2026-04-05,Medium,1.0,1,0.48255807883738944,1.31,-14.620000000000001,1.1424462333874656,High risk: prioritize dispatch and monitor closely
+D903,F3,P82,2026-04-24,Medium,1.0,1,0.4940957869073087,1.7700000000000005,-15.540000000000001,1.1422910080562665,High risk: prioritize dispatch and monitor closely
+D19,F1,P97,2026-04-12,High,1.0,1,0.6332211502215833,5.750000000000002,-26.500000000000004,1.1421179473746081,Immediate action: allocate fastest route and backup resources
+D850,F2,P60,2026-04-07,Medium,1.0,1,0.5935287000130203,5.710000000000001,-23.42,1.1415714046393548,High risk: prioritize dispatch and monitor closely
+D828,F2,P52,2026-04-14,High,1.0,1,0.6461922298745322,6.32,-27.64,1.140599957378345,Immediate action: allocate fastest route and backup resources
+D54,F5,P88,2026-04-11,High,1.0,1,0.6504353051457595,6.550000000000001,-28.1,1.138996565949013,Immediate action: allocate fastest route and backup resources
+D50,F5,P180,2026-04-16,High,1.0,1,0.6573762743056399,6.84,-28.68,1.1385659031821014,Immediate action: allocate fastest route and backup resources
+D1134,F5,P64,2026-04-16,High,1.0,1,0.6698628140565491,7.34,-29.68,1.1383427327144036,Immediate action: allocate fastest route and backup resources
+D619,F5,P138,2026-04-14,Medium,1.0,1,0.5105210459821329,2.5900000000000007,-17.18,1.1378723423725752,High risk: prioritize dispatch and monitor closely
+D1184,F2,P142,2026-04-12,Medium,1.0,1,0.5028527965370305,2.29,-16.58,1.1378299190586372,High risk: prioritize dispatch and monitor closely
+D428,F5,P128,2026-04-14,High,1.0,1,0.6467047352078384,6.470000000000001,-27.94,1.1372995496460692,Immediate action: allocate fastest route and backup resources
+D155,F3,P32,2026-04-20,Medium,1.0,1,0.4960746695139763,2.0700000000000003,-16.14,1.1366440645317697,High risk: prioritize dispatch and monitor closely
+D1043,F1,P172,2026-04-11,High,1.0,1,0.6364335984877616,6.1,-27.2,1.1364335984877614,Immediate action: allocate fastest route and backup resources
+D661,F2,P37,2026-04-19,High,0.9950233888239876,1,0.6390136567741695,6.229999999999999,-27.459999999999997,1.1357091321173318,Immediate action: allocate fastest route and backup resources
+D1189,F2,P39,2026-04-22,Medium,0.9975078125,1,0.58675522464554,5.699999999999999,-23.4,1.1350521234762465,High risk: prioritize dispatch and monitor closely
+D643,F3,P82,2026-04-05,Medium,1.0,1,0.48580174490130784,1.75,-15.5,1.1345053544590098,High risk: prioritize dispatch and monitor closely
+D729,F5,P195,2026-04-19,Medium,1.0,1,0.49789218447268496,2.2299999999999995,-16.46,1.1343944722205244,High risk: prioritize dispatch and monitor closely
+D440,F4,P147,2026-04-15,High,1.0,1,0.696495854074767,8.55,-32.1,1.1342182740035924,Immediate action: allocate fastest route and backup resources
+D502,F3,P67,2026-04-06,High,1.0,1,0.6794776656335527,7.899999999999999,-30.799999999999997,1.1337227088465673,Immediate action: allocate fastest route and backup resources
+D1171,F4,P131,2026-04-29,High,0.9876045832861352,1,0.6073805188092919,5.07,-25.14,1.1335625218596221,Immediate action: allocate fastest route and backup resources
+D731,F4,P160,2026-04-11,High,0.987584146192106,1,0.6245762741185441,5.75,-26.5,1.133473071271569,Immediate action: allocate fastest route and backup resources
+D725,F2,P63,2026-04-13,Medium,1.0,1,0.5611609926564293,4.760000000000001,-21.520000000000003,1.1333521466981171,High risk: prioritize dispatch and monitor closely
+D1125,F2,P76,2026-04-19,High,0.9975155763239876,1,0.6338234742285361,6.119999999999999,-27.24,1.1333150858197918,Immediate action: allocate fastest route and backup resources
+D665,F4,P130,2026-04-09,High,1.0,1,0.6863017199639945,8.190000000000001,-31.380000000000003,1.133175131250217,Immediate action: allocate fastest route and backup resources
+D932,F5,P117,2026-04-25,Medium,0.960310423680382,1,0.46122873253379104,0.8599999999999999,-13.719999999999999,1.1325556262806136,High risk: prioritize dispatch and monitor closely
+D264,F5,P195,2026-04-05,Medium,1.0,1,0.4822203027752996,1.7299999999999995,-15.459999999999999,1.131432300741746,High risk: prioritize dispatch and monitor closely
+D686,F3,P180,2026-04-06,High,1.0,1,0.6779132291354524,7.940000000000001,-30.880000000000003,1.1311414955309784,Immediate action: allocate fastest route and backup resources
+D744,F4,P45,2026-04-24,Medium,1.0,1,0.5096360254330813,2.8200000000000003,-17.64,1.1311408551229643,High risk: prioritize dispatch and monitor closely
+D387,F5,P184,2026-04-18,Medium,1.0,1,0.5090701488279937,2.8000000000000007,-17.6,1.131083366926621,High risk: prioritize dispatch and monitor closely
+D286,F3,P118,2026-04-17,High,1.0,1,0.6564286993964457,7.119999999999997,-29.239999999999995,1.1305008905504874,Immediate action: allocate fastest route and backup resources
+D390,F2,P183,2026-04-27,High,1.0,1,0.7439899886026855,10.57,-36.14,1.1303651792483387,Immediate action: allocate fastest route and backup resources
+D771,F4,P47,2026-04-26,High,1.0,1,0.655139469468956,7.08,-29.16,1.1302284374404863,Immediate action: allocate fastest route and backup resources
+D284,F2,P134,2026-04-05,Medium,1.0,1,0.48774916358108594,2.000000000000001,-16.0,1.1300979180294846,High risk: prioritize dispatch and monitor closely
+D652,F4,P147,2026-04-16,High,0.9975155763239876,1,0.6488613136297474,6.85,-28.7,1.1297967483018367,Immediate action: allocate fastest route and backup resources
+D904,F2,P14,2026-04-09,Medium,1.0,1,0.5412997898150682,4.140000000000001,-20.28,1.1292509845278287,High risk: prioritize dispatch and monitor closely
+D663,F3,P12,2026-04-03,Medium,1.0,1,0.4928613318735607,2.29,-16.58,1.1278384543951672,High risk: prioritize dispatch and monitor closely
+D951,F3,P35,2026-04-17,Medium,1.0,1,0.5065196195695495,2.8499999999999996,-17.7,1.1272618666463161,High risk: prioritize dispatch and monitor closely
+D263,F3,P135,2026-04-20,High,1.0,1,0.6411568532235195,6.68,-28.36,1.1264135893699352,Immediate action: allocate fastest route and backup resources
+D751,F1,P81,2026-04-19,Medium,1.0,1,0.49919452706396067,2.6100000000000003,-17.22,1.1260374350456586,High risk: prioritize dispatch and monitor closely
+D1069,F1,P188,2026-04-17,High,1.0,1,0.6559847651434132,7.280000000000001,-29.560000000000002,1.1259898490275004,Immediate action: allocate fastest route and backup resources
+D205,F3,P49,2026-04-01,High,1.0,1,0.6458109958520805,6.890000000000001,-28.78,1.1257296537066814,Immediate action: allocate fastest route and backup resources
+D188,F1,P4,2026-04-29,High,1.0,1,0.6383911700765964,6.599999999999998,-28.199999999999996,1.1256814598579894,Immediate action: allocate fastest route and backup resources
+D1088,F1,P55,2026-04-02,High,1.0,1,0.7440837116653686,10.760000000000002,-36.52,1.1256292124279512,Immediate action: allocate fastest route and backup resources
+D558,F3,P13,2026-04-18,Medium,1.0,1,0.5160395102534595,3.3100000000000005,-18.62,1.1250888239291075,High risk: prioritize dispatch and monitor closely
+D172,F3,P35,2026-04-26,Medium,1.0,1,0.5146850717770077,3.26,-18.52,1.1250053564745166,High risk: prioritize dispatch and monitor closely
+D199,F3,P103,2026-04-25,High,0.9080257979572663,1,0.567200847833706,3.830000000000001,-22.660000000000004,1.1249029322261817,Immediate action: allocate fastest route and backup resources
+D456,F3,P67,2026-04-19,High,1.0,1,0.6395183857364245,6.68,-28.36,1.1247751218828403,Immediate action: allocate fastest route and backup resources
+D21,F3,P187,2026-04-02,Medium,1.0,1,0.6016189114865759,6.699999999999999,-25.4,1.1244963898800684,High risk: prioritize dispatch and monitor closely
+D302,F2,P12,2026-04-01,Medium,1.0,1,0.49509074554224075,2.5300000000000002,-17.060000000000002,1.1239672071589157,High risk: prioritize dispatch and monitor closely
+D337,F4,P127,2026-04-02,Medium,1.0,1,0.6046736261292952,6.859999999999999,-25.72,1.1234839972528334,High risk: prioritize dispatch and monitor closely
+D303,F2,P82,2026-04-17,Medium,1.0,1,0.5110046761533891,3.1799999999999997,-18.36,1.123358514485875,High risk: prioritize dispatch and monitor closely
+D879,F5,P96,2026-04-29,High,1.0,1,0.6350753773949085,6.580000000000002,-28.160000000000004,1.1228740555850456,Immediate action: allocate fastest route and backup resources
+D718,F4,P135,2026-04-05,High,0.9975039123630672,1,0.6273686571795973,6.289999999999999,-27.58,1.1225389672965267,Immediate action: allocate fastest route and backup resources
+D473,F2,P49,2026-04-13,High,1.0,1,0.6938333346381843,8.91,-32.82,1.1224047632096128,Immediate action: allocate fastest route and backup resources
+D353,F5,P127,2026-04-21,Medium,1.0,1,0.5478069596693146,4.68,-21.36,1.1220316673459796,High risk: prioritize dispatch and monitor closely
+D500,F5,P195,2026-04-11,Medium,1.0,1,0.4965419915879871,2.6799999999999997,-17.36,1.12160554013908,High risk: prioritize dispatch and monitor closely
+D995,F2,P115,2026-04-24,Medium,1.0,1,0.4965237110829319,2.6900000000000004,-17.380000000000003,1.1213330654296527,High risk: prioritize dispatch and monitor closely
+D556,F4,P23,2026-04-26,High,1.0,1,0.6532773836890742,7.359999999999999,-29.72,1.1212489139381845,Immediate action: allocate fastest route and backup resources
+D745,F2,P6,2026-04-13,Medium,1.0,1,0.5657867469383123,5.43,-22.86,1.1209468892870667,High risk: prioritize dispatch and monitor closely
+D621,F1,P174,2026-04-01,Medium,1.0,1,0.5116118044828938,3.3000000000000007,-18.6,1.120915312362914,High risk: prioritize dispatch and monitor closely
+D46,F2,P14,2026-04-08,Medium,1.0,1,0.6007082767417721,6.82,-25.64,1.120535424682799,High risk: prioritize dispatch and monitor closely
+D191,F5,P172,2026-04-25,High,0.9179400889990419,1,0.5855560336436482,4.73,-24.46,1.1203806396426312,Immediate action: allocate fastest route and backup resources
+D584,F3,P153,2026-04-05,High,1.0,1,0.634589814549208,6.66,-28.32,1.1203549391043681,Immediate action: allocate fastest route and backup resources
+D421,F5,P198,2026-04-23,High,1.0,1,0.7001253120680302,9.260000000000002,-33.52,1.1197999434864339,Immediate action: allocate fastest route and backup resources
+D607,F2,P13,2026-04-01,Medium,1.0,1,0.5029916577915754,3.0199999999999996,-18.04,1.1194126033940157,High risk: prioritize dispatch and monitor closely
+D1047,F2,P123,2026-04-10,Medium,1.0,1,0.49609317383218104,2.749999999999999,-17.5,1.119377362952669,High risk: prioritize dispatch and monitor closely
+D196,F5,P130,2026-04-17,High,1.0,1,0.6426022299435921,7.02,-29.04,1.119216363141355,Immediate action: allocate fastest route and backup resources
+D404,F4,P161,2026-04-10,High,1.0,1,0.6395433658312059,6.9,-28.8,1.1192078294814345,Immediate action: allocate fastest route and backup resources
+D399,F3,P90,2026-04-18,Medium,1.0,1,0.510053000978586,3.3100000000000005,-18.62,1.119102314654234,High risk: prioritize dispatch and monitor closely
+D614,F5,P45,2026-04-26,Medium,1.0,1,0.5305773085148529,4.170000000000002,-20.340000000000003,1.117765920614497,High risk: prioritize dispatch and monitor closely
+D934,F2,P150,2026-04-14,Medium,1.0,1,0.5200717276294642,3.76,-19.52,1.1176823021083662,High risk: prioritize dispatch and monitor closely
+D603,F2,P135,2026-04-08,High,1.0,1,0.7284826118562604,10.470000000000002,-35.940000000000005,1.117399744545635,Immediate action: allocate fastest route and backup resources
+D5,F2,P51,2026-04-05,High,1.0,1,0.6216364835185085,6.27,-27.54,1.117315182044182,Immediate action: allocate fastest route and backup resources
+D419,F2,P136,2026-04-19,High,1.0,1,0.6407841570848875,7.050000000000001,-29.1,1.1166357076695341,Immediate action: allocate fastest route and backup resources
+D1132,F1,P63,2026-04-08,Medium,1.0,1,0.603688325097082,7.1,-26.2,1.1163980353156888,High risk: prioritize dispatch and monitor closely
+D4,F3,P51,2026-04-21,High,1.0,1,0.6849013744278428,8.810000000000002,-32.620000000000005,1.1160147450429927,Immediate action: allocate fastest route and backup resources
+D606,F2,P174,2026-04-08,Medium,1.0,1,0.598581557385426,6.920000000000001,-25.840000000000003,1.1158667632827313,High risk: prioritize dispatch and monitor closely
+D859,F1,P90,2026-04-15,Medium,1.0,1,0.5698846876552948,5.8100000000000005,-23.62,1.1153854502379077,High risk: prioritize dispatch and monitor closely
+D124,F5,P17,2026-04-28,High,1.0,1,0.6524461673422006,7.559999999999999,-30.119999999999997,1.1153338135038682,Immediate action: allocate fastest route and backup resources
+D310,F5,P130,2026-04-25,High,0.8531120989145892,1,0.5439010371133416,3.289999999999999,-21.58,1.1153296085419129,Immediate action: allocate fastest route and backup resources
+D623,F2,P35,2026-04-11,Medium,0.9926074658104289,1,0.49307725477029857,2.81,-17.62,1.1148362786645536,High risk: prioritize dispatch and monitor closely
+D675,F4,P115,2026-04-27,Medium,1.0,1,0.6087149931740908,7.379999999999999,-26.759999999999998,1.114307265670278,High risk: prioritize dispatch and monitor closely
+D1048,F3,P80,2026-04-14,Medium,1.0,1,0.5118797692394116,3.580000000000001,-19.160000000000004,1.114065839397012,High risk: prioritize dispatch and monitor closely
+D1052,F3,P57,2026-04-15,Medium,1.0,1,0.5703281139743992,5.89,-23.78,1.113795322922035,High risk: prioritize dispatch and monitor closely
+D465,F1,P96,2026-04-01,High,1.0,1,0.652155598546162,7.610000000000003,-30.220000000000006,1.1137722736859688,Immediate action: allocate fastest route and backup resources
+D511,F2,P131,2026-04-23,High,1.0,1,0.6978644981547041,9.41,-33.82,1.1137262165075255,Immediate action: allocate fastest route and backup resources
+D651,F2,P176,2026-04-04,Medium,1.0,1,0.6433028911599179,8.77,-29.54,1.1135621692483775,High risk: prioritize dispatch and monitor closely
+D285,F2,P160,2026-04-04,High,1.0,1,0.7763709136715496,12.520000000000001,-40.040000000000006,1.1131782344646355,Immediate action: allocate fastest route and backup resources
+D442,F5,P115,2026-04-14,Medium,1.0,1,0.5200686800258965,3.960000000000001,-19.92,1.1125953704173555,High risk: prioritize dispatch and monitor closely
+D8,F1,P22,2026-04-28,Medium,1.0,1,0.52006080802974,3.960000000000001,-19.92,1.112587498421199,High risk: prioritize dispatch and monitor closely
+D676,F2,P83,2026-04-13,High,1.0,1,0.6913480139287023,9.200000000000001,-33.400000000000006,1.1125478105733386,Immediate action: allocate fastest route and backup resources
+D1180,F2,P146,2026-04-01,Medium,0.9975019577133908,1,0.5105960863618226,3.6099999999999994,-19.22,1.1120195739063066,High risk: prioritize dispatch and monitor closely
+D589,F2,P63,2026-04-05,Medium,0.9975078125,1,0.48684007551983993,2.7,-17.4,1.1113952356621886,High risk: prioritize dispatch and monitor closely
+D179,F1,P181,2026-04-01,Medium,1.0,1,0.5178837726252777,3.9899999999999984,-19.979999999999997,1.1096478804036205,High risk: prioritize dispatch and monitor closely
+D717,F4,P4,2026-04-18,High,1.0,1,0.6512576170821233,7.75,-30.5,1.10931557336072,Immediate action: allocate fastest route and backup resources
+D1147,F4,P123,2026-04-17,Medium,0.9875325041176584,1,0.516185336788637,3.9400000000000013,-19.880000000000003,1.1092204155888403,High risk: prioritize dispatch and monitor closely
+D1040,F3,P64,2026-04-01,High,1.0,1,0.6487245048628283,7.66,-30.32,1.1090702089807745,Immediate action: allocate fastest route and backup resources
+D15,F5,P178,2026-04-05,Medium,1.0,1,0.49593959816935473,3.17,-18.34,1.1085476307062128,High risk: prioritize dispatch and monitor closely
+D703,F2,P84,2026-04-05,Medium,1.0,1,0.48606333087420445,2.79,-17.58,1.1083307431772038,High risk: prioritize dispatch and monitor closely
+D868,F1,P63,2026-04-08,Medium,1.0,1,0.603688325097082,7.449999999999999,-26.9,1.107501238162664,High risk: prioritize dispatch and monitor closely
+D118,F4,P184,2026-04-18,Medium,1.0,1,0.5104248086138488,3.790000000000001,-19.580000000000002,1.1072728004796342,High risk: prioritize dispatch and monitor closely
+D811,F3,P147,2026-04-14,High,1.0,1,0.6476576192566813,7.6899999999999995,-30.38,1.107240740761511,Immediate action: allocate fastest route and backup resources
+D1172,F4,P35,2026-04-19,Medium,1.0,1,0.519083187946953,4.140000000000001,-20.28,1.1070343826597133,High risk: prioritize dispatch and monitor closely
+D790,F4,P59,2026-04-01,Medium,1.0,1,0.5130939556846654,3.91,-19.82,1.1068916170979852,High risk: prioritize dispatch and monitor closely
+D313,F4,P72,2026-04-20,Medium,1.0,1,0.5201761343954245,4.200000000000003,-20.400000000000006,1.106602163881952,High risk: prioritize dispatch and monitor closely
+D919,F2,P80,2026-04-10,Medium,1.0,1,0.4979562754799187,3.329999999999999,-18.659999999999997,1.1064972007468228,High risk: prioritize dispatch and monitor closely
+D668,F4,P136,2026-04-06,High,1.0,1,0.6979989683824911,9.71,-34.42,1.1062348606041483,Immediate action: allocate fastest route and backup resources
+D29,F2,P6,2026-04-20,Medium,1.0,1,0.5020865754852476,3.5299999999999994,-19.06,1.1055436166647086,High risk: prioritize dispatch and monitor closely
+D92,F5,P15,2026-04-06,High,1.0,1,0.683999293460205,9.190000000000001,-33.38,1.1054532843092135,Immediate action: allocate fastest route and backup resources
+D1054,F5,P177,2026-04-25,Medium,0.9578056977314847,1,0.4614941414275224,1.9499999999999993,-15.899999999999999,1.1051138668977816,High risk: prioritize dispatch and monitor closely
+D925,F2,P80,2026-04-28,Medium,1.0,1,0.5126155125137807,3.9699999999999998,-19.939999999999998,1.1048880087008675,High risk: prioritize dispatch and monitor closely
+D1013,F3,P111,2026-04-10,Medium,1.0,1,0.507831526907213,3.8099999999999987,-19.619999999999997,1.104171130364254,High risk: prioritize dispatch and monitor closely
+D537,F2,P6,2026-04-11,Medium,0.9926074658104289,1,0.5032669172989969,3.6500000000000004,-19.3,1.1036736280259922,High risk: prioritize dispatch and monitor closely
+D519,F2,P115,2026-04-19,Medium,0.9950349442829457,1,0.5013476649445355,3.5900000000000007,-19.18,1.1032795408977638,High risk: prioritize dispatch and monitor closely
+D742,F4,P198,2026-04-20,High,1.0,1,0.63962695623252,7.5600000000000005,-30.12,1.1025146023941874,Immediate action: allocate fastest route and backup resources
+D660,F4,P177,2026-04-16,Medium,1.0,1,0.5252093265821998,4.57,-21.14,1.1022301705069584,High risk: prioritize dispatch and monitor closely
+D1137,F2,P121,2026-04-25,Medium,0.3195586581416974,0,0.14696983121536278,2.209999999999999,8.580000000000002,1.1017232628371216,Normal planning
+D26,F1,P48,2026-04-14,High,1.0,1,0.6542612682540198,8.180000000000001,-31.360000000000003,1.1013888737446145,Immediate action: allocate fastest route and backup resources
+D327,F3,P161,2026-04-10,High,1.0,1,0.6481035763190256,7.950000000000003,-30.900000000000006,1.1010776485101794,Immediate action: allocate fastest route and backup resources
+D396,F2,P33,2026-04-01,Medium,1.0,1,0.503869875553009,3.790000000000001,-19.580000000000002,1.1007178674187945,High risk: prioritize dispatch and monitor closely
+D450,F1,P187,2026-04-14,Medium,1.0,1,0.5155272427760539,4.249999999999999,-20.5,1.1006823012407208,High risk: prioritize dispatch and monitor closely
+D1173,F1,P198,2026-04-22,High,1.0,1,0.7197824987731425,10.820000000000002,-36.64,1.099802834309492,Immediate action: allocate fastest route and backup resources
+D1007,F1,P196,2026-04-24,High,1.0,1,0.6353410377250823,7.51,-30.02,1.0994996549086105,Immediate action: allocate fastest route and backup resources
+D195,F3,P131,2026-04-29,High,1.0,1,0.6361069912025843,7.57,-30.14,1.0987404431598797,Immediate action: allocate fastest route and backup resources
+D105,F1,P137,2026-04-01,High,1.0,1,0.6501736403592829,8.159999999999997,-31.319999999999993,1.097809634258622,Immediate action: allocate fastest route and backup resources
+D906,F2,P127,2026-04-18,Medium,1.0,1,0.5102861426515172,4.159999999999999,-20.32,1.0977289489555333,High risk: prioritize dispatch and monitor closely
+D111,F2,P71,2026-04-29,Medium,0.9950208062629937,1,0.485274332327492,3.1799999999999997,-18.36,1.097628170659978,High risk: prioritize dispatch and monitor closely
+D322,F4,P168,2026-04-23,Medium,1.0,1,0.5708921907124561,6.5600000000000005,-25.12,1.0973283879671585,High risk: prioritize dispatch and monitor closely
+D587,F2,P177,2026-04-08,Medium,1.0,1,0.6031417881906028,7.83,-27.66,1.0972953214900436,High risk: prioritize dispatch and monitor closely
+D860,F1,P127,2026-04-17,Medium,0.9900734550332086,1,0.5165750022165699,4.43,-20.86,1.0971545650025383,High risk: prioritize dispatch and monitor closely
+D1135,F1,P19,2026-04-19,Medium,0.9975155763239876,1,0.516553720678078,4.459999999999999,-20.919999999999998,1.09637070085093,High risk: prioritize dispatch and monitor closely
+D620,F3,P65,2026-04-01,High,0.9925466928615033,1,0.6397915833746968,7.830000000000002,-30.660000000000004,1.0958159860183163,Immediate action: allocate fastest route and backup resources
+D846,F4,P1,2026-04-06,High,1.0,1,0.6875294342594899,9.72,-34.44,1.095511132276775,Immediate action: allocate fastest route and backup resources
+D30,F3,P11,2026-04-10,High,1.0,1,0.6402397432464316,7.859999999999999,-30.72,1.095501563276935,Immediate action: allocate fastest route and backup resources
+D135,F1,P193,2026-04-22,Medium,1.0,1,0.5913625796362239,7.4399999999999995,-26.88,1.0954296869061781,High risk: prioritize dispatch and monitor closely
+D223,F1,P114,2026-04-16,Medium,1.0,1,0.5249335184593205,4.83,-21.66,1.0953453130704034,High risk: prioritize dispatch and monitor closely
+D1133,F2,P177,2026-04-14,Medium,1.0,1,0.5196227140371523,4.640000000000001,-21.28,1.094864198531306,High risk: prioritize dispatch and monitor closely
+D512,F2,P134,2026-04-09,Medium,1.0,1,0.538670723803975,5.39,-22.78,1.0948476429702179,High risk: prioritize dispatch and monitor closely
+D375,F5,P198,2026-04-28,High,1.0,1,0.6480464436582574,8.2,-31.4,1.094665660740108,Immediate action: allocate fastest route and backup resources
+D1026,F4,P196,2026-04-29,High,1.0,1,0.6401526849387431,7.900000000000002,-30.800000000000004,1.0943977281517578,Immediate action: allocate fastest route and backup resources
+D296,F3,P82,2026-04-30,Medium,1.0,1,0.5156345781632024,4.51,-21.02,1.0941805873141939,High risk: prioritize dispatch and monitor closely
+D1034,F4,P103,2026-04-14,High,1.0,1,0.6510480782257786,8.340000000000002,-31.680000000000003,1.094108576446419,Immediate action: allocate fastest route and backup resources
+D432,F2,P111,2026-04-23,Medium,1.0,1,0.5687669951578939,6.609999999999999,-25.22,1.0939322213907356,High risk: prioritize dispatch and monitor closely
+D694,F4,P134,2026-04-26,Medium,1.0,1,0.5230212834025995,4.8199999999999985,-21.639999999999997,1.0936872722180544,High risk: prioritize dispatch and monitor closely
+D57,F5,P115,2026-04-03,Medium,1.0,1,0.5025643936992784,4.050000000000001,-20.1,1.092803336251388,High risk: prioritize dispatch and monitor closely
+D523,F4,P4,2026-04-10,High,1.0,1,0.6368716333701644,7.890000000000001,-30.78,1.0913708707875511,Immediate action: allocate fastest route and backup resources
+D203,F5,P199,2026-04-01,Medium,1.0,1,0.5014683639416393,4.09,-20.18,1.0906905296762606,High risk: prioritize dispatch and monitor closely
+D705,F2,P60,2026-04-05,Medium,0.9975078125,1,0.4918020820620289,3.7200000000000006,-19.44,1.0904294333584192,High risk: prioritize dispatch and monitor closely
+D38,F4,P96,2026-04-18,High,1.0,1,0.6675374074069977,9.14,-33.28,1.090262369277867,Immediate action: allocate fastest route and backup resources
+D921,F1,P114,2026-04-06,Medium,1.0,1,0.5477582077006407,5.940000000000001,-23.880000000000003,1.0899544456264159,High risk: prioritize dispatch and monitor closely
+D345,F1,P167,2026-04-07,High,1.0,1,0.7330947212649758,11.750000000000002,-38.5,1.0894749957947165,Immediate action: allocate fastest route and backup resources
+D553,F5,P157,2026-04-05,Medium,1.0,1,0.49266037673047947,3.799999999999999,-19.599999999999998,1.0892541743918929,High risk: prioritize dispatch and monitor closely
+D290,F4,P69,2026-04-06,Medium,1.0,1,0.5501556558405866,6.079999999999998,-24.159999999999997,1.088793174905152,High risk: prioritize dispatch and monitor closely
+D335,F4,P73,2026-04-16,High,1.0,1,0.6773817599920618,9.59,-34.18,1.088667982666185,Immediate action: allocate fastest route and backup resources
+D611,F2,P39,2026-04-06,Medium,0.9975078125,1,0.5480336215593848,6.02,-24.04,1.088196305850183,High risk: prioritize dispatch and monitor closely
+D348,F1,P130,2026-04-15,High,1.0,1,0.7154392499178357,11.11,-37.22,1.0880879535273933,Immediate action: allocate fastest route and backup resources
+D524,F5,P17,2026-04-18,High,1.0,1,0.6521729140202975,8.649999999999999,-32.3,1.0873533919054017,Immediate action: allocate fastest route and backup resources
+D952,F1,P96,2026-04-17,High,1.0,1,0.6629089204492911,9.09,-33.18,1.0869048533420211,Immediate action: allocate fastest route and backup resources
+D548,F3,P57,2026-04-18,Medium,1.0,1,0.5125591469791142,4.680000000000001,-21.36,1.086783854655779,High risk: prioritize dispatch and monitor closely
+D167,F1,P15,2026-04-23,High,1.0,1,0.7033151371355855,10.7,-36.4,1.086385803124401,Immediate action: allocate fastest route and backup resources
+D1044,F3,P49,2026-04-02,High,1.0,1,0.7463521445876141,12.41,-39.82,1.0859556016287935,Immediate action: allocate fastest route and backup resources
+D222,F5,P139,2026-04-09,Medium,1.0,1,0.5434935564499044,5.93,-23.86,1.085943988580052,High risk: prioritize dispatch and monitor closely
+D673,F5,P48,2026-04-28,High,1.0,1,0.6592255614786113,8.989999999999998,-32.98,1.0857634364150628,Immediate action: allocate fastest route and backup resources
+D214,F2,P181,2026-04-09,Medium,1.0,1,0.5404743971821419,5.84,-23.68,1.0852125771516385,High risk: prioritize dispatch and monitor closely
+D938,F3,P44,2026-04-13,Medium,1.0,1,0.570538976768256,7.039999999999999,-26.08,1.0847738522130959,High risk: prioritize dispatch and monitor closely
+D856,F4,P49,2026-04-08,High,1.0,1,0.7404520748685117,12.23,-39.46,1.0846310275883897,Immediate action: allocate fastest route and backup resources
+D797,F4,P193,2026-04-11,Medium,1.0,1,0.5134506041156695,4.800000000000001,-21.6,1.0846249813398687,High risk: prioritize dispatch and monitor closely
+D1195,F1,P3,2026-04-18,Medium,1.0,1,0.5115138189553835,4.7299999999999995,-21.46,1.0844675556101877,High risk: prioritize dispatch and monitor closely
+D1150,F1,P57,2026-04-28,Medium,1.0,1,0.5191734474576033,5.040000000000001,-22.080000000000002,1.0842471637768711,High risk: prioritize dispatch and monitor closely
+D370,F2,P171,2026-04-04,Medium,1.0,1,0.6401892561815559,9.82,-31.64,1.0837581428109406,High risk: prioritize dispatch and monitor closely
+D266,F2,P165,2026-04-01,Medium,0.9975019577133908,1,0.5108917039078922,4.74,-21.48,1.0835912463583242,High risk: prioritize dispatch and monitor closely
+D1004,F4,P172,2026-04-05,High,1.0,1,0.6290848266380356,7.889999999999999,-30.779999999999998,1.0835840640554224,Immediate action: allocate fastest route and backup resources
+D406,F5,P69,2026-04-15,Medium,1.0,1,0.5749914553669508,7.27,-26.54,1.0833798641112313,High risk: prioritize dispatch and monitor closely
+D397,F4,P117,2026-04-11,Medium,1.0,1,0.5084129154182152,4.67,-21.34,1.0828918172992523,High risk: prioritize dispatch and monitor closely
+D349,F1,P49,2026-04-06,High,1.0,1,0.694214860619229,10.5,-36.0,1.0823694106954873,Immediate action: allocate fastest route and backup resources
+D45,F3,P49,2026-04-05,High,1.0,1,0.6343825775066025,8.149999999999999,-31.299999999999997,1.0822727656103137,Immediate action: allocate fastest route and backup resources
+D852,F5,P150,2026-04-28,Medium,1.0,1,0.5205027105470605,5.170000000000002,-22.340000000000003,1.0822719022094907,High risk: prioritize dispatch and monitor closely
+D149,F1,P127,2026-04-06,Medium,0.9975078125,1,0.5538484491666097,6.489999999999998,-24.979999999999997,1.082064005851917,High risk: prioritize dispatch and monitor closely
+D20,F1,P129,2026-04-19,Medium,1.0,1,0.5356138976322371,5.780000000000001,-23.560000000000002,1.0818772428279666,High risk: prioritize dispatch and monitor closely
+D457,F3,P49,2026-04-03,High,1.0,1,0.6436892641761268,8.54,-32.08,1.0816658783093245,Immediate action: allocate fastest route and backup resources
+D497,F2,P181,2026-04-22,Medium,1.0,1,0.5839056016399216,7.690000000000001,-27.380000000000003,1.081617853800572,High risk: prioritize dispatch and monitor closely
+D143,F2,P1,2026-04-19,High,1.0,1,0.6486967518145651,8.740000000000002,-32.480000000000004,1.08158948186032,Immediate action: allocate fastest route and backup resources
+D321,F2,P51,2026-04-23,High,1.0,1,0.6953827329827177,10.59,-36.18,1.0812495352196265,Immediate action: allocate fastest route and backup resources
+D249,F4,P35,2026-04-01,Medium,1.0,1,0.5148397245950456,4.989999999999998,-21.979999999999997,1.0811844119361742,High risk: prioritize dispatch and monitor closely
+D328,F3,P175,2026-04-08,Low,1.0,1,0.4636936076099327,1.4800000000000002,-17.96,1.0811313300298615,High risk: prioritize dispatch and monitor closely
+D574,F2,P119,2026-04-04,Low,1.0,1,0.5050905138259615,3.1100000000000003,-21.22,1.0810945809332315,High risk: prioritize dispatch and monitor closely
+D812,F5,P51,2026-04-19,High,1.0,1,0.6492615743424506,8.79,-32.58,1.0808833333663448,Immediate action: allocate fastest route and backup resources
+D1103,F2,P14,2026-04-06,Medium,1.0,1,0.5460093911866928,6.23,-24.46,1.080833997185676,High risk: prioritize dispatch and monitor closely
+D360,F3,P157,2026-04-16,Medium,1.0,1,0.5322167830522622,5.6899999999999995,-23.38,1.080767876087341,High risk: prioritize dispatch and monitor closely
+D1089,F3,P165,2026-04-13,Medium,1.0,1,0.561746640475361,6.870000000000001,-25.740000000000002,1.0803028173945273,High risk: prioritize dispatch and monitor closely
+D1075,F3,P44,2026-04-22,Medium,1.0,1,0.5918527358767001,8.09,-28.18,1.079397219862465,High risk: prioritize dispatch and monitor closely
+D598,F3,P59,2026-04-20,Medium,0.9975155763239876,1,0.5175364454641833,5.169999999999998,-22.339999999999996,1.0793056371266134,High risk: prioritize dispatch and monitor closely
+D251,F5,P148,2026-04-27,Low,1.0,1,0.47229003533260683,1.9000000000000001,-18.8,1.0790516011689057,High risk: prioritize dispatch and monitor closely
+D25,F4,P198,2026-04-29,High,0.9975039123630672,1,0.6277826013414561,8.03,-31.06,1.078723119897633,Immediate action: allocate fastest route and backup resources
+D1181,F3,P142,2026-04-28,Medium,0.9975078125,1,0.5140581585389647,5.059999999999999,-22.119999999999997,1.0786234864494884,High risk: prioritize dispatch and monitor closely
+D708,F4,P39,2026-04-21,Medium,1.0,1,0.5584791594295697,6.82,-25.64,1.0783063073705965,High risk: prioritize dispatch and monitor closely
+D1053,F3,P139,2026-04-07,Medium,1.0,1,0.5950677398147228,8.26,-28.52,1.0782909223261616,High risk: prioritize dispatch and monitor closely
+D999,F4,P194,2026-04-09,High,1.0,1,0.6755523142466902,9.93,-34.86,1.0781959339721603,Immediate action: allocate fastest route and backup resources
+D104,F2,P64,2026-04-12,High,1.0,1,0.6440965235530204,8.71,-32.42,1.0777518362118916,Immediate action: allocate fastest route and backup resources
+D154,F3,P194,2026-04-13,High,1.0,1,0.6988171823392754,10.880000000000003,-36.760000000000005,1.0773123526493922,Immediate action: allocate fastest route and backup resources
+D848,F2,P64,2026-04-16,High,1.0,1,0.6651852505140148,9.57,-34.14,1.076979861596882,Immediate action: allocate fastest route and backup resources
+D411,F2,P131,2026-04-11,High,0.9926074658104289,1,0.6346374246234041,8.379999999999999,-31.759999999999998,1.076681146026556,Immediate action: allocate fastest route and backup resources
+D899,F2,P177,2026-04-11,Medium,0.9926074658104289,1,0.5033309169739191,4.720000000000001,-21.44,1.0765388478330955,High risk: prioritize dispatch and monitor closely
+D583,F4,P118,2026-04-07,High,1.0,1,0.7220761105658555,11.829999999999998,-38.66,1.076422831460619,Immediate action: allocate fastest route and backup resources
+D716,F1,P114,2026-04-07,Medium,1.0,1,0.5925717524927537,8.24,-28.48,1.0763033234129367,High risk: prioritize dispatch and monitor closely
+D595,F5,P57,2026-04-19,Medium,1.0,1,0.5118781451789163,5.100000000000001,-22.200000000000003,1.0754266962719514,High risk: prioritize dispatch and monitor closely
+D505,F5,P7,2026-04-27,High,1.0,1,0.7570946839439155,13.25,-41.5,1.0753458278178352,Immediate action: allocate fastest route and backup resources
+D816,F4,P69,2026-04-30,Medium,1.0,1,0.5243573275079676,5.6,-23.2,1.0751961683823956,High risk: prioritize dispatch and monitor closely
+D1059,F2,P111,2026-04-17,Medium,0.9975078125,1,0.5159205743779269,5.289999999999999,-22.58,1.0746394355878914,High risk: prioritize dispatch and monitor closely
+D273,F5,P31,2026-04-17,High,1.0,1,0.6621312736055924,9.559999999999999,-34.12,1.074180078892832,Immediate action: allocate fastest route and backup resources
+D590,F2,P167,2026-04-25,High,0.7984120569304289,1,0.5110233018017989,3.619999999999999,-22.24,1.0740634644860898,Immediate action: allocate fastest route and backup resources
+D212,F2,P19,2026-04-03,Medium,0.9900338109273279,1,0.49903094550929505,4.659999999999998,-21.319999999999997,1.0737640415947043,High risk: prioritize dispatch and monitor closely
+D997,F2,P32,2026-04-15,Medium,1.0,1,0.5776581084887128,7.76,-27.52,1.0735910012187586,High risk: prioritize dispatch and monitor closely
+D941,F4,P184,2026-04-14,Medium,1.0,1,0.5158416538774578,5.34,-22.68,1.0732895440655614,High risk: prioritize dispatch and monitor closely
+D37,F2,P136,2026-04-15,High,1.0,1,0.7042753701153204,11.279999999999998,-37.559999999999995,1.0726027722505518,Immediate action: allocate fastest route and backup resources
+D723,F4,P70,2026-04-21,High,1.0,1,0.6986582569325666,11.060000000000002,-37.120000000000005,1.072577931563985,Immediate action: allocate fastest route and backup resources
+D902,F1,P57,2026-04-18,Medium,1.0,1,0.5189001941357001,5.490000000000002,-22.980000000000004,1.0725351712582216,High risk: prioritize dispatch and monitor closely
+D107,F1,P57,2026-04-16,Medium,1.0,1,0.5303125387563602,5.960000000000001,-23.92,1.0720003882733913,High risk: prioritize dispatch and monitor closely
+D864,F5,P22,2026-04-28,Medium,1.0,1,0.5362100593351302,6.199999999999999,-24.4,1.07179724794723,High risk: prioritize dispatch and monitor closely
+D1021,F3,P9,2026-04-02,Low,1.0,1,0.4660945204993555,1.9600000000000002,-18.92,1.0713309211094215,High risk: prioritize dispatch and monitor closely
+D526,F1,P177,2026-04-23,Medium,1.0,1,0.5758938161010256,7.799999999999999,-27.599999999999998,1.0708099320135829,High risk: prioritize dispatch and monitor closely
+D309,F4,P138,2026-04-09,Medium,1.0,1,0.5451194529532871,6.609999999999999,-25.22,1.0702846791861291,High risk: prioritize dispatch and monitor closely
+D740,F2,P2,2026-04-02,Low,1.0,1,0.46611991719575324,2.02,-19.04,1.0698311525795865,High risk: prioritize dispatch and monitor closely
+D529,F1,P32,2026-04-22,Medium,1.0,1,0.5944421830414128,8.57,-29.14,1.0697853452173152,High risk: prioritize dispatch and monitor closely
+D62,F4,P90,2026-04-06,Medium,1.0,1,0.5605098889619422,7.26,-26.52,1.069152491910595,High risk: prioritize dispatch and monitor closely
+D381,F4,P57,2026-04-09,Medium,1.0,1,0.5502709188506032,6.870000000000001,-25.740000000000002,1.0688270957697692,High risk: prioritize dispatch and monitor closely
+D478,F2,P93,2026-04-04,Medium,1.0,1,0.6457064345069994,10.639999999999999,-33.28,1.0684313963778687,High risk: prioritize dispatch and monitor closely
+D208,F5,P139,2026-04-25,Medium,0.9453431794502143,1,0.4634936325411597,3.51,-19.02,1.0674590621293651,High risk: prioritize dispatch and monitor closely
+D522,F1,P52,2026-04-09,High,1.0,1,0.6886595492575599,10.870000000000001,-36.74,1.0674089137720488,Immediate action: allocate fastest route and backup resources
+D1092,F1,P72,2026-04-13,Medium,1.0,1,0.577372719834958,8.0,-28.0,1.0672049516600723,High risk: prioritize dispatch and monitor closely
+D259,F3,P32,2026-04-25,Medium,0.8781327642863904,1,0.4230863134617345,1.9500000000000002,-15.9,1.0667060389319938,High risk: prioritize dispatch and monitor closely
+D1097,F2,P181,2026-04-30,Medium,1.0,1,0.5193856702211475,5.74,-23.48,1.0666657922343654,High risk: prioritize dispatch and monitor closely
+D953,F2,P113,2026-04-07,Medium,1.0,1,0.6001216823978717,8.95,-29.9,1.0658054648076327,High risk: prioritize dispatch and monitor closely
+D176,F5,P178,2026-04-24,Medium,1.0,1,0.5042336401753555,5.18,-22.36,1.0657486376334133,High risk: prioritize dispatch and monitor closely
+D90,F3,P11,2026-04-21,High,1.0,1,0.6938938366883519,11.149999999999999,-37.3,1.0655257634804212,Immediate action: allocate fastest route and backup resources
+D289,F1,P35,2026-04-03,Medium,1.0,1,0.5054707916350349,5.25,-22.5,1.065206429662488,High risk: prioritize dispatch and monitor closely
+D581,F1,P172,2026-04-04,High,1.0,1,0.7708903065889189,14.209999999999999,-43.42,1.064738806843113,Immediate action: allocate fastest route and backup resources
+D42,F1,P93,2026-04-06,Medium,1.0,1,0.5573099052158279,7.3100000000000005,-26.62,1.06468153714262,High risk: prioritize dispatch and monitor closely
+D576,F3,P9,2026-04-07,Low,1.0,1,0.45456965980497055,1.78,-18.56,1.064381556093735,High risk: prioritize dispatch and monitor closely
+D924,F4,P48,2026-04-11,High,1.0,1,0.6520449477634478,9.549999999999997,-34.099999999999994,1.0643479472550594,Immediate action: allocate fastest route and backup resources
+D688,F2,P127,2026-04-11,Medium,0.9926074658104289,1,0.49941119085189306,5.05,-22.1,1.0642307129667887,High risk: prioritize dispatch and monitor closely
+D414,F3,P183,2026-04-13,High,1.0,1,0.7011648529542818,11.490000000000002,-37.980000000000004,1.064154176797698,Immediate action: allocate fastest route and backup resources
+D664,F1,P57,2026-04-05,Medium,1.0,1,0.49750606640316686,4.98,-21.96,1.0641049479486675,High risk: prioritize dispatch and monitor closely
+D380,F2,P93,2026-04-18,Medium,1.0,1,0.5183221653256878,5.799999999999999,-23.599999999999998,1.064077122112673,High risk: prioritize dispatch and monitor closely
+D356,F1,P90,2026-04-07,Medium,1.0,1,0.5911662993141031,8.670000000000002,-29.340000000000003,1.063967519446284,High risk: prioritize dispatch and monitor closely
+D1164,F1,P49,2026-04-18,High,1.0,1,0.6599778267572487,9.879999999999999,-34.76,1.0638924175045796,Immediate action: allocate fastest route and backup resources
+D1057,F3,P106,2026-04-11,Medium,1.0,1,0.511573788251877,5.549999999999999,-23.099999999999998,1.063683600148166,High risk: prioritize dispatch and monitor closely
+D1062,F1,P114,2026-04-28,Medium,1.0,1,0.5137944271605634,5.640000000000001,-23.28,1.0636164912175028,High risk: prioritize dispatch and monitor closely
+D1127,F4,P181,2026-04-03,Medium,1.0,1,0.5090400433467722,5.459999999999999,-22.919999999999998,1.0634376030824102,High risk: prioritize dispatch and monitor closely
+D840,F2,P19,2026-04-20,Medium,0.9900338109273279,1,0.4990630929589307,5.0699999999999985,-22.139999999999997,1.0633742266650823,High risk: prioritize dispatch and monitor closely
+D89,F5,P193,2026-04-02,Medium,1.0,1,0.6085313843121107,9.38,-30.76,1.0632848159338697,High risk: prioritize dispatch and monitor closely
+D616,F4,P14,2026-04-22,Medium,1.0,1,0.5982928301492371,8.979999999999999,-29.959999999999997,1.0632140299458817,High risk: prioritize dispatch and monitor closely
+D365,F1,P63,2026-04-05,Medium,0.9975117004680187,1,0.4920783662451593,4.809999999999999,-21.619999999999997,1.0629985492649865,High risk: prioritize dispatch and monitor closely
+D990,F3,P79,2026-04-14,High,1.0,1,0.6597180024420366,9.91,-34.82,1.0628700105762512,Immediate action: allocate fastest route and backup resources
+D989,F2,P55,2026-04-16,High,1.0,1,0.6603253386913447,9.950000000000001,-34.900000000000006,1.0624605700080705,Immediate action: allocate fastest route and backup resources
+D586,F5,P147,2026-04-11,High,1.0,1,0.6423352827966667,9.25,-33.5,1.0622641084194424,Immediate action: allocate fastest route and backup resources
+D747,F3,P142,2026-04-07,Medium,0.9975078125,1,0.5928354838711549,8.809999999999999,-29.619999999999997,1.062077985142126,High risk: prioritize dispatch and monitor closely
+D436,F5,P60,2026-04-23,Medium,1.0,1,0.5660231360790828,7.760000000000002,-27.520000000000003,1.0619560288091285,High risk: prioritize dispatch and monitor closely
+D622,F2,P43,2026-04-27,Low,1.0,1,0.47679693307534843,2.76,-20.52,1.0616977973356434,High risk: prioritize dispatch and monitor closely
+D597,F2,P127,2026-04-29,Medium,0.9925363825869813,1,0.483831335730512,4.54,-21.08,1.061614762268387,High risk: prioritize dispatch and monitor closely
+D439,F2,P33,2026-04-22,Medium,1.0,1,0.5867942218881997,8.62,-29.24,1.0608664130422414,High risk: prioritize dispatch and monitor closely
+D225,F1,P22,2026-04-16,Medium,1.0,1,0.531199899328497,6.4399999999999995,-24.88,1.0606864270356653,High risk: prioritize dispatch and monitor closely
+D1118,F3,P17,2026-04-19,High,1.0,1,0.6551622427834998,9.82,-34.64,1.0606019987570634,Immediate action: allocate fastest route and backup resources
+D767,F2,P17,2026-04-18,High,1.0,1,0.6528403392016299,9.74,-34.480000000000004,1.0603136488101708,Immediate action: allocate fastest route and backup resources
+D993,F4,P77,2026-04-23,Medium,1.0,1,0.5747311553399375,8.189999999999998,-28.379999999999995,1.059733697281981,High risk: prioritize dispatch and monitor closely
+D806,F4,P137,2026-04-22,High,1.0,1,0.7366926351026087,13.069999999999997,-41.13999999999999,1.0595192746552269,Immediate action: allocate fastest route and backup resources
+D805,F2,P81,2026-04-14,Medium,1.0,1,0.5201377590400983,6.059999999999999,-24.119999999999997,1.0592836665134078,High risk: prioritize dispatch and monitor closely
+D602,F4,P48,2026-04-23,High,1.0,1,0.7114695084149694,12.129999999999999,-39.26,1.0581904031785687,Immediate action: allocate fastest route and backup resources
+D896,F2,P6,2026-04-12,Medium,1.0,1,0.5044654867582866,5.49,-22.98,1.058100463880808,High risk: prioritize dispatch and monitor closely
+D1076,F5,P174,2026-04-24,Medium,1.0,1,0.5186406781078613,6.050000000000001,-24.1,1.058040779785543,High risk: prioritize dispatch and monitor closely
+D298,F3,P13,2026-04-23,Medium,1.0,1,0.5683916319851354,8.010000000000002,-28.020000000000003,1.0579696696058776,High risk: prioritize dispatch and monitor closely
+D808,F2,P31,2026-04-25,High,0.7460647279208439,1,0.48622046329498514,3.3000000000000007,-21.6,1.0573948405191844,High risk: prioritize dispatch and monitor closely
+D108,F5,P62,2026-04-22,Low,1.0,1,0.44897955681983176,1.8600000000000003,-18.72,1.0567578994736193,High risk: prioritize dispatch and monitor closely
+D227,F2,P164,2026-04-18,Medium,1.0,1,0.5147884689889072,5.949999999999999,-23.9,1.0567305127103102,High risk: prioritize dispatch and monitor closely
+D674,F2,P161,2026-04-26,High,1.0,1,0.6577583768014902,10.139999999999999,-35.28,1.0550639182351453,Immediate action: allocate fastest route and backup resources
+D1106,F5,P84,2026-04-06,Medium,1.0,1,0.5541967781713938,7.59,-27.18,1.0544509723757658,High risk: prioritize dispatch and monitor closely
+D1107,F4,P103,2026-04-02,High,1.0,1,0.7362066723106478,13.26,-41.519999999999996,1.0542036219801953,Immediate action: allocate fastest route and backup resources
+D426,F4,P117,2026-04-18,Medium,1.0,1,0.515485354338061,6.09,-24.18,1.053868679198254,High risk: prioritize dispatch and monitor closely
+D541,F2,P123,2026-04-03,Medium,1.0,1,0.4983917164811309,5.430000000000001,-22.86,1.0535518588298853,High risk: prioritize dispatch and monitor closely
+D687,F5,P108,2026-04-17,Medium,1.0,1,0.5277451625509184,6.589999999999998,-25.179999999999996,1.0534187771925048,High risk: prioritize dispatch and monitor closely
+D463,F3,P139,2026-04-08,Medium,1.0,1,0.604953080577689,9.639999999999999,-31.279999999999998,1.0530974628857723,High risk: prioritize dispatch and monitor closely
+D1041,F3,P164,2026-04-24,Medium,0.9950194886870548,1,0.5078137414760397,5.84,-23.68,1.0525519214455366,High risk: prioritize dispatch and monitor closely
+D231,F4,P39,2026-04-27,Medium,1.0,1,0.6166981907197541,10.129999999999999,-32.26,1.0523870570136025,High risk: prioritize dispatch and monitor closely
+D964,F5,P47,2026-04-09,High,1.0,1,0.6809795882668855,11.159999999999998,-37.31999999999999,1.0523573208545827,Immediate action: allocate fastest route and backup resources
+D35,F1,P22,2026-04-19,Medium,1.0,1,0.514065308672689,6.110000000000001,-24.220000000000002,1.051940245124138,High risk: prioritize dispatch and monitor closely
+D1012,F3,P114,2026-04-05,Medium,1.0,1,0.4920442528758705,5.25,-22.5,1.0517798909033234,High risk: prioritize dispatch and monitor closely
+D177,F1,P4,2026-04-03,High,1.0,1,0.6489194598322758,9.959999999999997,-34.919999999999995,1.0508004969446296,Immediate action: allocate fastest route and backup resources
+D818,F1,P12,2026-04-07,Medium,1.0,1,0.596477764398725,9.399999999999999,-30.799999999999997,1.0507228076117396,High risk: prioritize dispatch and monitor closely
+D514,F1,P138,2026-04-23,Medium,1.0,1,0.5819356901740462,8.829999999999998,-29.659999999999997,1.0506698030362729,High risk: prioritize dispatch and monitor closely
+D570,F3,P91,2026-04-02,Low,1.0,1,0.47114338374322473,3.01,-21.02,1.0496893928942161,High risk: prioritize dispatch and monitor closely
+D830,F1,P15,2026-04-30,High,1.0,1,0.6594017209332709,10.440000000000001,-35.88,1.0490814362357619,Immediate action: allocate fastest route and backup resources
+D520,F1,P53,2026-04-06,Low,1.0,1,0.4080692664381201,0.5699999999999998,-16.14,1.0486386614559136,High risk: prioritize dispatch and monitor closely
+D628,F1,P115,2026-04-18,Medium,1.0,1,0.514746310472887,6.27,-24.54,1.0485541396543816,High risk: prioritize dispatch and monitor closely
+D629,F3,P117,2026-04-12,Medium,1.0,1,0.5250896359689572,6.680000000000003,-25.360000000000007,1.0484755027711938,High risk: prioritize dispatch and monitor closely
+D825,F5,P152,2026-04-13,Low,1.0,1,0.428144271471521,1.37,-17.740000000000002,1.0483781301395432,High risk: prioritize dispatch and monitor closely
+D237,F5,P189,2026-04-25,High,0.9850623044482175,1,0.6273457875275469,9.21,-33.42,1.0482913899678112,Immediate action: allocate fastest route and backup resources
+D877,F1,P57,2026-04-19,Medium,1.0,1,0.5131779481005523,6.219999999999999,-24.439999999999998,1.0482567483039076,High risk: prioritize dispatch and monitor closely
+D1031,F5,P37,2026-04-12,High,1.0,1,0.6487075477509927,10.060000000000002,-35.120000000000005,1.048046642819625,Immediate action: allocate fastest route and backup resources
+D351,F3,P150,2026-04-01,Medium,1.0,1,0.5124890063764714,6.23,-24.46,1.0473136123754547,High risk: prioritize dispatch and monitor closely
+D91,F4,P138,2026-04-18,Medium,1.0,1,0.5155920204629314,6.389999999999999,-24.779999999999998,1.0463495191919603,High risk: prioritize dispatch and monitor closely
+D278,F3,P151,2026-04-27,Low,1.0,1,0.47667045752728776,3.3699999999999997,-21.74,1.0460654753208822,High risk: prioritize dispatch and monitor closely
+D709,F5,P134,2026-04-20,Medium,1.0,1,0.5095278075297832,6.170000000000002,-24.340000000000003,1.0458775787549992,High risk: prioritize dispatch and monitor closely
+D232,F4,P49,2026-04-26,High,1.0,1,0.6604692201749841,10.61,-36.22,1.0458276340031487,Immediate action: allocate fastest route and backup resources
+D573,F5,P106,2026-04-11,Medium,1.0,1,0.5249954343641507,6.789999999999999,-25.58,1.0455851649182941,High risk: prioritize dispatch and monitor closely
+D834,F4,P193,2026-04-14,Medium,1.0,1,0.5259398882991243,6.829999999999998,-25.659999999999997,1.045512842035779,High risk: prioritize dispatch and monitor closely
+D690,F5,P12,2026-04-26,Medium,1.0,1,0.53533614148586,7.220000000000001,-26.44,1.0449955212520012,High risk: prioritize dispatch and monitor closely
+D632,F5,P30,2026-04-25,Medium,0.9428016643104171,1,0.47831832977000455,4.98,-21.96,1.0449172113155054,High risk: prioritize dispatch and monitor closely
+D696,F5,P109,2026-04-04,High,1.0,1,0.7799218797618805,15.36,-45.72,1.0445380465132785,Immediate action: allocate fastest route and backup resources
+D534,F2,P110,2026-04-02,Low,1.0,1,0.46946059863991096,3.1500000000000004,-21.3,1.0444478889296924,High risk: prioritize dispatch and monitor closely
+D334,F4,P168,2026-04-01,Medium,1.0,1,0.5085743595937249,6.1899999999999995,-24.38,1.0444157424101967,High risk: prioritize dispatch and monitor closely
+D943,F4,P57,2026-04-28,Medium,1.0,1,0.5210167396821507,6.68,-25.36,1.0444026064843874,High risk: prioritize dispatch and monitor closely
+D491,F4,P73,2026-04-29,High,0.9950117248630673,1,0.6407878553025999,9.900000000000002,-34.800000000000004,1.0441940576411863,Immediate action: allocate fastest route and backup resources
+D575,F2,P183,2026-04-21,High,1.0,1,0.6857709573125012,11.669999999999998,-38.339999999999996,1.044184785477219,Immediate action: allocate fastest route and backup resources
+D141,F2,P33,2026-04-02,Medium,1.0,1,0.6044110242885427,9.980000000000002,-31.960000000000004,1.0439128036479732,High risk: prioritize dispatch and monitor closely
+D73,F2,P17,2026-04-14,High,1.0,1,0.658257184465239,10.6,-36.2,1.0438697924977758,Immediate action: allocate fastest route and backup resources
+D707,F3,P177,2026-04-14,Medium,1.0,1,0.5331809943760458,7.199999999999999,-26.4,1.0433487625509315,High risk: prioritize dispatch and monitor closely
+D504,F2,P22,2026-04-29,Medium,0.9875304590997832,1,0.48525793214692553,5.33,-22.66,1.0429600165394013,High risk: prioritize dispatch and monitor closely
+D1019,F2,P59,2026-04-07,Medium,1.0,1,0.5959835446868251,9.689999999999998,-31.379999999999995,1.0428569559730478,High risk: prioritize dispatch and monitor closely
+D120,F4,P79,2026-04-16,High,1.0,1,0.6642547155580019,10.88,-36.760000000000005,1.0427498858681186,Immediate action: allocate fastest route and backup resources
+D670,F3,P56,2026-04-01,High,1.0,1,0.6437970378277402,10.130000000000003,-35.260000000000005,1.0413567734657676,Immediate action: allocate fastest route and backup resources
+D157,F4,P28,2026-04-03,High,1.0,1,0.6432747900909158,10.11,-35.22,1.0413429141376875,Immediate action: allocate fastest route and backup resources
+D654,F3,P33,2026-04-17,Medium,0.9950155763239876,1,0.524468683083689,6.960000000000001,-25.92,1.040737112163506,High risk: prioritize dispatch and monitor closely
+D857,F2,P123,2026-04-25,Medium,0.7935720395233568,1,0.38193983551647565,1.38,-14.76,1.0400486306359469,High risk: prioritize dispatch and monitor closely
+D224,F4,P181,2026-04-17,Medium,0.9950104058272632,1,0.5193485892006063,6.790000000000001,-25.580000000000002,1.0399383197547496,High risk: prioritize dispatch and monitor closely
+D929,F2,P93,2026-04-04,Medium,1.0,1,0.6457064345069994,11.790000000000001,-35.58,1.0391990628750725,High risk: prioritize dispatch and monitor closely
+D433,F4,P181,2026-04-18,Medium,1.0,1,0.5211274844097813,6.890000000000002,-25.780000000000005,1.039175272920203,High risk: prioritize dispatch and monitor closely
+D306,F4,P154,2026-04-03,Medium,1.0,1,0.5124315181837255,6.550000000000001,-25.1,1.0391219096428002,High risk: prioritize dispatch and monitor closely
+D1119,F4,P57,2026-04-28,Medium,1.0,1,0.5210167396821507,6.899999999999999,-25.799999999999997,1.0388103339882004,High risk: prioritize dispatch and monitor closely
+D1165,F5,P154,2026-04-11,Medium,1.0,1,0.5151085004565135,6.68,-25.36,1.0384943672587503,High risk: prioritize dispatch and monitor closely
+D538,F4,P198,2026-04-27,High,1.0,1,0.7491693908660391,14.389999999999999,-43.78,1.0384423954415347,Immediate action: allocate fastest route and backup resources
+D710,F2,P19,2026-04-12,Medium,0.9900467776479752,1,0.5014486739505,6.149999999999999,-24.299999999999997,1.0383068335844603,High risk: prioritize dispatch and monitor closely
+D873,F2,P33,2026-04-04,Medium,1.0,1,0.6412198541213759,11.660000000000002,-35.32000000000001,1.0380170071462869,High risk: prioritize dispatch and monitor closely
+D626,F5,P25,2026-04-08,Low,1.0,1,0.4672547323788228,3.33,-21.66,1.0376665269899057,High risk: prioritize dispatch and monitor closely
+D215,F2,P146,2026-04-30,Medium,1.0,1,0.5302854243811264,7.339999999999998,-26.679999999999996,1.036894473694802,High risk: prioritize dispatch and monitor closely
+D64,F4,P134,2026-04-08,Medium,1.0,1,0.6030041380961271,10.23,-32.46,1.0361510623462542,High risk: prioritize dispatch and monitor closely
+D282,F4,P63,2026-04-23,Medium,1.0,1,0.5779062503235819,9.25,-30.5,1.0359642066021788,High risk: prioritize dispatch and monitor closely
+D460,F4,P161,2026-04-21,High,1.0,1,0.6931974592731261,12.290000000000001,-39.58,1.0358512467667713,Immediate action: allocate fastest route and backup resources
+D1051,F5,P62,2026-04-21,Low,1.0,1,0.41528902960165776,1.3600000000000003,-17.72,1.0357770824740522,High risk: prioritize dispatch and monitor closely
+D928,F5,P81,2026-04-09,Medium,1.0,1,0.559390872527029,8.540000000000003,-29.080000000000005,1.0354966173160478,High risk: prioritize dispatch and monitor closely
+D685,F2,P22,2026-04-06,Medium,1.0,1,0.5485246799979242,8.120000000000001,-28.240000000000002,1.0353065813705729,High risk: prioritize dispatch and monitor closely
+D255,F4,P52,2026-04-16,High,0.9975039123630672,1,0.6614520754276687,11.07,-37.14,1.0351175558547148,Immediate action: allocate fastest route and backup resources
+D137,F2,P32,2026-04-08,Medium,1.0,1,0.6088250609104874,10.500000000000002,-33.0,1.0351087416425666,High risk: prioritize dispatch and monitor closely
+D544,F1,P45,2026-04-09,Medium,1.0,1,0.5474518855504549,8.100000000000001,-28.200000000000003,1.0347421753318478,High risk: prioritize dispatch and monitor closely
+D577,F5,P32,2026-04-05,Medium,1.0,1,0.5199887458562236,7.02,-26.04,1.0347320097098076,High risk: prioritize dispatch and monitor closely
+D102,F1,P138,2026-04-08,Medium,1.0,1,0.6185194878594299,10.899999999999999,-33.8,1.0346354004166236,High risk: prioritize dispatch and monitor closely
+D60,F2,P160,2026-04-13,High,1.0,1,0.7006315223299294,12.69,-40.379999999999995,1.0331175416486889,Immediate action: allocate fastest route and backup resources
+D480,F2,P17,2026-04-22,High,1.0,1,0.7257989761497653,13.69,-42.379999999999995,1.0328655750313107,Immediate action: allocate fastest route and backup resources
+D1079,F1,P130,2026-04-05,High,1.0,1,0.6362761551900175,10.169999999999998,-35.339999999999996,1.0328191140105563,Immediate action: allocate fastest route and backup resources
+D765,F3,P199,2026-04-15,Medium,1.0,1,0.5832463975640699,9.639999999999999,-31.279999999999998,1.031390779872153,High risk: prioritize dispatch and monitor closely
+D207,F4,P195,2026-04-29,Medium,0.992516906126061,1,0.5004409157062845,6.390000000000002,-24.780000000000005,1.0311984144353135,High risk: prioritize dispatch and monitor closely
+D506,F2,P6,2026-04-11,Medium,0.9926074658104289,1,0.5032669172989969,6.540000000000001,-25.080000000000002,1.0302115029624437,High risk: prioritize dispatch and monitor closely
+D1153,F4,P125,2026-04-21,High,1.0,1,0.7053873656101098,13.010000000000002,-41.02,1.029739170388961,Immediate action: allocate fastest route and backup resources
+D948,F1,P176,2026-04-13,Medium,1.0,1,0.5797833742570307,9.599999999999998,-31.199999999999996,1.0289445333826026,High risk: prioritize dispatch and monitor closely
+D33,F3,P89,2026-04-07,High,0.9975078125,1,0.7332949609023828,14.150000000000002,-43.300000000000004,1.0286686263828098,Immediate action: allocate fastest route and backup resources
+D276,F3,P145,2026-04-07,Low,1.0,1,0.4576624694922864,3.33,-21.66,1.028074264103369,High risk: prioritize dispatch and monitor closely
+D1018,F1,P105,2026-04-02,Low,1.0,1,0.472059188615327,3.9000000000000004,-22.8,1.027981913577198,High risk: prioritize dispatch and monitor closely
+D986,F5,P88,2026-04-16,High,1.0,1,0.6689200886862653,11.670000000000002,-38.34,1.027333916850983,Immediate action: allocate fastest route and backup resources
+D217,F5,P61,2026-04-08,Low,1.0,1,0.47197597823916126,3.960000000000001,-22.92,1.0263735379747994,High risk: prioritize dispatch and monitor closely
+D715,F5,P63,2026-04-30,Medium,1.0,1,0.5384067799551933,8.100000000000001,-28.200000000000003,1.0256970697365861,High risk: prioritize dispatch and monitor closely
+D872,F1,P53,2026-04-16,Low,1.0,1,0.3852445771967999,0.5799999999999998,-16.16,1.0255597780102212,High risk: prioritize dispatch and monitor closely
+D206,F2,P82,2026-04-25,Medium,0.796060339055338,1,0.3829576533119809,2.01,-16.02,1.0250522135560074,High risk: prioritize dispatch and monitor closely
+D1200,F4,P164,2026-04-10,Medium,1.0,1,0.5228033873676043,7.539999999999999,-27.08,1.024328552593837,High risk: prioritize dispatch and monitor closely
+D644,F3,P111,2026-04-02,Medium,1.0,1,0.6127929499676502,11.100000000000001,-34.2,1.023824978437401,High risk: prioritize dispatch and monitor closely
+D655,F4,P136,2026-04-15,High,1.0,1,0.7215309015157958,13.880000000000003,-42.760000000000005,1.0237678105142705,Immediate action: allocate fastest route and backup resources
+D525,F4,P90,2026-04-22,Medium,1.0,1,0.5992314920480973,10.569999999999999,-33.14,1.0237358133495715,High risk: prioritize dispatch and monitor closely
+D1183,F4,P90,2026-04-02,Medium,1.0,1,0.6168482944484402,11.28,-34.56,1.0233048272394925,High risk: prioritize dispatch and monitor closely
+D799,F4,P31,2026-04-23,High,1.0,1,0.7134067684161884,13.580000000000002,-42.160000000000004,1.0232695035458272,Immediate action: allocate fastest route and backup resources
+D1083,F1,P58,2026-04-20,Medium,1.0,1,0.5185436347509783,7.419999999999998,-26.839999999999996,1.0231191304296767,High risk: prioritize dispatch and monitor closely
+D766,F1,P79,2026-04-17,High,1.0,1,0.6610376918587061,11.530000000000001,-38.06,1.0230102388846338,Immediate action: allocate fastest route and backup resources
+D692,F3,P77,2026-04-24,Medium,1.0,1,0.513401847574937,7.229999999999999,-26.459999999999997,1.022807033136706,High risk: prioritize dispatch and monitor closely
+D601,F4,P57,2026-04-26,Medium,1.0,1,0.5296965510837794,7.879999999999999,-27.759999999999998,1.0225791133613595,High risk: prioritize dispatch and monitor closely
+D900,F3,P184,2026-04-06,Medium,1.0,1,0.5691305435871885,9.439999999999998,-30.879999999999995,1.0223588099827148,High risk: prioritize dispatch and monitor closely
+D1042,F4,P68,2026-04-11,High,1.0,1,0.6440637819534965,10.889999999999999,-36.78,1.0223047580592413,Immediate action: allocate fastest route and backup resources
+D610,F5,P41,2026-04-27,Low,1.0,1,0.48115500617719936,4.49,-23.98,1.0220802730811138,High risk: prioritize dispatch and monitor closely
+D1136,F4,P32,2026-04-10,Medium,1.0,1,0.5214553307228127,7.580000000000002,-27.160000000000004,1.021963719131557,High risk: prioritize dispatch and monitor closely
+D749,F5,P25,2026-04-06,Low,1.0,1,0.4125558468237435,1.7999999999999998,-18.6,1.0218593547037638,High risk: prioritize dispatch and monitor closely
+D294,F2,P160,2026-04-30,High,1.0,1,0.6574253500195993,11.459999999999999,-37.92,1.0211772564761321,Immediate action: allocate fastest route and backup resources
+D22,F5,P99,2026-04-06,Low,1.0,1,0.4133878425977332,1.88,-18.759999999999998,1.0206577968427764,High risk: prioritize dispatch and monitor closely
+D736,F3,P138,2026-04-20,Medium,1.0,1,0.5242949706172088,7.789999999999999,-27.58,1.019465280734138,High risk: prioritize dispatch and monitor closely
+D681,F4,P130,2026-04-03,High,1.0,1,0.6446868464106297,11.030000000000001,-37.06,1.0193691036551644,Immediate action: allocate fastest route and backup resources
+D66,F4,P84,2026-04-14,Medium,1.0,1,0.5385341100427599,8.379999999999999,-28.759999999999998,1.0187069621017328,High risk: prioritize dispatch and monitor closely
+D218,F5,P160,2026-04-19,High,1.0,1,0.6523472729547751,11.370000000000001,-37.74,1.0183869272506572,Immediate action: allocate fastest route and backup resources
+D408,F4,P102,2026-04-27,High,1.0,1,0.7544884749595802,15.419999999999998,-45.839999999999996,1.0175794764847454,Immediate action: allocate fastest route and backup resources
+D820,F2,P138,2026-04-12,Medium,1.0,1,0.5129896339372215,7.449999999999999,-26.9,1.0168025470028037,High risk: prioritize dispatch and monitor closely
+D95,F4,P193,2026-04-21,Medium,1.0,1,0.5597911527654766,9.3,-30.6,1.0165781380222128,High risk: prioritize dispatch and monitor closely
+D861,F4,P168,2026-04-26,Medium,1.0,1,0.5274931337043122,8.03,-28.06,1.01656278291631,High risk: prioritize dispatch and monitor closely
+D1078,F1,P21,2026-04-07,Low,1.0,1,0.45735466153194587,3.7800000000000002,-22.560000000000002,1.0163277169462823,High risk: prioritize dispatch and monitor closely
+D41,F2,P160,2026-04-30,High,1.0,1,0.6574253500195993,11.660000000000002,-38.32000000000001,1.0160933723886891,Immediate action: allocate fastest route and backup resources
+D382,F1,P174,2026-04-09,Medium,1.0,1,0.5511049463603048,8.98,-29.96,1.0160261461569493,High risk: prioritize dispatch and monitor closely
+D1071,F1,P123,2026-04-29,Medium,0.995016906126061,1,0.502935728550731,7.17,-26.34,1.013866079338733,High risk: prioritize dispatch and monitor closely
+D992,F1,P32,2026-04-11,Medium,0.9975155763239876,1,0.513133189103037,7.609999999999999,-27.22,1.0128789948986647,High risk: prioritize dispatch and monitor closely
+D1196,F1,P138,2026-04-05,Medium,1.0,1,0.5081894407098371,7.439999999999998,-26.879999999999995,1.0122565479797914,High risk: prioritize dispatch and monitor closely
+D24,F5,P31,2026-04-09,High,1.0,1,0.6908710935798745,13.150000000000002,-41.300000000000004,1.0116641794975154,Immediate action: allocate fastest route and backup resources
+D110,F1,P80,2026-04-18,Medium,1.0,1,0.5323843161211123,8.45,-28.9,1.0107778087494803,High risk: prioritize dispatch and monitor closely
+D881,F2,P18,2026-04-23,Low,1.0,1,0.4310584882804685,2.9699999999999998,-20.939999999999998,1.0106212742489484,High risk: prioritize dispatch and monitor closely
+D444,F4,P77,2026-04-06,Medium,1.0,1,0.5566160674702418,9.41,-30.82,1.0106069164788845,High risk: prioritize dispatch and monitor closely
+D366,F4,P92,2026-04-21,Medium,1.0,1,0.5739030810858408,10.129999999999999,-32.26,1.0095919473796893,High risk: prioritize dispatch and monitor closely
+D405,F3,P138,2026-04-21,Medium,1.0,1,0.5756183739605436,10.21,-32.42,1.009273686619415,High risk: prioritize dispatch and monitor closely
+D604,F2,P190,2026-04-09,Low,1.0,1,0.4106957547879445,2.2300000000000004,-19.46,1.0090689118799627,High risk: prioritize dispatch and monitor closely
+D885,F3,P33,2026-04-21,Medium,1.0,1,0.5655130284638857,9.849999999999998,-31.699999999999996,1.0083193324801543,High risk: prioritize dispatch and monitor closely
+D1028,F4,P42,2026-04-04,Low,1.0,1,0.5092896036083626,6.2,-27.4,1.0067476615646411,High risk: prioritize dispatch and monitor closely
+D145,F4,P81,2026-04-03,Medium,1.0,1,0.5060544077182548,7.58,-27.16,1.0065627961269992,High risk: prioritize dispatch and monitor closely
+D779,F1,P70,2026-04-16,High,1.0,1,0.6735509223074279,12.680000000000003,-40.36000000000001,1.0062911358305593,Immediate action: allocate fastest route and backup resources
+D134,F3,P112,2026-04-08,Low,1.0,1,0.4689029779750356,4.67,-24.34,1.0052527492002516,High risk: prioritize dispatch and monitor closely
+D355,F4,P181,2026-04-09,Medium,1.0,1,0.550654916900137,9.390000000000002,-30.780000000000005,1.0051541543175238,High risk: prioritize dispatch and monitor closely
+D331,F1,P146,2026-04-17,Medium,0.9925656425332086,1,0.5227366350267949,8.389999999999999,-28.779999999999998,1.0026552928813959,High risk: prioritize dispatch and monitor closely
+D129,F1,P136,2026-04-08,High,1.0,1,0.7384767198226961,15.379999999999999,-45.76,1.00258449816535,Immediate action: allocate fastest route and backup resources
+D933,F4,P30,2026-04-29,Medium,1.0,1,0.5075804059407952,7.810000000000002,-27.620000000000005,1.0022423276489802,High risk: prioritize dispatch and monitor closely
+D459,F1,P127,2026-04-05,Medium,0.9900312135501221,1,0.49437153413020407,7.32,-26.64,1.0014889718526239,High risk: prioritize dispatch and monitor closely
+D117,F4,P71,2026-04-26,Medium,1.0,1,0.5314880340476755,8.799999999999999,-29.599999999999998,1.0009847295230188,High risk: prioritize dispatch and monitor closely
+D471,F1,P84,2026-04-19,Medium,1.0,1,0.5266168639663764,8.620000000000001,-29.240000000000002,1.000689055120418,High risk: prioritize dispatch and monitor closely
+D977,F3,P71,2026-04-15,Medium,1.0,1,0.5820923716797569,10.81,-33.620000000000005,1.0004960320763,High risk: prioritize dispatch and monitor closely
+D947,F4,P165,2026-04-05,Medium,1.0,1,0.5162401934679183,8.220000000000002,-28.440000000000005,1.0004801527968454,High risk: prioritize dispatch and monitor closely
+D618,F3,P113,2026-04-23,Medium,1.0,1,0.5784060573086893,10.670000000000002,-33.34,1.000368436566442,High risk: prioritize dispatch and monitor closely
+D85,F1,P59,2026-04-11,Medium,1.0,1,0.5253941624975952,8.59,-29.18,1.0002289362647532,High risk: prioritize dispatch and monitor closely
+D320,F3,P151,2026-04-10,Low,1.0,1,0.36479733279518317,0.8000000000000003,-16.6,0.9995202611124174,High risk: prioritize dispatch and monitor closely
+D454,F1,P71,2026-04-30,Medium,0.9950349923934846,1,0.5345333065273021,9.009999999999998,-30.019999999999996,0.9986919237108303,High risk: prioritize dispatch and monitor closely
+D372,F5,P168,2026-04-23,Medium,1.0,1,0.5767867639463699,10.68,-33.36,0.9984949489997506,High risk: prioritize dispatch and monitor closely
+D965,F5,P165,2026-04-11,Medium,1.0,1,0.5365636295733179,9.100000000000001,-30.200000000000003,0.9984344989174968,High risk: prioritize dispatch and monitor closely
+D383,F4,P114,2026-04-28,Medium,1.0,1,0.529839044076795,8.850000000000001,-29.700000000000003,0.9980647685302775,High risk: prioritize dispatch and monitor closely
+D243,F4,P15,2026-04-07,High,1.0,1,0.7349903306841026,15.46,-45.92,0.9970645553917792,Immediate action: allocate fastest route and backup resources
+D882,F5,P25,2026-04-06,Low,1.0,1,0.4125558468237435,2.79,-20.58,0.9966941284709219,High risk: prioritize dispatch and monitor closely
+D467,F5,P6,2026-04-01,Medium,1.0,1,0.5250629107629888,8.719999999999999,-29.439999999999998,0.9965931598733091,High risk: prioritize dispatch and monitor closely
+D1101,F1,P30,2026-04-02,Medium,1.0,1,0.6116211463958589,12.13,-36.260000000000005,0.9964711718152792,High risk: prioritize dispatch and monitor closely
+D722,F5,P134,2026-04-28,Medium,1.0,1,0.5218563544650597,8.600000000000001,-29.200000000000003,0.9964369340278456,High risk: prioritize dispatch and monitor closely
+D734,F3,P24,2026-04-01,Low,1.0,1,0.3661999716541081,0.98,-16.96,0.9963474042926439,High risk: prioritize dispatch and monitor closely
+D1014,F4,P114,2026-04-15,Medium,1.0,1,0.5873347577501769,11.18,-34.36,0.9963332325849505,High risk: prioritize dispatch and monitor closely
+D333,F3,P78,2026-04-13,Low,1.0,1,0.4350486173542086,3.7300000000000004,-22.46,0.9952926437904057,High risk: prioritize dispatch and monitor closely
+D982,F5,P148,2026-04-05,Low,1.0,1,0.35340876657992787,0.53,-16.06,0.9949949384152099,High risk: prioritize dispatch and monitor closely
+D954,F5,P149,2026-04-24,Low,1.0,1,0.37053679546091606,1.21,-17.42,0.9948377613988926,High risk: prioritize dispatch and monitor closely
+D1073,F4,P92,2026-04-17,Medium,0.9950259821512509,1,0.5328640881722242,9.129999999999999,-30.259999999999998,0.9939723749032867,High risk: prioritize dispatch and monitor closely
+D495,F2,P104,2026-04-02,Low,1.0,1,0.4712546212734468,5.23,-25.46,0.993369517053823,High risk: prioritize dispatch and monitor closely
+D912,F5,P58,2026-04-05,Medium,1.0,1,0.49864993360892074,7.809999999999999,-27.619999999999997,0.9933118553171058,High risk: prioritize dispatch and monitor closely
+D449,F1,P176,2026-04-26,Medium,1.0,1,0.5370915611408713,9.329999999999998,-30.659999999999997,0.9931159637844911,High risk: prioritize dispatch and monitor closely
+D760,F4,P173,2026-04-03,Low,0.9975026096033404,1,0.3634900296044553,1.0100000000000002,-17.02,0.9928748796298748,High risk: prioritize dispatch and monitor closely
+D55,F5,P154,2026-04-06,Medium,1.0,1,0.5564179732383395,10.129999999999999,-32.26,0.9921068395321879,High risk: prioritize dispatch and monitor closely
+D1,F5,P88,2026-04-30,High,1.0,1,0.6659464495949665,12.96,-40.92,0.9915692253956782,Immediate action: allocate fastest route and backup resources
+D656,F5,P152,2026-04-20,Low,1.0,1,0.3644441000184563,1.1,-17.2,0.9915412022045264,High risk: prioritize dispatch and monitor closely
+D539,F5,P18,2026-04-20,Low,1.0,1,0.3750365541520226,1.5299999999999994,-18.06,0.9912033055500906,High risk: prioritize dispatch and monitor closely
+D403,F2,P117,2026-04-22,Medium,1.0,1,0.594003836061588,11.67,-35.34,0.9905467948821268,High risk: prioritize dispatch and monitor closely
+D942,F4,P1,2026-04-13,High,1.0,1,0.704937278237201,14.549999999999999,-44.099999999999994,0.9901431755427423,Immediate action: allocate fastest route and backup resources
+D1000,F1,P182,2026-04-07,Low,1.0,1,0.46359513777079675,5.07,-25.14,0.9897771408211271,High risk: prioritize dispatch and monitor closely
+D247,F1,P44,2026-04-06,Medium,1.0,1,0.5702825377357896,10.779999999999998,-33.559999999999995,0.9894487807454491,High risk: prioritize dispatch and monitor closely
+D981,F5,P158,2026-04-14,Low,1.0,1,0.38477539897589547,1.9899999999999998,-18.98,0.9892492169728451,High risk: prioritize dispatch and monitor closely
+D186,F1,P182,2026-04-21,Low,1.0,1,0.4238126688466648,3.5299999999999994,-22.06,0.9891405793703048,High risk: prioritize dispatch and monitor closely
+D973,F3,P135,2026-04-04,High,1.0,1,0.7805964160182044,17.580000000000002,-50.160000000000004,0.9887814693989871,Immediate action: allocate fastest route and backup resources
+D1010,F3,P176,2026-04-02,Medium,1.0,1,0.6204693554208289,12.79,-37.58,0.988542563351688,High risk: prioritize dispatch and monitor closely
+D895,F1,P22,2026-04-15,Medium,1.0,1,0.5775565217031219,11.110000000000001,-34.22,0.9883343559685006,High risk: prioritize dispatch and monitor closely
+D371,F3,P185,2026-04-28,Low,1.0,1,0.37712566103366124,1.7599999999999998,-18.52,0.9874459457311702,High risk: prioritize dispatch and monitor closely
+D499,F4,P49,2026-04-22,High,1.0,1,0.7244747923995876,15.43,-45.86,0.9873115997203805,Immediate action: allocate fastest route and backup resources
+D373,F1,P49,2026-04-06,High,1.0,1,0.694214860619229,14.25,-43.5,0.9870465840559346,Immediate action: allocate fastest route and backup resources
+D631,F4,P171,2026-04-14,Medium,0.9975155763239876,1,0.5272290683006123,9.19,-30.38,0.986812189805442,High risk: prioritize dispatch and monitor closely
+D633,F5,P66,2026-04-23,Low,1.0,1,0.43640500080611916,4.120000000000001,-23.240000000000002,0.9867354532718029,High risk: prioritize dispatch and monitor closely
+D265,F3,P38,2026-04-30,Low,1.0,1,0.3856233020300018,2.13,-19.259999999999998,0.9865384011657414,High risk: prioritize dispatch and monitor closely
+D1081,F4,P150,2026-04-12,Medium,1.0,1,0.5283556511257057,9.25,-30.5,0.9864136074043025,High risk: prioritize dispatch and monitor closely
+D36,F4,P70,2026-04-13,High,1.0,1,0.7110350250422965,14.940000000000001,-44.88,0.9863273483773244,Immediate action: allocate fastest route and backup resources
+D407,F1,P182,2026-04-07,Low,1.0,1,0.46359513777079675,5.209999999999999,-25.419999999999998,0.9862184219599172,High risk: prioritize dispatch and monitor closely
+D871,F4,P149,2026-04-24,Low,1.0,1,0.37188078863428403,1.6100000000000003,-18.22,0.9860139863973749,High risk: prioritize dispatch and monitor closely
+D884,F4,P170,2026-04-08,High,1.0,1,0.7512024964536719,16.54,-48.08,0.9858237470891573,Immediate action: allocate fastest route and backup resources
+D821,F1,P101,2026-04-21,Low,1.0,1,0.42027998837774017,3.5600000000000005,-22.12,0.9848453162882637,High risk: prioritize dispatch and monitor closely
+D171,F2,P91,2026-04-15,Low,1.0,1,0.44130883280249406,4.42,-23.84,0.9840134591370135,High risk: prioritize dispatch and monitor closely
+D998,F4,P102,2026-04-14,High,1.0,1,0.6624181792030435,13.16,-41.32,0.9829570709163123,Immediate action: allocate fastest route and backup resources
+D151,F2,P144,2026-04-18,Medium,1.0,1,0.5217304019822634,9.13,-30.26,0.9828386887133258,High risk: prioritize dispatch and monitor closely
+D260,F2,P162,2026-04-04,Low,1.0,1,0.5170076596436336,7.459999999999999,-29.919999999999998,0.9824372478490224,High risk: prioritize dispatch and monitor closely
+D1131,F2,P55,2026-04-25,High,0.673939695077722,1,0.4588381391760423,5.1899999999999995,-25.38,0.9819698117739071,High risk: prioritize dispatch and monitor closely
+D517,F2,P184,2026-04-16,Medium,1.0,1,0.5332854760366788,9.62,-31.24,0.9819382467535065,High risk: prioritize dispatch and monitor closely
+D181,F5,P189,2026-04-06,High,1.0,1,0.6916249055205882,14.350000000000001,-43.7,0.9819146869135723,Immediate action: allocate fastest route and backup resources
+D763,F3,P56,2026-04-02,High,1.0,1,0.7443381865632739,16.43,-47.86,0.9817555734468528,Immediate action: allocate fastest route and backup resources
+D1033,F5,P107,2026-04-09,Low,1.0,1,0.41486538440252424,3.4799999999999995,-21.96,0.981464265948025,High risk: prioritize dispatch and monitor closely
+D764,F5,P17,2026-04-03,High,1.0,1,0.6400854729572886,12.36,-39.72,0.9809599010203287,Immediate action: allocate fastest route and backup resources
+D1155,F4,P79,2026-04-11,High,1.0,1,0.6457699320174961,12.590000000000002,-40.18000000000001,0.9807978933799768,Immediate action: allocate fastest route and backup resources
+D400,F5,P196,2026-04-21,High,1.0,1,0.7070396746777463,15.009999999999998,-45.019999999999996,0.9805526385821692,Immediate action: allocate fastest route and backup resources
+D448,F1,P177,2026-04-08,Medium,1.0,1,0.6124776137864093,12.799999999999999,-37.599999999999994,0.9802966275128964,High risk: prioritize dispatch and monitor closely
+D393,F2,P18,2026-04-10,Low,1.0,1,0.3643203828368337,1.6099999999999994,-18.22,0.9784535805999246,High risk: prioritize dispatch and monitor closely
+D270,F4,P167,2026-04-18,High,1.0,1,0.6624824489559931,13.380000000000003,-41.760000000000005,0.9774290681730748,Immediate action: allocate fastest route and backup resources
+D279,F3,P127,2026-04-03,Medium,1.0,1,0.5115659987704907,8.95,-29.9,0.9772497811802516,High risk: prioritize dispatch and monitor closely
+D777,F1,P161,2026-04-19,High,1.0,1,0.6590220327020272,13.309999999999999,-41.62,0.975748011349714,Immediate action: allocate fastest route and backup resources
+D138,F3,P112,2026-04-10,Low,1.0,1,0.36558107484601715,1.7799999999999994,-18.56,0.9753929711347817,High risk: prioritize dispatch and monitor closely
+D1067,F5,P100,2026-04-17,Low,1.0,1,0.38655375272950804,2.620000000000001,-20.240000000000002,0.9750133358510127,High risk: prioritize dispatch and monitor closely
+D170,F2,P190,2026-04-09,Low,1.0,1,0.4106957547879445,3.6099999999999994,-22.22,0.9739901116766074,High risk: prioritize dispatch and monitor closely
+D1065,F5,P133,2026-04-01,Low,1.0,1,0.38086808762558255,2.460000000000001,-19.92,0.9733947780170416,High risk: prioritize dispatch and monitor closely
+D160,F2,P91,2026-04-14,Low,1.0,1,0.38895671107081814,2.7799999999999994,-20.56,0.9733491869223687,High risk: prioritize dispatch and monitor closely
+D308,F3,P62,2026-04-25,Low,0.402350020460256,0,0.07382061579006018,2.8900000000000006,4.219999999999999,0.9731597108586926,Normal planning
+D159,F2,P66,2026-04-20,Low,1.0,1,0.38005138582271886,2.4499999999999993,-19.9,0.9728322704185501,High risk: prioritize dispatch and monitor closely
+D757,F2,P114,2026-04-29,Medium,0.9850462075822769,1,0.49025054697065273,8.29,-28.58,0.9727111468689751,High risk: prioritize dispatch and monitor closely
+D47,F2,P107,2026-04-01,Low,1.0,1,0.3702289035706444,2.09,-19.18,0.9721607795238727,High risk: prioritize dispatch and monitor closely
+D831,F2,P66,2026-04-20,Low,1.0,1,0.38005138582271886,2.4799999999999986,-19.959999999999997,0.9720696878054338,High risk: prioritize dispatch and monitor closely
+D253,F4,P149,2026-04-13,Low,1.0,1,0.43662575220050776,4.71,-24.42,0.9719587466082351,High risk: prioritize dispatch and monitor closely
+D1104,F2,P151,2026-04-26,Low,1.0,1,0.395002124134837,3.0999999999999996,-21.2,0.971260385446479,High risk: prioritize dispatch and monitor closely
+D728,F5,P63,2026-04-02,Medium,1.0,1,0.6205435137743103,13.5,-39.0,0.9705689331947474,High risk: prioritize dispatch and monitor closely
+D814,F2,P27,2026-04-19,Low,1.0,1,0.37412036871047927,2.42,-19.84,0.9676638359194268,High risk: prioritize dispatch and monitor closely
+D178,F5,P150,2026-04-03,Medium,1.0,1,0.5081420161621484,9.2,-30.4,0.9674709434626059,High risk: prioritize dispatch and monitor closely
+D970,F3,P129,2026-04-17,Medium,0.9975155763239876,1,0.5406370772686746,10.48,-32.96,0.9674291464094982,High risk: prioritize dispatch and monitor closely
+D855,F4,P129,2026-04-21,Medium,1.0,1,0.5683081888694202,11.569999999999999,-35.14,0.9673930897336804,High risk: prioritize dispatch and monitor closely
+D568,F4,P119,2026-04-10,Low,1.0,1,0.3822509584275609,2.7700000000000014,-20.540000000000003,0.9668976284834836,High risk: prioritize dispatch and monitor closely
+D1158,F2,P121,2026-04-30,Medium,0.9900428775110425,1,0.5226454225754243,9.809999999999999,-31.619999999999997,0.9664685034091813,High risk: prioritize dispatch and monitor closely
+D712,F2,P178,2026-04-23,Medium,1.0,1,0.5753782631641516,11.899999999999999,-35.8,0.9660747552841313,High risk: prioritize dispatch and monitor closely
+D114,F3,P119,2026-04-08,Low,1.0,1,0.48065758493576216,6.68,-28.36,0.9659143210821779,High risk: prioritize dispatch and monitor closely
+D672,F2,P24,2026-04-01,Low,1.0,1,0.3798608546464485,2.7200000000000006,-20.44,0.9657784957242319,High risk: prioritize dispatch and monitor closely
+D843,F4,P57,2026-04-11,Medium,1.0,1,0.5136710474404018,9.52,-31.04,0.9648657602009508,High risk: prioritize dispatch and monitor closely
+D451,F5,P16,2026-04-13,Low,1.0,1,0.4407070013116234,5.16,-25.32,0.9646012565226045,High risk: prioritize dispatch and monitor closely
+D961,F3,P118,2026-04-21,High,1.0,1,0.6949091966103333,15.169999999999998,-45.339999999999996,0.964355053244802,Immediate action: allocate fastest route and backup resources
+D562,F3,P74,2026-04-11,Low,0.995033697752729,1,0.37123608807697295,2.4400000000000004,-19.880000000000003,0.9642711668771762,High risk: prioritize dispatch and monitor closely
+D564,F5,P82,2026-04-08,Medium,1.0,1,0.6190264059195286,13.689999999999998,-39.379999999999995,0.9642221354568952,High risk: prioritize dispatch and monitor closely
+D72,F3,P131,2026-04-22,High,1.0,1,0.7316813589694082,16.63,-48.26,0.9640148617655444,Immediate action: allocate fastest route and backup resources
+D9,F5,P132,2026-04-08,High,1.0,1,0.7428886339209102,17.08,-49.16,0.9637833975203001,Immediate action: allocate fastest route and backup resources
+D1008,F2,P186,2026-04-14,Low,1.0,1,0.3866857384789329,3.0700000000000003,-21.14,0.9637065824036914,High risk: prioritize dispatch and monitor closely
+D252,F4,P50,2026-04-10,Low,1.0,1,0.38631290604941426,3.0600000000000005,-21.12,0.9635879441785448,High risk: prioritize dispatch and monitor closely
+D739,F4,P109,2026-04-18,High,1.0,1,0.6643440268019469,14.000000000000004,-43.00000000000001,0.963530605347956,Immediate action: allocate fastest route and backup resources
+D240,F1,P40,2026-04-28,Low,1.0,1,0.39051835491204157,3.2299999999999986,-21.459999999999997,0.9634720915668459,High risk: prioritize dispatch and monitor closely
+D791,F1,P33,2026-04-25,Medium,0.9950104221033403,1,0.5104895993603968,9.450000000000003,-30.900000000000006,0.9634636715515508,High risk: prioritize dispatch and monitor closely
+D169,F4,P85,2026-04-05,Low,1.0,1,0.36319005023055057,2.17,-19.34,0.9630883725488015,High risk: prioritize dispatch and monitor closely
+D219,F4,P98,2026-04-24,Low,1.0,1,0.3801215086814203,2.84,-20.68,0.962988819306738,High risk: prioritize dispatch and monitor closely
+D413,F4,P103,2026-04-25,High,0.6912034995471775,1,0.4644363963624294,6.160000000000002,-27.320000000000004,0.9629112311361965,High risk: prioritize dispatch and monitor closely
+D295,F5,P19,2026-04-25,Medium,0.9502938031344046,1,0.49036098727510324,8.68,-29.36,0.962908013202912,High risk: prioritize dispatch and monitor closely
+D788,F4,P87,2026-04-11,Medium,1.0,1,0.5334063122771519,10.41,-32.82,0.9619777408485803,High risk: prioritize dispatch and monitor closely
+D63,F1,P110,2026-04-17,Low,1.0,1,0.39045925670155135,3.290000000000001,-21.580000000000002,0.9618878281301227,High risk: prioritize dispatch and monitor closely
+D96,F1,P80,2026-04-24,Medium,1.0,1,0.5192842303945798,9.879999999999999,-31.759999999999998,0.9613279517977318,High risk: prioritize dispatch and monitor closely
+D962,F1,P191,2026-04-05,Low,1.0,1,0.36702901485803185,2.4000000000000004,-19.8,0.9610808704757238,High risk: prioritize dispatch and monitor closely
+D1082,F3,P115,2026-04-09,Medium,1.0,1,0.550464441677154,11.120000000000001,-34.24,0.9609880817381605,High risk: prioritize dispatch and monitor closely
+D876,F4,P101,2026-04-23,Low,1.0,1,0.4380613733451793,5.209999999999999,-25.419999999999998,0.9606846575342998,High risk: prioritize dispatch and monitor closely
+D923,F2,P138,2026-04-13,Medium,1.0,1,0.5743108941172473,12.080000000000002,-36.160000000000004,0.9604318905585283,High risk: prioritize dispatch and monitor closely
+D1194,F4,P129,2026-04-25,Medium,0.8508112842341223,1,0.42994302408818863,6.409999999999998,-24.819999999999997,0.9601921344084734,High risk: prioritize dispatch and monitor closely
+D369,F4,P195,2026-04-03,Medium,1.0,1,0.5148182997111843,9.750000000000002,-31.500000000000004,0.9601665457711741,High risk: prioritize dispatch and monitor closely
+D78,F3,P162,2026-04-11,Low,0.995033697752729,1,0.3724378597505137,2.6499999999999995,-20.299999999999997,0.960134860258902,High risk: prioritize dispatch and monitor closely
+D183,F2,P61,2026-04-24,Low,1.0,1,0.37785053608953506,2.879999999999999,-20.759999999999998,0.9597010698973643,High risk: prioritize dispatch and monitor closely
+D699,F4,P75,2026-04-24,Low,1.0,1,0.3691282946786978,2.54,-20.08,0.9596214314351798,High risk: prioritize dispatch and monitor closely
+D1168,F1,P58,2026-04-28,Medium,1.0,1,0.5308721816862548,10.41,-32.82,0.9594436102576833,High risk: prioritize dispatch and monitor closely
+D443,F2,P61,2026-04-19,Low,0.9975078125,1,0.3839464642165548,3.129999999999999,-21.259999999999998,0.9594421429150806,High risk: prioritize dispatch and monitor closely
+D1099,F5,P90,2026-04-27,Medium,1.0,1,0.6321490328742067,14.41,-40.82,0.9590427796967791,High risk: prioritize dispatch and monitor closely
+D377,F1,P42,2026-04-30,Low,1.0,1,0.38830722490531416,3.3199999999999994,-21.64,0.9589732137207692,High risk: prioritize dispatch and monitor closely
+D984,F5,P27,2026-04-01,Low,1.0,1,0.37620423829910293,2.8600000000000003,-20.72,0.9585631605156764,High risk: prioritize dispatch and monitor closely
+D86,F3,P94,2026-04-01,Low,1.0,1,0.3706647108808295,2.6499999999999995,-20.299999999999997,0.9583617113892178,High risk: prioritize dispatch and monitor closely
+D139,F3,P138,2026-04-26,Medium,1.0,1,0.5453033289541142,11.04,-34.08,0.9578605226500978,High risk: prioritize dispatch and monitor closely
+D963,F1,P165,2026-04-21,Medium,1.0,1,0.5620346969252523,11.719999999999999,-35.44,0.9573066847239304,High risk: prioritize dispatch and monitor closely
+D81,F3,P169,2026-04-17,Low,0.9975026096033404,1,0.3903363138058587,3.5299999999999994,-22.06,0.9556642243294986,High risk: prioritize dispatch and monitor closely
+D257,F1,P161,2026-04-27,High,1.0,1,0.7622314197573209,18.179999999999996,-51.35999999999999,0.9551648208757754,Immediate action: allocate fastest route and backup resources
+D851,F3,P39,2026-04-29,Medium,1.0,1,0.5064792051849896,9.620000000000001,-31.240000000000002,0.9551319759018171,High risk: prioritize dispatch and monitor closely
+D563,F1,P141,2026-04-16,Medium,1.0,1,0.5428178720626037,11.059999999999999,-34.12,0.9548666773498431,High risk: prioritize dispatch and monitor closely
+D236,F3,P164,2026-04-15,Medium,1.0,1,0.5812446299540006,12.580000000000002,-37.160000000000004,0.9546559161766746,High risk: prioritize dispatch and monitor closely
+D420,F1,P133,2026-04-10,Low,1.0,1,0.38024106387464435,3.1800000000000015,-21.360000000000003,0.9544657715513092,High risk: prioritize dispatch and monitor closely
+D559,F2,P192,2026-04-20,Low,1.0,1,0.37609762812751985,3.030000000000001,-21.060000000000002,0.9541352488697667,High risk: prioritize dispatch and monitor closely
+D409,F1,P52,2026-04-18,High,1.0,1,0.6591321167672042,14.170000000000002,-43.34,0.9539973938388868,Immediate action: allocate fastest route and backup resources
+D585,F1,P177,2026-04-06,Medium,1.0,1,0.55777872823133,11.729999999999999,-35.459999999999994,0.952796521825636,High risk: prioritize dispatch and monitor closely
+D888,F5,P66,2026-04-27,Low,1.0,1,0.48154002009458896,7.25,-29.5,0.9523076865917928,High risk: prioritize dispatch and monitor closely
+D1152,F3,P14,2026-04-06,Medium,1.0,1,0.5594950369738888,11.819999999999999,-35.64,0.9522250827288455,High risk: prioritize dispatch and monitor closely
+D1140,F4,P114,2026-04-29,Medium,1.0,1,0.5069500599362035,9.760000000000002,-31.520000000000003,0.952044111791821,High risk: prioritize dispatch and monitor closely
+D971,F5,P86,2026-04-15,Low,1.0,1,0.4449578301409203,5.8500000000000005,-26.700000000000003,0.9513126852502237,High risk: prioritize dispatch and monitor closely
+D74,F5,P5,2026-04-04,Low,1.0,1,0.5207140535159187,8.839999999999998,-32.67999999999999,0.9510648415179523,High risk: prioritize dispatch and monitor closely
+D741,F5,P16,2026-04-20,Low,1.0,1,0.37700682985855866,3.1899999999999995,-21.38,0.9509773433308515,High risk: prioritize dispatch and monitor closely
+D76,F4,P58,2026-04-13,Medium,1.0,1,0.583543101191751,12.82,-37.64,0.9508537265094936,High risk: prioritize dispatch and monitor closely
+D1032,F3,P122,2026-04-09,Medium,1.0,1,0.5560293657918252,11.750000000000002,-35.5,0.9505387709773869,High risk: prioritize dispatch and monitor closely
+D197,F5,P45,2026-04-15,Medium,1.0,1,0.5793932107866059,12.68,-37.36,0.9502625549655586,High risk: prioritize dispatch and monitor closely
+D826,F5,P53,2026-04-10,Low,1.0,1,0.39086805751531156,3.8099999999999987,-22.619999999999997,0.9490785303165317,High risk: prioritize dispatch and monitor closely
+D441,F5,P116,2026-04-10,Low,1.0,1,0.39733050088067856,4.07,-23.14,0.9489319243682229,High risk: prioritize dispatch and monitor closely
+D67,F5,P190,2026-04-28,Low,1.0,1,0.3892835675331838,3.76,-22.52,0.9487650113562647,High risk: prioritize dispatch and monitor closely
+D940,F3,P123,2026-04-07,Medium,1.0,1,0.6034689669830928,13.69,-39.379999999999995,0.9486646965204594,High risk: prioritize dispatch and monitor closely
+D48,F5,P2,2026-04-08,Low,1.0,1,0.4789168953646616,7.300000000000001,-29.6,0.9484135908400046,High risk: prioritize dispatch and monitor closely
+D384,F3,P27,2026-04-28,Low,1.0,1,0.39399313091317933,3.960000000000001,-22.92,0.9483906906488173,High risk: prioritize dispatch and monitor closely
+D648,F1,P200,2026-04-28,Low,1.0,1,0.3921980924117876,3.8999999999999986,-22.799999999999997,0.9481208173736585,High risk: prioritize dispatch and monitor closely
+D336,F2,P143,2026-04-21,Low,1.0,1,0.425131773257563,5.219999999999999,-25.439999999999998,0.9475008632423113,High risk: prioritize dispatch and monitor closely
+D1146,F2,P179,2026-04-05,Low,1.0,1,0.3653767057903954,2.869999999999999,-20.74,0.9474814338025968,High risk: prioritize dispatch and monitor closely
+D31,F5,P99,2026-04-03,Low,1.0,1,0.3670633676727439,2.9400000000000004,-20.880000000000003,0.9473887362543401,High risk: prioritize dispatch and monitor closely
+D311,F5,P173,2026-04-19,Low,1.0,1,0.3943849007001581,4.020000000000001,-23.040000000000003,0.9472572952095631,High risk: prioritize dispatch and monitor closely
+D1039,F1,P77,2026-04-08,Medium,1.0,1,0.6186449475396347,14.379999999999999,-40.76,0.9463012769753236,High risk: prioritize dispatch and monitor closely
+D726,F1,P179,2026-04-14,Low,1.0,1,0.3905211475689185,3.91,-22.82,0.9461896783264172,High risk: prioritize dispatch and monitor closely
+D1126,F1,P39,2026-04-05,Medium,0.9850623058066739,1,0.4995601355252797,9.700000000000001,-31.400000000000002,0.9461793526071302,High risk: prioritize dispatch and monitor closely
+D361,F5,P8,2026-04-24,Low,1.0,1,0.3729327197990781,3.2299999999999995,-21.46,0.9458864564538823,High risk: prioritize dispatch and monitor closely
+D27,F1,P143,2026-04-06,Low,1.0,1,0.417377155667889,4.990000000000001,-24.980000000000004,0.9455927123531965,High risk: prioritize dispatch and monitor closely
+D158,F5,P5,2026-04-13,Low,1.0,1,0.4449746621742984,6.08,-27.16,0.9454830505830426,High risk: prioritize dispatch and monitor closely
+D807,F3,P28,2026-04-15,High,1.0,1,0.7164485146326816,16.759999999999998,-48.519999999999996,0.94547749277198,Immediate action: allocate fastest route and backup resources
+D147,F1,P146,2026-04-23,Medium,1.0,1,0.5781251698465304,12.83,-37.66,0.945181600959901,High risk: prioritize dispatch and monitor closely
+D1024,F4,P165,2026-04-19,Medium,1.0,1,0.5319120751653037,11.030000000000001,-34.06,0.9447234630656595,High risk: prioritize dispatch and monitor closely
+D315,F1,P105,2026-04-18,Low,1.0,1,0.38148374926684864,3.619999999999999,-22.24,0.9445239119511395,High risk: prioritize dispatch and monitor closely
+D528,F2,P191,2026-04-29,Low,0.9975078125,1,0.36157338821823953,2.839999999999999,-20.68,0.9444406988435572,High risk: prioritize dispatch and monitor closely
+D1144,F4,P172,2026-04-25,High,0.6365931793908338,1,0.4411940960762024,5.979999999999999,-26.959999999999997,0.9442444265286681,High risk: prioritize dispatch and monitor closely
+D80,F2,P25,2026-04-28,Low,1.0,1,0.38792890774732874,3.8999999999999995,-22.799999999999997,0.9438516327091997,High risk: prioritize dispatch and monitor closely
+D82,F3,P29,2026-04-16,Medium,1.0,1,0.5386086236016435,11.330000000000002,-34.660000000000004,0.9437941853708351,High risk: prioritize dispatch and monitor closely
+D735,F1,P179,2026-04-02,Low,1.0,1,0.47567974165378774,7.380000000000001,-29.76,0.9431428834941536,High risk: prioritize dispatch and monitor closely
+D1096,F5,P162,2026-04-24,Low,1.0,1,0.39704535922694134,4.300000000000001,-23.6,0.9428003160139264,High risk: prioritize dispatch and monitor closely
+D144,F2,P3,2026-04-29,Medium,0.9925234375,1,0.5046194921501981,10.04,-32.08,0.9425961062833959,High risk: prioritize dispatch and monitor closely
+D781,F1,P199,2026-04-07,Medium,1.0,1,0.615227637415243,14.41,-40.82,0.9421213842378153,High risk: prioritize dispatch and monitor closely
+D438,F4,P15,2026-04-15,High,1.0,1,0.7137087190252942,16.79,-48.58,0.9419751145514761,Immediate action: allocate fastest route and backup resources
+D835,F3,P111,2026-04-04,Medium,1.0,1,0.6496017798004835,15.77,-43.54,0.9419251148284449,High risk: prioritize dispatch and monitor closely
+D972,F4,P85,2026-04-10,Low,1.0,1,0.37019819425112493,3.290000000000001,-21.580000000000002,0.9416267656796964,High risk: prioritize dispatch and monitor closely
+D950,F4,P143,2026-04-08,Low,1.0,1,0.4766662401298945,7.48,-29.96,0.9415874399265391,High risk: prioritize dispatch and monitor closely
+D184,F4,P14,2026-04-16,Medium,1.0,1,0.5367465378217617,11.360000000000001,-34.72,0.9411695169778369,High risk: prioritize dispatch and monitor closely
+D1061,F1,P133,2026-04-22,Low,1.0,1,0.46758568453473864,7.140000000000001,-29.28,0.941149487280036,High risk: prioritize dispatch and monitor closely
+D658,F3,P112,2026-04-29,Low,0.9925389047565518,1,0.353513548970474,2.67,-20.34,0.9407021610701181,High risk: prioritize dispatch and monitor closely
+D560,F1,P130,2026-04-11,High,1.0,1,0.650597844002705,14.36,-43.72,0.9406334311913171,Immediate action: allocate fastest route and backup resources
+D16,F4,P125,2026-04-05,High,1.0,1,0.6447251281476152,14.139999999999997,-43.279999999999994,0.9403529878324144,Immediate action: allocate fastest route and backup resources
+D140,F5,P75,2026-04-27,Low,1.0,1,0.48389277004887493,7.84,-30.68,0.9396629784881225,High risk: prioritize dispatch and monitor closely
+D571,F5,P121,2026-04-09,Medium,1.0,1,0.5603457883115838,12.349999999999998,-36.699999999999996,0.9396035412348172,High risk: prioritize dispatch and monitor closely
+D435,F2,P101,2026-04-22,Low,1.0,1,0.46164895278480467,6.98,-28.96,0.9392798628000563,High risk: prioritize dispatch and monitor closely
+D547,F3,P14,2026-04-15,Medium,1.0,1,0.5830269701071935,13.269999999999998,-38.53999999999999,0.9388988562281899,High risk: prioritize dispatch and monitor closely
+D1087,F2,P41,2026-04-01,Low,1.0,1,0.38364394654185474,3.9300000000000015,-22.860000000000003,0.9388040888906092,High risk: prioritize dispatch and monitor closely
+D853,F3,P65,2026-04-22,High,0.9925466928615033,1,0.7227159297098875,17.3,-49.6,0.9380184208130903,Immediate action: allocate fastest route and backup resources
+D490,F4,P63,2026-04-07,Medium,1.0,1,0.6046047072459995,14.16,-40.32,0.9378533091778753,High risk: prioritize dispatch and monitor closely
+D1001,F2,P4,2026-04-25,High,0.6340181666355302,1,0.43402224613782503,5.949999999999999,-26.9,0.9378351592034071,High risk: prioritize dispatch and monitor closely
+D100,F4,P48,2026-04-02,High,1.0,1,0.7496928260317719,18.379999999999995,-51.75999999999999,0.9375423430627836,Immediate action: allocate fastest route and backup resources
+D1108,F1,P150,2026-04-02,Medium,1.0,1,0.6299387676396875,15.189999999999998,-42.379999999999995,0.937005366521233,High risk: prioritize dispatch and monitor closely
+D1191,F1,P200,2026-04-16,Low,1.0,1,0.40333718371054456,4.779999999999999,-24.56,0.936890818687667,High risk: prioritize dispatch and monitor closely
+D1130,F2,P53,2026-04-12,Low,0.9975039123630672,1,0.38418230049739405,4.040000000000001,-23.080000000000002,0.9365463065980548,High risk: prioritize dispatch and monitor closely
+D743,F1,P41,2026-04-16,Low,1.0,1,0.4090514404000344,5.07,-25.14,0.9352334434503647,High risk: prioritize dispatch and monitor closely
+D94,F5,P162,2026-04-10,Low,1.0,1,0.39575946124151484,4.559999999999999,-24.119999999999997,0.9349053687148244,High risk: prioritize dispatch and monitor closely
+D65,F1,P142,2026-04-26,Medium,1.0,1,0.5457462473392906,11.970000000000002,-35.940000000000005,0.9346633800286651,High risk: prioritize dispatch and monitor closely
+D1037,F2,P10,2026-04-09,Low,1.0,1,0.4228236931857177,5.639999999999999,-26.279999999999998,0.9345166265868361,High risk: prioritize dispatch and monitor closely
+D462,F2,P182,2026-04-06,Low,1.0,1,0.4179612796850369,5.449999999999999,-25.9,0.934483902969226,High risk: prioritize dispatch and monitor closely
+D1025,F3,P119,2026-04-20,Low,1.0,1,0.3796663719053292,3.960000000000001,-22.92,0.9340639316409671,High risk: prioritize dispatch and monitor closely
+D591,F5,P64,2026-04-09,High,1.0,1,0.6879779019262448,16.09,-47.18,0.9340378917584765,Immediate action: allocate fastest route and backup resources
+D823,F2,P149,2026-04-16,Low,1.0,1,0.40638732694791224,5.059999999999999,-25.119999999999997,0.9328235242026148,High risk: prioritize dispatch and monitor closely
+D1166,F4,P6,2026-04-01,Medium,1.0,1,0.5300828217729646,11.440000000000001,-34.88,0.9324722472940626,High risk: prioritize dispatch and monitor closely
+D513,F4,P14,2026-04-15,Medium,1.0,1,0.5831031601963866,13.549999999999999,-39.099999999999994,0.9318576085949631,High risk: prioritize dispatch and monitor closely
+D956,F2,P9,2026-04-15,Low,1.0,1,0.4459107141897632,6.66,-28.32,0.9316758387449233,High risk: prioritize dispatch and monitor closely
+D479,F4,P167,2026-04-09,High,1.0,1,0.6920098814463488,16.39,-47.78,0.9304440451474163,Immediate action: allocate fastest route and backup resources
+D455,F1,P169,2026-04-25,Low,0.9702151241419023,1,0.3448982724845305,2.7399999999999993,-20.479999999999997,0.9303075251535695,High risk: prioritize dispatch and monitor closely
+D501,F3,P200,2026-04-01,Low,1.0,1,0.39665518204034106,4.779999999999998,-24.559999999999995,0.9302088170174636,High risk: prioritize dispatch and monitor closely
+D996,F2,P175,2026-04-06,Low,1.0,1,0.41962730296872813,5.73,-26.46,0.9290324885304972,High risk: prioritize dispatch and monitor closely
+D605,F5,P76,2026-04-29,High,0.9925096528367895,1,0.6334859058394665,14.190000000000005,-43.38000000000001,0.9278427945024048,Immediate action: allocate fastest route and backup resources
+D920,F1,P16,2026-04-17,Low,0.9975026096033404,1,0.390031045515158,4.620000000000001,-24.240000000000002,0.9276517877622347,High risk: prioritize dispatch and monitor closely
+D402,F5,P126,2026-04-12,Low,1.0,1,0.39104384064601283,4.66,-24.32,0.9276478060756009,High risk: prioritize dispatch and monitor closely
+D714,F2,P101,2026-04-05,Low,1.0,1,0.367296188104136,3.7700000000000014,-22.540000000000003,0.9265234377228445,High risk: prioritize dispatch and monitor closely
+D17,F2,P8,2026-04-01,Low,1.0,1,0.38232027072560487,4.399999999999999,-23.799999999999997,0.9255332854688687,High risk: prioritize dispatch and monitor closely
+D1123,F3,P104,2026-04-10,Low,1.0,1,0.3762136557598919,4.16,-23.32,0.9255273314080872,High risk: prioritize dispatch and monitor closely
+D1179,F4,P72,2026-04-13,Medium,1.0,1,0.5838763058484893,13.84,-39.68,0.9252591223202736,High risk: prioritize dispatch and monitor closely
+D122,F1,P62,2026-04-26,Low,1.0,1,0.4128509223631634,5.619999999999999,-26.24,0.9250522441730262,High risk: prioritize dispatch and monitor closely
+D250,F1,P74,2026-04-09,Low,1.0,1,0.4222989974381406,6.01,-27.02,0.9245867452774899,High risk: prioritize dispatch and monitor closely
+D496,F4,P182,2026-04-01,Low,1.0,1,0.3815954490104136,4.41,-23.82,0.9245542695493052,High risk: prioritize dispatch and monitor closely
+D609,F4,P93,2026-04-26,Medium,1.0,1,0.5454013602022094,12.370000000000001,-36.74,0.9241507247166985,High risk: prioritize dispatch and monitor closely
+D447,F4,P182,2026-04-01,Low,1.0,1,0.3815954490104136,4.4300000000000015,-23.860000000000003,0.924045881140561,High risk: prioritize dispatch and monitor closely
+D1187,F4,P41,2026-04-29,Low,0.9950617301701414,1,0.359516719729475,3.6499999999999995,-22.299999999999997,0.9217942998006494,High risk: prioritize dispatch and monitor closely
+D319,F2,P101,2026-04-30,Low,1.0,1,0.39712902136603057,5.16,-25.32,0.9210232765770117,High risk: prioritize dispatch and monitor closely
+D283,F4,P152,2026-04-16,Low,1.0,1,0.41261510483856423,5.770000000000001,-26.540000000000003,0.9210035135828447,High risk: prioritize dispatch and monitor closely
+D437,F3,P153,2026-04-08,High,1.0,1,0.7449198616988009,18.860000000000003,-52.720000000000006,0.9205680569199497,Immediate action: allocate fastest route and backup resources
+D824,F1,P84,2026-04-26,Medium,1.0,1,0.5412921747250562,12.370000000000001,-36.74,0.9200415392395451,High risk: prioritize dispatch and monitor closely
+D521,F3,P100,2026-04-17,Low,0.9975,1,0.3965825588127115,5.219999999999999,-25.439999999999998,0.9189516487974598,High risk: prioritize dispatch and monitor closely
+D1055,F1,P109,2026-04-06,High,1.0,1,0.6952185380608674,16.970000000000002,-48.940000000000005,0.9189094379083508,Immediate action: allocate fastest route and backup resources
+D724,F5,P5,2026-04-30,Low,1.0,1,0.40176848986396835,5.429999999999998,-25.859999999999996,0.9187995015569017,High risk: prioritize dispatch and monitor closely
+D836,F4,P62,2026-04-10,Low,1.0,1,0.38051077679038825,4.639999999999999,-24.279999999999998,0.9176231306287207,High risk: prioritize dispatch and monitor closely
+D1197,F2,P10,2026-04-04,Low,1.0,1,0.5206805298766737,10.159999999999998,-35.31999999999999,0.9174776829015847,High risk: prioritize dispatch and monitor closely
+D301,F3,P95,2026-04-23,Low,1.0,1,0.4510609263633227,7.460000000000001,-29.92,0.9164905145687114,High risk: prioritize dispatch and monitor closely
+D752,F4,P14,2026-04-14,Medium,1.0,1,0.5307510384647107,12.13,-36.260000000000005,0.915601063884131,High risk: prioritize dispatch and monitor closely
+D228,F2,P41,2026-04-29,Low,0.9950117248630673,1,0.36842809586010816,4.25,-23.5,0.9154540236689541,High risk: prioritize dispatch and monitor closely
+D429,F2,P116,2026-04-28,Low,1.0,1,0.3960959773749116,5.359999999999998,-25.719999999999995,0.9149063484984499,High risk: prioritize dispatch and monitor closely
+D780,F4,P43,2026-04-10,Low,1.0,1,0.37751041107796013,4.630000000000001,-24.26,0.9148769591206647,High risk: prioritize dispatch and monitor closely
+D625,F4,P107,2026-04-21,Low,1.0,1,0.43487496186358915,6.890000000000001,-28.78,0.9147936197181901,High risk: prioritize dispatch and monitor closely
+D220,F1,P195,2026-04-15,Medium,1.0,1,0.5967792812065656,14.800000000000004,-41.60000000000001,0.9137594540586245,High risk: prioritize dispatch and monitor closely
+D244,F1,P20,2026-04-03,Low,1.0,1,0.37688934950902664,4.66,-24.32,0.9134933149386147,High risk: prioritize dispatch and monitor closely
+D810,F2,P112,2026-04-24,Low,1.0,1,0.3765598759786023,4.66,-24.32,0.9131638414081904,High risk: prioritize dispatch and monitor closely
+D280,F1,P6,2026-04-26,Medium,1.0,1,0.5407166855846837,12.629999999999999,-37.26,0.912857000785497,High risk: prioritize dispatch and monitor closely
+D792,F5,P105,2026-04-25,Low,0.9751616352354595,1,0.3768794223392064,4.689999999999998,-24.379999999999995,0.9127208051556781,High risk: prioritize dispatch and monitor closely
+D1058,F3,P144,2026-04-25,Medium,0.8506195050318184,1,0.43653132839050635,8.57,-29.14,0.9118744905664087,High risk: prioritize dispatch and monitor closely
+D738,F4,P192,2026-04-25,Low,0.8880658945642302,1,0.3093152258940974,2.119999999999999,-19.24,0.9104845192342093,High risk: prioritize dispatch and monitor closely
+D83,F3,P150,2026-04-02,Medium,1.0,1,0.6130301551120051,15.57,-43.14,0.9104373742274092,High risk: prioritize dispatch and monitor closely
+D578,F3,P190,2026-04-02,Low,1.0,1,0.4836126537405835,9.069999999999999,-33.14,0.9081169750420577,High risk: prioritize dispatch and monitor closely
+D339,F3,P79,2026-04-04,High,1.0,1,0.7816854263597391,20.8,-56.6,0.9080199459326928,Immediate action: allocate fastest route and backup resources
+D653,F5,P30,2026-04-18,Medium,1.0,1,0.5300981055113884,12.41,-36.82,0.9078306932083888,High risk: prioritize dispatch and monitor closely
+D639,F2,P105,2026-04-19,Low,0.995030959752322,1,0.3874561621534767,5.33,-25.66,0.9070291158901316,High risk: prioritize dispatch and monitor closely
+D472,F3,P43,2026-04-24,Low,1.0,1,0.37629829000570564,4.899999999999999,-24.799999999999997,0.9068015945303625,High risk: prioritize dispatch and monitor closely
+D551,F4,P63,2026-04-07,Medium,1.0,1,0.6046047072459995,15.399999999999999,-42.8,0.90633322783573,High risk: prioritize dispatch and monitor closely
+D783,F4,P105,2026-04-28,Low,1.0,1,0.398668154786074,5.809999999999999,-26.619999999999997,0.906039786712866,High risk: prioritize dispatch and monitor closely
+D1151,F4,P165,2026-04-11,Medium,1.0,1,0.5305618822806057,12.509999999999998,-37.019999999999996,0.9057525279338848,High risk: prioritize dispatch and monitor closely
+D786,F3,P179,2026-04-14,Low,1.0,1,0.40112071277747613,5.919999999999998,-26.839999999999996,0.9056962084561746,High risk: prioritize dispatch and monitor closely
+D1100,F3,P55,2026-04-29,High,0.9975078125,1,0.6384136328392193,15.260000000000002,-45.52,0.9055717416343386,Immediate action: allocate fastest route and backup resources
+D1094,F2,P192,2026-04-03,Low,1.0,1,0.3760654806778842,4.960000000000001,-24.92,0.9050436199763081,High risk: prioritize dispatch and monitor closely
+D1115,F5,P107,2026-04-03,Low,1.0,1,0.3732505108491595,4.920000000000001,-24.840000000000003,0.9032454269650719,High risk: prioritize dispatch and monitor closely
+D262,F5,P2,2026-04-15,Low,1.0,1,0.447749942942887,7.870000000000001,-30.740000000000002,0.9027575687690181,High risk: prioritize dispatch and monitor closely
+D469,F5,P191,2026-04-28,Low,1.0,1,0.405646151088315,6.220000000000002,-27.440000000000005,0.9025958206358492,High risk: prioritize dispatch and monitor closely
+D49,F4,P19,2026-04-25,Medium,0.8482794368353221,1,0.43554201085995653,8.91,-29.82,0.9022425700872061,High risk: prioritize dispatch and monitor closely
+D939,F4,P148,2026-04-14,Low,1.0,1,0.40289391011996584,6.130000000000001,-27.26,0.9021313275068493,High risk: prioritize dispatch and monitor closely
+D1162,F4,P6,2026-04-19,Medium,1.0,1,0.5343262851248721,12.830000000000002,-37.660000000000004,0.9013827162382426,High risk: prioritize dispatch and monitor closely
+D829,F2,P149,2026-04-30,Low,1.0,1,0.40341368785661347,6.189999999999998,-27.379999999999995,0.9011259400172642,High risk: prioritize dispatch and monitor closely
+D133,F4,P120,2026-04-25,Low,0.9304919721177549,1,0.3298006238528639,3.299999999999999,-21.599999999999998,0.9009750010770632,High risk: prioritize dispatch and monitor closely
+D1068,F3,P143,2026-04-27,Low,1.0,1,0.4901652461251869,9.610000000000001,-34.22,0.9009430803905656,High risk: prioritize dispatch and monitor closely
+D809,F5,P6,2026-04-15,Medium,1.0,1,0.5927975871453292,15.16,-42.32,0.9006267686399909,High risk: prioritize dispatch and monitor closely
+D890,F2,P20,2026-04-03,Low,1.0,1,0.3730265119869315,5.04,-25.08,0.8999710976503783,High risk: prioritize dispatch and monitor closely
+D813,F5,P197,2026-04-07,High,1.0,1,0.7364856881680011,19.349999999999998,-53.699999999999996,0.8996783673749151,Immediate action: allocate fastest route and backup resources
+D305,F4,P158,2026-04-07,Low,1.0,1,0.46812387667244043,8.839999999999998,-32.67999999999999,0.898474664674474,High risk: prioritize dispatch and monitor closely
+D152,F3,P143,2026-04-12,Low,1.0,1,0.38300172276470684,5.52,-26.04,0.8977449866182909,High risk: prioritize dispatch and monitor closely
+D1154,F2,P25,2026-04-23,Low,1.0,1,0.4400077761571015,7.7700000000000005,-30.54,0.897557344026954,High risk: prioritize dispatch and monitor closely
+D424,F3,P43,2026-04-12,Low,1.0,1,0.37972199339190366,5.399999999999999,-25.799999999999997,0.8975155876979535,High risk: prioritize dispatch and monitor closely
+D785,F5,P86,2026-04-21,Low,1.0,1,0.4264569728755967,7.239999999999999,-29.479999999999997,0.8974788335771726,High risk: prioritize dispatch and monitor closely
+D566,F5,P5,2026-04-08,Low,1.0,1,0.4822657037516666,9.44,-33.879999999999995,0.8973648394913718,High risk: prioritize dispatch and monitor closely
+D1005,F3,P146,2026-04-28,Medium,1.0,1,0.5352805402469732,13.04,-38.08,0.8969988930685289,High risk: prioritize dispatch and monitor closely
+D842,F1,P129,2026-04-17,Medium,1.0,1,0.5421237561834588,13.349999999999998,-38.699999999999996,0.8959620886694781,High risk: prioritize dispatch and monitor closely
+D1035,F4,P119,2026-04-05,Low,1.0,1,0.37524281440698654,5.340000000000002,-25.680000000000003,0.8945615739392692,High risk: prioritize dispatch and monitor closely
+D415,F1,P200,2026-04-18,Low,1.0,1,0.39192483908988446,6.0,-27.0,0.8944667811336058,High risk: prioritize dispatch and monitor closely
+D233,F2,P140,2026-04-25,Low,0.8807346165375176,1,0.30103630786107355,2.4299999999999997,-19.86,0.894325580865649,High risk: prioritize dispatch and monitor closely
+D869,F4,P27,2026-04-16,Low,1.0,1,0.4052754595796195,6.539999999999999,-28.08,0.8940909145872453,High risk: prioritize dispatch and monitor closely
+D485,F5,P156,2026-04-21,Low,1.0,1,0.43642974761705833,7.77,-30.54,0.8939793154869109,High risk: prioritize dispatch and monitor closely
+D198,F3,P116,2026-04-01,Low,1.0,1,0.38336255114576784,5.6899999999999995,-26.38,0.8937845135250255,High risk: prioritize dispatch and monitor closely
+D579,F2,P195,2026-04-15,Medium,1.0,1,0.5830132558911387,15.05,-42.1,0.8936385736338941,High risk: prioritize dispatch and monitor closely
+D1188,F1,P38,2026-04-30,Low,1.0,1,0.4038860664096113,6.520000000000001,-28.040000000000003,0.8932099098259813,High risk: prioritize dispatch and monitor closely
+D770,F5,P20,2026-04-22,Low,1.0,1,0.4632850079667466,8.860000000000001,-32.72,0.8931274075600358,High risk: prioritize dispatch and monitor closely
+D470,F2,P66,2026-04-24,Low,1.0,1,0.37900659370955986,5.549999999999999,-26.099999999999998,0.8929872749500276,High risk: prioritize dispatch and monitor closely
+D163,F2,P149,2026-04-14,Low,1.0,1,0.4003918275908612,6.419999999999998,-27.839999999999996,0.8922576130509527,High risk: prioritize dispatch and monitor closely
+D711,F5,P191,2026-04-25,Low,0.9751616352354595,1,0.37023818623119936,5.240000000000002,-25.480000000000004,0.8920988878072034,High risk: prioritize dispatch and monitor closely
+D719,F4,P21,2026-04-04,Low,1.0,1,0.5226350596314432,11.24,-37.480000000000004,0.891979238584163,High risk: prioritize dispatch and monitor closely
+D193,F4,P186,2026-04-05,Low,0.9975155763239876,1,0.3669615033379531,5.130000000000001,-25.26,0.8916183411620505,High risk: prioritize dispatch and monitor closely
+D175,F1,P86,2026-04-06,Low,1.0,1,0.437696036587859,7.93,-30.86,0.8911784971877572,High risk: prioritize dispatch and monitor closely
+D659,F5,P140,2026-04-14,Low,1.0,1,0.40651497109235457,6.710000000000001,-28.42,0.891009124625654,High risk: prioritize dispatch and monitor closely
+D445,F1,P129,2026-04-08,Medium,1.0,1,0.6302720630844446,17.02,-46.04,0.8908211225658884,High risk: prioritize dispatch and monitor closely
+D226,F2,P145,2026-04-17,Low,0.9975039123630672,1,0.3919171663589018,6.16,-27.32,0.8903920011326689,High risk: prioritize dispatch and monitor closely
+D180,F3,P95,2026-04-15,Low,1.0,1,0.45647777162693176,8.71,-32.42,0.8901330842858031,High risk: prioritize dispatch and monitor closely
+D508,F5,P200,2026-04-18,Low,0.9975039123630672,1,0.3897373069463044,6.09,-27.18,0.8899915011506765,High risk: prioritize dispatch and monitor closely
+D666,F4,P94,2026-04-20,Low,1.0,1,0.3879888693148662,6.029999999999998,-27.059999999999995,0.8897682287454712,High risk: prioritize dispatch and monitor closely
+D1109,F2,P75,2026-04-29,Low,0.9975078125,1,0.36810948200315996,5.25,-25.5,0.8897159893747918,High risk: prioritize dispatch and monitor closely
+D567,F3,P117,2026-04-04,Medium,1.0,1,0.6621502874906032,18.330000000000002,-48.660000000000004,0.8893999061992965,High risk: prioritize dispatch and monitor closely
+D292,F2,P112,2026-04-27,Low,1.0,1,0.4871471027252804,9.99,-34.980000000000004,0.8882655572245177,High risk: prioritize dispatch and monitor closely
+D127,F4,P32,2026-04-03,Medium,1.0,1,0.5237538733717626,12.940000000000001,-37.88,0.8880141682370395,High risk: prioritize dispatch and monitor closely
+D1077,F4,P58,2026-04-04,Medium,1.0,1,0.6592824925333712,18.29,-48.58,0.8875488880595532,High risk: prioritize dispatch and monitor closely
+D907,F4,P25,2026-04-06,Low,1.0,1,0.4275317707555584,7.6899999999999995,-30.38,0.8871148922603882,High risk: prioritize dispatch and monitor closely
+D1148,F4,P162,2026-04-28,Low,1.0,1,0.40407815905271893,6.769999999999998,-28.539999999999996,0.8870471473597856,High risk: prioritize dispatch and monitor closely
+D379,F5,P63,2026-04-22,Medium,1.0,1,0.6029267113739674,16.099999999999998,-44.199999999999996,0.8868616376576481,High risk: prioritize dispatch and monitor closely
+D901,F1,P44,2026-04-07,Medium,1.0,1,0.6150960825279027,16.580000000000002,-45.160000000000004,0.8868296870017206,High risk: prioritize dispatch and monitor closely
+D662,F3,P50,2026-04-24,Low,1.0,1,0.3838731086732934,5.99,-26.98,0.8866692449213868,High risk: prioritize dispatch and monitor closely
+D464,F1,P145,2026-04-01,Low,1.0,1,0.39059603821377004,6.259999999999998,-27.519999999999996,0.8865289309438158,High risk: prioritize dispatch and monitor closely
+D761,F1,P110,2026-04-07,Low,1.0,1,0.468722222839571,9.35,-33.7,0.8861091064186253,High risk: prioritize dispatch and monitor closely
+D1149,F3,P148,2026-04-26,Low,1.0,1,0.41416291569907027,7.23,-29.46,0.8854389706050183,High risk: prioritize dispatch and monitor closely
+D166,F4,P16,2026-04-25,Low,0.8707877406419918,1,0.29262139010318294,2.45,-19.9,0.8854022746990142,High risk: prioritize dispatch and monitor closely
+D392,F5,P22,2026-04-06,Medium,1.0,1,0.5701738398752074,14.869999999999997,-41.739999999999995,0.8853746532966614,High risk: prioritize dispatch and monitor closely
+D838,F2,P145,2026-04-18,Low,1.0,1,0.3924134715285768,6.390000000000001,-27.78,0.8850418396017847,High risk: prioritize dispatch and monitor closely
+D187,F4,P152,2026-04-17,Low,0.9925259821512509,1,0.3981459469383346,6.619999999999999,-28.24,0.8849278483109833,High risk: prioritize dispatch and monitor closely
+D261,F3,P184,2026-04-26,Medium,1.0,1,0.5438465744487402,13.879999999999999,-39.76,0.884212614103036,High risk: prioritize dispatch and monitor closely
+D535,F4,P2,2026-04-18,Low,1.0,1,0.39732824021546603,6.640000000000002,-28.280000000000005,0.8836017531793704,High risk: prioritize dispatch and monitor closely
+D312,F2,P162,2026-04-29,Low,0.9900208442066806,1,0.3618746609370541,5.25,-25.5,0.883481168308686,High risk: prioritize dispatch and monitor closely
+D636,F2,P8,2026-04-22,Low,1.0,1,0.4652446170607956,9.329999999999998,-33.66,0.8831398890485942,High risk: prioritize dispatch and monitor closely
+D1036,F5,P42,2026-04-20,Low,1.0,1,0.391776532615624,6.5,-28.0,0.8816087644407383,High risk: prioritize dispatch and monitor closely
+D358,F5,P40,2026-04-09,Low,1.0,1,0.4258382810481286,7.840000000000002,-30.680000000000003,0.881608489487376,High risk: prioritize dispatch and monitor closely
+D385,F5,P120,2026-04-25,Low,0.8358124344821133,1,0.29619032615329427,2.7600000000000016,-20.520000000000003,0.881091190413589,High risk: prioritize dispatch and monitor closely
+D346,F3,P21,2026-04-01,Low,1.0,1,0.3842255308893628,6.249999999999998,-27.499999999999996,0.8804126178237806,High risk: prioritize dispatch and monitor closely
+D318,F1,P62,2026-04-30,Low,1.0,1,0.4123365631689928,7.360000000000001,-29.720000000000002,0.8803080934181031,High risk: prioritize dispatch and monitor closely
+D374,F3,P62,2026-04-22,Low,0.9900545053615033,1,0.47143655781516264,9.73,-34.46,0.8791640616280756,High risk: prioritize dispatch and monitor closely
+D1063,F4,P44,2026-04-25,Medium,0.8482794368353221,1,0.43529769464061036,9.810000000000002,-31.620000000000005,0.8791207754743673,High risk: prioritize dispatch and monitor closely
+D1095,F5,P126,2026-04-05,Low,1.0,1,0.37932609525381394,6.140000000000001,-27.28,0.8783093184363253,High risk: prioritize dispatch and monitor closely
+D638,F3,P42,2026-04-18,Low,1.0,1,0.40447334678000413,7.18,-29.36,0.877020372707813,High risk: prioritize dispatch and monitor closely
+D431,F2,P159,2026-04-19,Low,1.0,1,0.39372509452774496,6.800000000000001,-28.6,0.8759315002216951,High risk: prioritize dispatch and monitor closely
+D802,F3,P192,2026-04-30,Low,1.0,1,0.41018901852160056,7.449999999999999,-29.9,0.8758728009313616,High risk: prioritize dispatch and monitor closely
+D1045,F3,P42,2026-04-25,Low,0.8657532938520704,1,0.31306204367319895,3.629999999999999,-22.259999999999998,0.8758480121531176,High risk: prioritize dispatch and monitor closely
+D153,F5,P87,2026-04-03,Medium,1.0,1,0.5355282897556793,13.89,-39.78,0.875640135205603,High risk: prioritize dispatch and monitor closely
+D190,F4,P26,2026-04-20,Low,1.0,1,0.3918694845244397,6.8100000000000005,-28.62,0.8738216960140176,High risk: prioritize dispatch and monitor closely
+D847,F2,P66,2026-04-18,Low,1.0,1,0.39210667943609223,6.849999999999998,-28.699999999999996,0.8730421141081817,High risk: prioritize dispatch and monitor closely
+D1175,F5,P43,2026-04-18,Low,1.0,1,0.3933424826828059,6.919999999999998,-28.839999999999996,0.8724985579242903,High risk: prioritize dispatch and monitor closely
+D640,F2,P98,2026-04-07,Low,1.0,1,0.4763742474642078,10.19,-35.379999999999995,0.8724088178760024,High risk: prioritize dispatch and monitor closely
+D599,F3,P21,2026-04-09,Low,1.0,1,0.42371867276677383,8.13,-31.26,0.8721172492792293,High risk: prioritize dispatch and monitor closely
+D7,F4,P190,2026-04-19,Low,1.0,1,0.3975127578285028,7.1,-29.2,0.8720933373912887,High risk: prioritize dispatch and monitor closely
+D600,F5,P140,2026-04-30,Low,1.0,1,0.4095368313581068,7.59,-30.18,0.8716618949066579,High risk: prioritize dispatch and monitor closely
+D189,F2,P26,2026-04-10,Low,1.0,1,0.38478808839769435,6.619999999999999,-28.24,0.8715699897703431,High risk: prioritize dispatch and monitor closely
+D235,F3,P192,2026-04-18,Low,1.0,1,0.40175031299223923,7.300000000000001,-29.6,0.8712470084675823,High risk: prioritize dispatch and monitor closely
+D494,F4,P114,2026-04-04,Medium,1.0,1,0.6569500599362035,18.840000000000003,-49.68000000000001,0.8712357742219176,High risk: prioritize dispatch and monitor closely
+D488,F3,P50,2026-04-26,Low,1.0,1,0.40592625912335767,7.470000000000001,-29.94,0.8711016531243745,High risk: prioritize dispatch and monitor closely
+D1167,F2,P40,2026-04-27,Low,1.0,1,0.4969705448919233,11.09,-37.18,0.8701276369102253,High risk: prioritize dispatch and monitor closely
+D156,F5,P151,2026-04-03,Low,1.0,1,0.3946817670713501,7.09,-29.18,0.8695165408385082,High risk: prioritize dispatch and monitor closely
+D23,F2,P166,2026-04-14,Low,1.0,1,0.40173683663208515,7.4,-29.8,0.8686915900637069,High risk: prioritize dispatch and monitor closely
+D483,F1,P14,2026-04-07,Medium,1.0,1,0.6104093761746652,17.13,-46.26,0.8681622994080154,High risk: prioritize dispatch and monitor closely
+D3,F4,P21,2026-04-30,Low,1.0,1,0.40368949597949283,7.570000000000002,-30.140000000000004,0.8663229479367882,High risk: prioritize dispatch and monitor closely
+D357,F3,P46,2026-04-26,Low,1.0,1,0.414289391247131,8.0,-31.0,0.8659924924164243,High risk: prioritize dispatch and monitor closely
+D782,F5,P53,2026-04-17,Low,1.0,1,0.40604165374334417,7.68,-30.36,0.8658789694525459,High risk: prioritize dispatch and monitor closely
+D258,F3,P101,2026-04-08,Low,1.0,1,0.48406937712983356,10.75,-36.5,0.8658690720967883,High risk: prioritize dispatch and monitor closely
+D679,F3,P20,2026-04-29,Low,0.9950349923934846,1,0.3708984642384572,6.34,-27.68,0.8647978033335257,High risk: prioritize dispatch and monitor closely
+D669,F1,P158,2026-04-01,Low,1.0,1,0.3914849225876907,7.200000000000001,-29.400000000000002,0.8635235601067551,High risk: prioritize dispatch and monitor closely
+D706,F3,P156,2026-04-20,Low,1.0,1,0.38533847007879884,6.979999999999999,-28.959999999999997,0.8629693800940506,High risk: prioritize dispatch and monitor closely
+D667,F1,P2,2026-04-06,Low,1.0,1,0.43167905127730816,8.809999999999999,-32.62,0.8627924218924581,High risk: prioritize dispatch and monitor closely
+D702,F5,P182,2026-04-07,Low,1.0,1,0.4777380500607661,10.66,-36.32,0.8618254928670701,High risk: prioritize dispatch and monitor closely
+D241,F2,P169,2026-04-18,Low,1.0,1,0.394169907051444,7.380000000000001,-29.76,0.8616330488918099,High risk: prioritize dispatch and monitor closely
+D945,F1,P96,2026-04-07,High,1.0,1,0.7411718865873107,21.050000000000004,-57.10000000000001,0.8611515510509608,Immediate action: allocate fastest route and backup resources
+D40,F4,P150,2026-04-15,Medium,1.0,1,0.595801000461325,16.85,-45.7,0.8606713614170951,High risk: prioritize dispatch and monitor closely
+D268,F1,P151,2026-04-22,Low,1.0,1,0.47812074213444605,10.739999999999998,-36.48,0.860174631305773,High risk: prioritize dispatch and monitor closely
+D916,F1,P74,2026-04-21,Low,1.0,1,0.4320396746777463,8.929999999999998,-32.86,0.8601027148404305,High risk: prioritize dispatch and monitor closely
+D299,F1,P74,2026-04-06,Low,1.0,1,0.42700859880976516,8.749999999999998,-32.5,0.8596471346511478,High risk: prioritize dispatch and monitor closely
+D128,F3,P195,2026-04-30,Medium,1.0,1,0.5476059713243799,15.040000000000003,-42.080000000000005,0.8584854832715074,High risk: prioritize dispatch and monitor closely
+D1091,F3,P105,2026-04-30,Low,1.0,1,0.4012382068431837,7.800000000000001,-30.6,0.8580251920999198,High risk: prioritize dispatch and monitor closely
+D246,F4,P119,2026-04-16,Low,1.0,1,0.4080492867601799,8.070000000000002,-31.140000000000004,0.8579730284988681,High risk: prioritize dispatch and monitor closely
+D1157,F4,P124,2026-04-18,Low,1.0,1,0.3926816606425369,7.49,-29.98,0.8573486662348093,High risk: prioritize dispatch and monitor closely
+D51,F1,P124,2026-04-17,Low,1.0,1,0.40103393314763924,7.8199999999999985,-30.639999999999997,0.857312529995631,High risk: prioritize dispatch and monitor closely
+D476,F4,P91,2026-04-12,Low,1.0,1,0.40083020363591515,7.82,-30.64,0.8571088004839069,High risk: prioritize dispatch and monitor closely
+D642,F1,P38,2026-04-25,Low,0.8332370058012546,1,0.28731058840865786,3.4000000000000004,-21.8,0.8559430235891358,High risk: prioritize dispatch and monitor closely
+D56,F1,P192,2026-04-02,Low,1.0,1,0.4888296431146057,11.4,-37.8,0.8541067147973713,High risk: prioritize dispatch and monitor closely
+D975,F3,P62,2026-04-26,Low,0.9875854651138254,1,0.40616098032555387,8.16,-31.32,0.853796974224893,High risk: prioritize dispatch and monitor closely
+D691,F1,P27,2026-04-21,Low,1.0,1,0.43612397139242964,9.34,-33.68,0.8537650491758562,High risk: prioritize dispatch and monitor closely
+D230,F4,P93,2026-04-22,Medium,1.0,1,0.6094069324268129,17.689999999999998,-47.379999999999995,0.8529249802153233,High risk: prioritize dispatch and monitor closely
+D1074,F4,P152,2026-04-05,Low,1.0,1,0.3798086324853709,7.1800000000000015,-29.360000000000003,0.8523556584131797,High risk: prioritize dispatch and monitor closely
+D130,F5,P156,2026-04-16,Low,1.0,1,0.408573982507757,8.32,-31.64,0.8521428691371418,High risk: prioritize dispatch and monitor closely
+D946,F1,P56,2026-04-27,High,1.0,1,0.7547698703556671,21.94,-58.88,0.8521262506301968,Immediate action: allocate fastest route and backup resources
+D867,F1,P84,2026-04-06,Medium,1.0,1,0.5665761438635045,16.06,-44.12,0.8515278469646738,High risk: prioritize dispatch and monitor closely
+D1117,F3,P192,2026-04-15,Low,1.0,1,0.45951927998752423,10.36,-35.72,0.8512325489249923,High risk: prioritize dispatch and monitor closely
+D1093,F1,P74,2026-04-05,Low,1.0,1,0.3713774372152516,6.909999999999998,-28.819999999999997,0.8507877066611083,High risk: prioritize dispatch and monitor closely
+D798,F2,P112,2026-04-11,Low,0.9851567398871457,1,0.3749525648250467,7.08,-29.16,0.8500415327965769,High risk: prioritize dispatch and monitor closely
+D1145,F4,P190,2026-04-18,Low,1.0,1,0.4032350038636507,8.200000000000001,-31.400000000000002,0.8498542209455011,High risk: prioritize dispatch and monitor closely
+D793,F5,P98,2026-04-16,Low,1.0,1,0.42160909090085724,8.940000000000001,-32.88,0.8494179368591692,High risk: prioritize dispatch and monitor closely
+D201,F5,P78,2026-04-18,Low,1.0,1,0.4086683730909816,8.440000000000001,-31.880000000000003,0.8491869292679006,High risk: prioritize dispatch and monitor closely
+D911,F1,P5,2026-04-24,Low,1.0,1,0.38647982559155664,7.620000000000001,-30.240000000000002,0.8478423065269912,High risk: prioritize dispatch and monitor closely
+D1066,F4,P30,2026-04-27,Medium,1.0,1,0.6276832777796294,18.640000000000004,-49.28000000000001,0.8470528761527862,High risk: prioritize dispatch and monitor closely
+D125,F3,P156,2026-04-05,Low,1.0,1,0.3759996359596389,7.24,-29.48,0.8470214966612148,High risk: prioritize dispatch and monitor closely
+D754,F1,P43,2026-04-03,Low,0.9975117004680187,1,0.3763789577075481,7.280000000000001,-29.560000000000002,0.8463840415916355,High risk: prioritize dispatch and monitor closely
+D304,F1,P10,2026-04-24,Low,1.0,1,0.40075276896708234,8.260000000000002,-31.520000000000003,0.8458468208226999,High risk: prioritize dispatch and monitor closely
+D518,F3,P86,2026-04-30,Low,1.0,1,0.40213064675460003,8.360000000000001,-31.720000000000002,0.8446827565664963,High risk: prioritize dispatch and monitor closely
+D957,F5,P3,2026-04-03,Medium,1.0,1,0.5207672218753893,14.559999999999999,-41.12,0.8438480556323795,High risk: prioritize dispatch and monitor closely
+D1086,F3,P95,2026-04-01,Low,1.0,1,0.38874309524459144,7.870000000000001,-30.740000000000002,0.8437507210707225,High risk: prioritize dispatch and monitor closely
+D1111,F3,P62,2026-04-13,Low,0.9900545053615033,1,0.45012279870671856,10.32,-35.64,0.8428528444616753,High risk: prioritize dispatch and monitor closely
+D326,F4,P66,2026-04-28,Low,1.0,1,0.40691192243677793,8.629999999999999,-32.26,0.8426007887306264,High risk: prioritize dispatch and monitor closely
+D759,F4,P62,2026-04-02,Low,1.0,1,0.48547219985082546,11.729999999999999,-38.459999999999994,0.8423608627893104,High risk: prioritize dispatch and monitor closely
+D733,F3,P62,2026-04-13,Low,0.9900545053615033,1,0.45012279870671856,10.34,-35.68,0.842344456052931,High risk: prioritize dispatch and monitor closely
+D949,F5,P19,2026-04-29,Medium,0.9900252291607771,1,0.5105405422703821,14.230000000000004,-40.46000000000001,0.842009784771653,High risk: prioritize dispatch and monitor closely
+D123,F3,P192,2026-04-26,Low,1.0,1,0.41070337771577115,8.829999999999998,-32.66,0.8413083599221769,High risk: prioritize dispatch and monitor closely
+D287,F1,P126,2026-04-05,Low,1.0,1,0.373736790310601,7.420000000000002,-29.840000000000003,0.8401831553334784,High risk: prioritize dispatch and monitor closely
+D239,F4,P74,2026-04-22,Low,1.0,1,0.47910003874754264,11.579999999999998,-38.16,0.8398016147516097,High risk: prioritize dispatch and monitor closely
+D758,F1,P155,2026-04-26,Low,1.0,1,0.4071392053433134,8.780000000000001,-32.56,0.8390151585715797,High risk: prioritize dispatch and monitor closely
+D293,F3,P144,2026-04-07,Medium,1.0,1,0.6147776079550752,18.46,-48.92,0.8387227020069307,High risk: prioritize dispatch and monitor closely
+D300,F5,P101,2026-04-18,Low,1.0,1,0.3983176955071217,8.46,-31.92,0.8383278632752965,High risk: prioritize dispatch and monitor closely
+D6,F2,P116,2026-04-23,Low,1.0,1,0.44817484578468436,10.47,-35.94,0.837091978474059,High risk: prioritize dispatch and monitor closely
+D874,F2,P95,2026-04-17,Low,0.9950026096033403,1,0.3943938486320271,8.370000000000001,-31.740000000000002,0.8366917642395512,High risk: prioritize dispatch and monitor closely
+D922,F5,P169,2026-04-12,Low,1.0,1,0.4015072795618787,8.66,-32.32,0.8364335632426108,High risk: prioritize dispatch and monitor closely
+D359,F4,P25,2026-04-14,Low,1.0,1,0.3987115821571872,8.569999999999999,-32.14,0.8359256136772685,High risk: prioritize dispatch and monitor closely
+D395,F3,P10,2026-04-26,Low,1.0,1,0.4148003727786534,9.240000000000002,-33.480000000000004,0.8349833926058012,High risk: prioritize dispatch and monitor closely
+D634,F3,P144,2026-04-06,Medium,1.0,1,0.5699640631629621,16.869999999999997,-45.739999999999995,0.834326035709988,High risk: prioritize dispatch and monitor closely
+D466,F3,P158,2026-04-29,Low,0.995015612831086,1,0.38213161342871976,8.009999999999998,-31.019999999999996,0.833580520393641,High risk: prioritize dispatch and monitor closely
+D959,F1,P62,2026-04-23,Low,1.0,1,0.4562499793713074,10.99,-36.980000000000004,0.8319490134333307,High risk: prioritize dispatch and monitor closely
+D323,F4,P87,2026-04-23,Medium,1.0,1,0.5928308729286735,17.900000000000002,-47.800000000000004,0.8310108424253688,High risk: prioritize dispatch and monitor closely
+D937,F5,P155,2026-04-06,Low,1.0,1,0.4301958842076806,10.010000000000002,-35.02,0.8308059502981737,High risk: prioritize dispatch and monitor closely
+D347,F1,P74,2026-04-06,Low,1.0,1,0.42700859880976516,9.889999999999999,-34.78,0.830668995352724,High risk: prioritize dispatch and monitor closely
+D1110,F1,P50,2026-04-15,Low,1.0,1,0.4626928511693849,11.330000000000002,-37.660000000000004,0.8297492822827555,High risk: prioritize dispatch and monitor closely
+D914,F5,P24,2026-04-06,Low,1.0,1,0.44609726375622893,10.719999999999999,-36.44,0.8286595413363,High risk: prioritize dispatch and monitor closely
+D608,F5,P155,2026-04-27,Low,1.0,1,0.493445991365846,12.59,-40.18,0.8284739527283269,High risk: prioritize dispatch and monitor closely
+D721,F5,P186,2026-04-27,Low,1.0,1,0.48968270889363,12.469999999999999,-39.94,0.8277610007085766,High risk: prioritize dispatch and monitor closely
+D12,F4,P61,2026-04-23,Low,1.0,1,0.45756705204649384,11.23,-37.46,0.8271654252035858,High risk: prioritize dispatch and monitor closely
+D557,F1,P27,2026-04-18,Low,1.0,1,0.3968558616624682,8.89,-32.78,0.8259356786426411,High risk: prioritize dispatch and monitor closely
+D617,F2,P166,2026-04-15,Low,1.0,1,0.45408895836376106,11.17,-37.34,0.8252124967470857,High risk: prioritize dispatch and monitor closely
+D468,F2,P158,2026-04-21,Low,1.0,1,0.43296309855876786,10.340000000000002,-35.68000000000001,0.8251847559049802,High risk: prioritize dispatch and monitor closely
+D762,F1,P192,2026-04-30,Low,1.0,1,0.4066929092954887,9.37,-33.739999999999995,0.8235714044657988,High risk: prioritize dispatch and monitor closely
+D481,F1,P74,2026-04-03,Low,1.0,1,0.38068412388477585,8.359999999999998,-31.719999999999995,0.8232362336966721,High risk: prioritize dispatch and monitor closely
+D1027,F1,P62,2026-04-16,Low,1.0,1,0.4153102022602916,9.820000000000002,-34.64,0.8207499582338553,High risk: prioritize dispatch and monitor closely
+D796,F4,P99,2026-04-05,Low,1.0,1,0.38249915850174665,8.53,-32.06,0.8207299668393164,High risk: prioritize dispatch and monitor closely
+D1128,F4,P107,2026-04-02,Low,1.0,1,0.48618229148210607,12.7,-40.4,0.8184141165964933,High risk: prioritize dispatch and monitor closely
+D849,F4,P116,2026-04-29,Low,0.9975039123630672,1,0.37381208182663467,8.28,-31.56,0.8183977452735081,High risk: prioritize dispatch and monitor closely
+D52,F5,P114,2026-04-04,Medium,1.0,1,0.6671620715577318,21.35,-54.7,0.8176450405460387,High risk: prioritize dispatch and monitor closely
+D316,F3,P101,2026-04-13,Low,1.0,1,0.4467783355524653,11.23,-37.46,0.8163767087095573,High risk: prioritize dispatch and monitor closely
+D507,F2,P53,2026-04-06,Low,1.0,1,0.42937963438545745,10.55,-36.1,0.8162632134398549,High risk: prioritize dispatch and monitor closely
+D325,F5,P78,2026-04-29,Low,1.0,1,0.3860526422722932,8.86,-32.72,0.8158950418655824,High risk: prioritize dispatch and monitor closely
+D332,F1,P107,2026-04-16,Low,1.0,1,0.4103268624931285,9.819999999999999,-34.64,0.8157666184666923,High risk: prioritize dispatch and monitor closely
+D878,F4,P21,2026-04-22,Low,1.0,1,0.46820942739826693,12.22,-39.44,0.812642574322517,High risk: prioritize dispatch and monitor closely
+D162,F1,P50,2026-04-21,Low,1.0,1,0.44419199390406133,11.379999999999999,-37.76,0.8099774539955712,High risk: prioritize dispatch and monitor closely
+D97,F3,P40,2026-04-18,Low,1.0,1,0.4092596081831208,10.020000000000003,-35.040000000000006,0.8096154800692417,High risk: prioritize dispatch and monitor closely
+D1016,F5,P92,2026-04-11,Medium,1.0,1,0.533438312114613,16.479999999999997,-44.959999999999994,0.8077138586321524,High risk: prioritize dispatch and monitor closely
+D14,F3,P61,2026-04-09,Low,0.9950349923934846,1,0.4305971447258267,10.94,-36.879999999999995,0.8075671498097108,High risk: prioritize dispatch and monitor closely
+D682,F5,P43,2026-04-27,Low,1.0,1,0.4908296237029516,13.32,-41.64,0.8073014081462662,High risk: prioritize dispatch and monitor closely
+D789,F4,P50,2026-04-15,Low,1.0,1,0.45846785675665813,12.06,-39.120000000000005,0.8069681109508624,High risk: prioritize dispatch and monitor closely
+D891,F3,P21,2026-04-02,Low,1.0,1,0.48476667962489645,13.12,-41.239999999999995,0.806322348155654,High risk: prioritize dispatch and monitor closely
+D695,F4,P44,2026-04-22,Medium,1.0,1,0.6086556981473679,19.540000000000003,-51.080000000000005,0.8051478181270322,High risk: prioritize dispatch and monitor closely
+D1177,F3,P179,2026-04-06,Low,1.0,1,0.42994090137584734,11.009999999999998,-37.019999999999996,0.8051315470291265,High risk: prioritize dispatch and monitor closely
+D1050,F4,P62,2026-04-02,Low,1.0,1,0.48547219985082546,13.229999999999999,-41.459999999999994,0.8042317321334894,High risk: prioritize dispatch and monitor closely
+D1160,F4,P119,2026-04-13,Low,1.0,1,0.4482818199792111,11.78,-38.56,0.8038995118958353,High risk: prioritize dispatch and monitor closely
+D1161,F4,P93,2026-04-27,Medium,1.0,1,0.6339354364988232,20.6,-53.2,0.8034829708150407,High risk: prioritize dispatch and monitor closely
+D887,F2,P99,2026-04-02,Low,1.0,1,0.4893324977032808,13.46,-41.92,0.8022455632853854,High risk: prioritize dispatch and monitor closely
+D671,F1,P18,2026-04-27,Low,1.0,1,0.49446287508961123,13.720000000000002,-42.440000000000005,0.8007668913580401,High risk: prioritize dispatch and monitor closely
+D1060,F3,P124,2026-04-15,Low,1.0,1,0.4581092554035221,12.320000000000002,-39.64,0.8000004602840507,High risk: prioritize dispatch and monitor closely
+D683,F4,P8,2026-04-01,Low,1.0,1,0.39829987209905826,9.969999999999999,-34.94,0.7999267150070399,High risk: prioritize dispatch and monitor closely
+D238,F1,P195,2026-04-11,Medium,1.0,1,0.531937875291435,16.730000000000004,-45.46000000000001,0.7998585666996707,High risk: prioritize dispatch and monitor closely
+D862,F1,P126,2026-04-15,Low,1.0,1,0.4528998850384192,12.23,-39.46,0.7970788377582971,High risk: prioritize dispatch and monitor closely
+D845,F1,P185,2026-04-16,Low,1.0,1,0.41543515400656844,10.79,-36.58,0.7962180721560346,High risk: prioritize dispatch and monitor closely
+D804,F3,P138,2026-04-22,Medium,1.0,1,0.6093089011787176,19.930000000000003,-51.86000000000001,0.7958874471878684,High risk: prioritize dispatch and monitor closely
+D819,F5,P191,2026-04-08,Low,1.0,1,0.4943088171834714,13.920000000000002,-42.84,0.7955289493644575,High risk: prioritize dispatch and monitor closely
+D927,F4,P175,2026-04-06,Low,1.0,1,0.4405328475754857,11.84,-38.68,0.7946253742658771,High risk: prioritize dispatch and monitor closely
+D368,F2,P85,2026-04-18,Low,1.0,1,0.4024675156985112,10.4,-35.8,0.7931640078184908,High risk: prioritize dispatch and monitor closely
+D1072,F5,P74,2026-04-18,Low,1.0,1,0.41154632672677266,10.779999999999998,-36.559999999999995,0.792583439080611,High risk: prioritize dispatch and monitor closely
+D994,F5,P126,2026-04-05,Low,1.0,1,0.37932609525381394,9.52,-34.04,0.7923916773585419,High risk: prioritize dispatch and monitor closely
+D99,F4,P148,2026-04-08,Low,1.0,1,0.48641298427341634,13.750000000000002,-42.5,0.791954417928729,High risk: prioritize dispatch and monitor closely
+D854,F3,P8,2026-04-25,Low,0.8308763773359807,1,0.29481147746899655,6.239999999999998,-27.479999999999997,0.7912527586077867,High risk: prioritize dispatch and monitor closely
+D493,F5,P185,2026-04-29,Low,1.0,1,0.3881432983197546,9.96,-34.92,0.7900243354321084,High risk: prioritize dispatch and monitor closely
+D1056,F5,P40,2026-04-03,Low,1.0,1,0.38422340749476386,9.83,-34.66,0.7894089692639554,High risk: prioritize dispatch and monitor closely
+D492,F4,P148,2026-04-02,Low,1.0,1,0.4880525042048351,13.92,-42.84,0.7892726363858212,High risk: prioritize dispatch and monitor closely
+D677,F1,P185,2026-04-14,Low,1.0,1,0.4094396546495174,10.84,-36.68,0.7889516017771229,High risk: prioritize dispatch and monitor closely
+D554,F3,P40,2026-04-25,Low,0.8632838858659204,1,0.31657811065692293,7.210000000000001,-29.42,0.7883625539716153,High risk: prioritize dispatch and monitor closely
+D565,F4,P94,2026-04-30,Low,1.0,1,0.4084828684576009,10.96,-36.92,0.7849444851327406,High risk: prioritize dispatch and monitor closely
+D121,F5,P156,2026-04-14,Low,1.0,1,0.402578483150706,10.900000000000002,-36.800000000000004,0.7805652650520785,High risk: prioritize dispatch and monitor closely
+D866,F1,P159,2026-04-17,Low,0.9975461538461539,1,0.41189917376349466,11.330000000000002,-37.660000000000004,0.7789556048768651,High risk: prioritize dispatch and monitor closely
+D44,F5,P126,2026-04-15,Low,1.0,1,0.4584891899816322,13.18,-41.36,0.7785196932861568,High risk: prioritize dispatch and monitor closely
+D98,F5,P9,2026-04-13,Low,1.0,1,0.46167197418795164,13.489999999999998,-41.98,0.7738224571569399,High risk: prioritize dispatch and monitor closely
+D918,F1,P62,2026-04-21,Low,1.0,1,0.4431659673695929,12.87,-40.739999999999995,0.7710764910096539,High risk: prioritize dispatch and monitor closely
+D915,F1,P151,2026-04-28,Low,1.0,1,0.4054353585082138,11.419999999999998,-37.839999999999996,0.7702040417822351,High risk: prioritize dispatch and monitor closely
+D1023,F1,P159,2026-04-16,Low,1.0,1,0.4237860957160709,12.150000000000002,-39.300000000000004,0.769998602070926,High risk: prioritize dispatch and monitor closely
+D352,F3,P75,2026-04-23,Low,1.0,1,0.45658216816018976,13.57,-42.14,0.7666990974942008,High risk: prioritize dispatch and monitor closely
+D1170,F5,P95,2026-04-22,Low,1.0,1,0.4798436540180682,14.489999999999998,-43.98,0.7665747165498424,High risk: prioritize dispatch and monitor closely
+D28,F1,P166,2026-04-01,Low,1.0,1,0.40422441343472126,11.519999999999996,-38.03999999999999,0.7664511546650212,High risk: prioritize dispatch and monitor closely
+D974,F4,P166,2026-04-02,Low,1.0,1,0.49544700632799893,15.110000000000003,-45.220000000000006,0.7664180281887003,High risk: prioritize dispatch and monitor closely
+D271,F1,P62,2026-04-03,Low,1.0,1,0.39181041657662247,11.049999999999999,-37.099999999999994,0.765984285412413,High risk: prioritize dispatch and monitor closely
+D314,F3,P46,2026-04-15,Low,1.0,1,0.4631052935188841,13.870000000000001,-42.74,0.765596396721731,High risk: prioritize dispatch and monitor closely
+D841,F1,P50,2026-04-17,Low,1.0,1,0.40571149669017365,11.629999999999999,-38.26,0.7651421016723801,High risk: prioritize dispatch and monitor closely
+D1198,F5,P182,2026-04-23,Low,1.0,1,0.4510395931383486,13.43,-41.86,0.7647152413335697,High risk: prioritize dispatch and monitor closely
+D234,F1,P190,2026-04-27,Low,1.0,1,0.5023881681674877,15.489999999999998,-45.98,0.7636998102620478,High risk: prioritize dispatch and monitor closely
+D967,F4,P78,2026-04-02,Low,1.0,1,0.4920585790946134,15.11,-45.22,0.7630296009553149,High risk: prioritize dispatch and monitor closely
+D68,F1,P99,2026-04-27,Low,1.0,1,0.512185705703805,15.920000000000002,-46.84,0.762566997010363,High risk: prioritize dispatch and monitor closely
+D43,F1,P199,2026-04-07,Medium,1.0,1,0.615227637415243,21.529999999999998,-55.059999999999995,0.7611351107248515,High risk: prioritize dispatch and monitor closely
+D213,F1,P10,2026-04-23,Low,1.0,1,0.46620497642529063,14.200000000000003,-43.400000000000006,0.7603076708838568,High risk: prioritize dispatch and monitor closely
+D484,F5,P93,2026-04-15,Medium,1.0,1,0.5979678465979795,20.909999999999997,-53.81999999999999,0.7596353605786608,High risk: prioritize dispatch and monitor closely
+D211,F5,P9,2026-04-01,Low,1.0,1,0.40006138696120497,11.64,-38.28,0.7592377977390392,High risk: prioritize dispatch and monitor closely
+D588,F4,P38,2026-04-02,Low,1.0,1,0.4980095329945301,15.580000000000002,-46.160000000000004,0.757033427249741,High risk: prioritize dispatch and monitor closely
+D1020,F4,P159,2026-04-30,Low,1.0,1,0.40849099540044814,12.09,-39.18,0.756228666981536,High risk: prioritize dispatch and monitor closely
+D434,F3,P86,2026-04-25,Low,0.6664371173376006,1,0.19975797012541252,3.880000000000001,-22.76,0.7561890834960275,High risk: prioritize dispatch and monitor closely
+D624,F5,P143,2026-04-04,Low,1.0,1,0.5245499705398322,16.7,-48.4,0.7551041139053634,High risk: prioritize dispatch and monitor closely
+D753,F1,P10,2026-04-01,Low,1.0,1,0.4038871453065594,11.96,-38.92,0.7549293415444851,High risk: prioritize dispatch and monitor closely
+D532,F5,P9,2026-04-17,Low,1.0,1,0.410814708864334,12.309999999999999,-39.62,0.7529601079492348,High risk: prioritize dispatch and monitor closely
+D398,F5,P162,2026-04-23,Low,1.0,1,0.46249756668514963,14.350000000000001,-43.7,0.7527873480781337,High risk: prioritize dispatch and monitor closely
+D341,F3,P41,2026-04-26,Low,1.0,1,0.41548151217604057,12.530000000000001,-40.06,0.7520346387647543,High risk: prioritize dispatch and monitor closely
+D340,F4,P111,2026-04-06,Medium,1.0,1,0.5752882265957827,20.32,-52.64,0.7519531986344201,High risk: prioritize dispatch and monitor closely
+D168,F4,P50,2026-04-03,Low,1.0,1,0.38861144869836406,11.49,-37.980000000000004,0.7516007725417804,High risk: prioritize dispatch and monitor closely
+D960,F1,P151,2026-04-18,Low,1.0,1,0.40516210518631063,12.23,-39.46,0.7493410579061885,High risk: prioritize dispatch and monitor closely
+D401,F3,P26,2026-04-22,Low,1.0,1,0.4858398140375729,15.440000000000001,-45.88,0.7484224271539938,High risk: prioritize dispatch and monitor closely
+D931,F5,P116,2026-04-30,Low,1.0,1,0.42015519012199876,12.91,-40.82,0.7470489369445712,High risk: prioritize dispatch and monitor closely
+D1174,F3,P200,2026-04-07,Low,1.0,1,0.48567147008148975,15.489999999999998,-45.98,0.74698311217605,High risk: prioritize dispatch and monitor closely
+D288,F4,P121,2026-04-16,Medium,1.0,1,0.5572579257004265,19.84,-51.68,0.7461242195489267,High risk: prioritize dispatch and monitor closely
+D1070,F4,P24,2026-04-18,Low,1.0,1,0.41300816057142614,12.720000000000002,-40.440000000000005,0.7447315972770692,High risk: prioritize dispatch and monitor closely
+D194,F4,P9,2026-04-19,Low,1.0,1,0.4065560134818074,12.599999999999998,-40.199999999999996,0.7413297806399162,High risk: prioritize dispatch and monitor closely
+D987,F1,P159,2026-04-15,Low,1.0,1,0.4701427180906958,15.139999999999997,-45.279999999999994,0.7403511573382809,High risk: prioritize dispatch and monitor closely
+D898,F3,P99,2026-04-01,Low,1.0,1,0.40247661278862934,12.559999999999999,-40.12,0.7382671567642267,High risk: prioritize dispatch and monitor closely
+D461,F4,P10,2026-04-29,Low,1.0,1,0.384206302444178,11.93,-38.86,0.7360110812952201,High risk: prioritize dispatch and monitor closely
+D515,F1,P104,2026-04-21,Low,1.0,1,0.44467656287133006,14.45,-43.9,0.7324244022205928,High risk: prioritize dispatch and monitor closely
+D542,F3,P133,2026-04-13,Low,1.0,1,0.4611696275332045,15.120000000000001,-45.24,0.7318864551895339,High risk: prioritize dispatch and monitor closely
+D245,F4,P141,2026-04-13,Medium,1.0,1,0.5910300472898026,21.819999999999997,-55.63999999999999,0.7295658886726191,High risk: prioritize dispatch and monitor closely
+D968,F3,P66,2026-04-11,Low,1.0,1,0.39744814571545817,12.780000000000001,-40.56,0.7276464171948683,High risk: prioritize dispatch and monitor closely
+D908,F1,P152,2026-04-23,Low,1.0,1,0.4631634680646982,15.379999999999999,-45.76,0.727271246407352,High risk: prioritize dispatch and monitor closely
+D832,F4,P61,2026-04-21,Low,1.0,1,0.44448304004477934,14.73,-44.46,0.7251134416716222,High risk: prioritize dispatch and monitor closely
+D1193,F1,P166,2026-04-13,Low,1.0,1,0.465835000661468,15.769999999999996,-46.53999999999999,0.7200292050336083,High risk: prioritize dispatch and monitor closely
+D354,F4,P8,2026-04-06,Low,1.0,1,0.4425026153480939,14.869999999999997,-44.739999999999995,0.7195742981137268,High risk: prioritize dispatch and monitor closely
+D281,F4,P151,2026-04-18,Low,1.0,1,0.4124265762239181,13.7,-42.4,0.7192389809010914,High risk: prioritize dispatch and monitor closely
+D772,F3,P40,2026-04-23,Low,1.0,1,0.4616117299147967,15.640000000000004,-46.28000000000001,0.7191104589437747,High risk: prioritize dispatch and monitor closely
+D713,F5,P42,2026-04-09,Low,1.0,1,0.4333592587193531,14.739999999999998,-44.48,0.7137354661418238,High risk: prioritize dispatch and monitor closely
+D388,F1,P44,2026-04-02,Medium,1.0,1,0.6266209432222877,23.88,-59.76,0.7127927785044432,High risk: prioritize dispatch and monitor closely
+D1022,F5,P98,2026-04-09,Low,1.0,1,0.43972417877055286,15.059999999999999,-45.12,0.7119661716531152,High risk: prioritize dispatch and monitor closely
+D1138,F3,P124,2026-04-08,Low,1.0,1,0.4892762078252967,17.15,-49.3,0.7083916119940816,High risk: prioritize dispatch and monitor closely
+D269,F1,P166,2026-04-27,Low,1.0,1,0.5116772638419224,18.1,-51.2,0.7066442185953539,High risk: prioritize dispatch and monitor closely
+D1006,F5,P42,2026-04-13,Low,1.0,1,0.45547670406868873,16.02,-47.04,0.7033160533315255,High risk: prioritize dispatch and monitor closely
+D594,F1,P156,2026-04-08,Low,1.0,1,0.5043968929265787,18.11,-51.22,0.6991096534756381,High risk: prioritize dispatch and monitor closely
+D418,F1,P100,2026-04-30,Low,1.0,1,0.41535724623853915,14.959999999999997,-44.919999999999995,0.6901411811648228,High risk: prioritize dispatch and monitor closely
+D272,F5,P24,2026-04-21,Low,1.0,1,0.45112833962421006,16.63,-48.26,0.6834618424203462,High risk: prioritize dispatch and monitor closely
+D1156,F1,P66,2026-04-02,Low,1.0,1,0.5036877263751351,18.89,-52.78,0.6785733389831676,High risk: prioritize dispatch and monitor closely
+D182,F3,P149,2026-04-23,Low,1.0,1,0.46030887938959303,17.35,-49.7,0.674340399470935,High risk: prioritize dispatch and monitor closely
+D417,F1,P185,2026-04-04,Low,1.0,1,0.53140707856722,20.24,-55.48,0.6719764735850136,High risk: prioritize dispatch and monitor closely
+D893,F4,P66,2026-04-07,Low,1.0,1,0.48568924776896816,18.74,-52.48,0.6643877734425827,High risk: prioritize dispatch and monitor closely
+D969,F5,P9,2026-04-09,Low,1.0,1,0.439554528838616,17.169999999999998,-49.339999999999996,0.6581615445986566,High risk: prioritize dispatch and monitor closely
+D18,F5,P169,2026-04-21,Low,1.0,1,0.4504517716321744,18.789999999999996,-52.57999999999999,0.6278793262839284,High risk: prioritize dispatch and monitor closely
+D689,F4,P24,2026-04-15,Low,1.0,1,0.47077712756671114,19.610000000000003,-54.220000000000006,0.6273607574599493,High risk: prioritize dispatch and monitor closely
+D844,F4,P156,2026-04-21,Low,1.0,1,0.4539468649904304,18.98,-52.96,0.6265447297591136,High risk: prioritize dispatch and monitor closely
+D827,F1,P10,2026-04-07,Low,1.0,1,0.4929034333477081,21.009999999999998,-57.019999999999996,0.6138998746288469,High risk: prioritize dispatch and monitor closely
+D803,F3,P133,2026-04-22,Low,1.0,1,0.4824833866416486,21.3,-57.6,0.5961081959959952,High risk: prioritize dispatch and monitor closely
+D755,F3,P26,2026-04-27,Low,1.0,1,0.5103683181095832,23.099999999999998,-61.199999999999996,0.5782381706769446,High risk: prioritize dispatch and monitor closely
+D1046,F5,P112,2026-04-04,Low,1.0,1,0.5379421564842846,25.77,-66.53999999999999,0.5379421564842846,High risk: prioritize dispatch and monitor closely
